@@ -1,0 +1,181 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     122.5,
+     43.75
+    ],
+    [
+     237.5,
+     88.0
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.ztrip.refresh.gui.FontedTextView",
+   "text": "Register an account",
+   "label": "text_view",
+   "points": [
+    [
+     116.0,
+     110.75
+    ],
+    [
+     252.75,
+     128.75
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     12.25,
+     110.75
+    ],
+    [
+     29.0,
+     134.5
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.ztrip.refresh.gui.FontedEditText",
+   "text": "MOBILE NUMBER (minimum 10 characters)",
+   "label": "phone_number",
+   "points": [
+    [
+     8.75,
+     152.0
+    ],
+    [
+     351.25,
+     194.0
+    ]
+   ],
+   "group_id": 21,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.ztrip.refresh.gui.FontedTextView",
+   "text": "We would like to send you a text to verify your phone",
+   "label": "text_view",
+   "points": [
+    [
+     19.25,
+     202.75
+    ],
+    [
+     351.25,
+     218.75
+    ]
+   ],
+   "group_id": 21,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.ztrip.refresh.gui.FontedTextView",
+   "text": "Text me trip status",
+   "label": "text_view",
+   "points": [
+    [
+     128.75,
+     253.75
+    ],
+    [
+     212.75,
+     271.25
+    ]
+   ],
+   "group_id": 22,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.CompoundButton",
+   "class": "android.widget.CheckBox",
+   "text": "",
+   "label": "check_box",
+   "points": [
+    [
+     217.25,
+     255.5
+    ],
+    [
+     231.25,
+     269.5
+    ]
+   ],
+   "group_id": 22,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.ztrip.refresh.gui.FontedButton",
+   "text": "Register account",
+   "label": "tb_sign_up",
+   "points": [
+    [
+     0.0,
+     554.25
+    ],
+    [
+     360.0,
+     598.0
+    ]
+   ],
+   "group_id": 995,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "15103.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

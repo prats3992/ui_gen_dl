@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": true,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Language",
+      "label": "text_button",
+      "points": [
+        [
+          285.0,
+          38.5
+        ],
+        [
+          346.0,
+          57.5
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.alipay.mobile.commonui.widget.APImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          149.25,
+          78.0
+        ],
+        [
+          210.5,
+          139.25
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Account",
+      "label": "text_view",
+      "points": [
+        [
+          16.75,
+          177.0
+        ],
+        [
+          68.5,
+          196.0
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.alipay.mobile.commonui.widget.APEditText",
+      "class": "com.alipay.mobile.commonui.widget.keyboard.APSafeEditText",
+      "text": "Phone/Email/Username",
+      "label": "username",
+      "points": [
+        [
+          91.0,
+          177.0
+        ],
+        [
+          341.6666666666667,
+          195.66666666666666
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Password",
+      "label": "text_view",
+      "points": [
+        [
+          16.75,
+          219.0
+        ],
+        [
+          78.5,
+          238.0
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          313.75,
+          213.5
+        ],
+        [
+          343.25,
+          243.25
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.alipay.mobile.commonui.widget.APEditText",
+      "class": "com.alipay.mobile.commonui.widget.keyboard.APSafeEditText",
+      "text": "Login Password",
+      "label": "password",
+      "points": [
+        [
+          91.0,
+          219.0
+        ],
+        [
+          343.0,
+          237.66666666666666
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Sign Up",
+      "label": "sign_up",
+      "points": [
+        [
+          14.0,
+          267.0
+        ],
+        [
+          173.75,
+          309.0
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Can't Login?",
+      "label": "text_button",
+      "points": [
+        [
+          133.75,
+          545.75
+        ],
+        [
+          226.25,
+          598.0
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "log_in",
+      "points": [
+        [
+          185.66666666666666,
+          267.0
+        ],
+        [
+          345.6666666666667,
+          309.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "14302.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

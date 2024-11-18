@@ -1,0 +1,289 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.CompoundButton",
+      "class": "android.widget.ToggleButton",
+      "text": "I'm a Male",
+      "label": "button",
+      "points": [
+        [
+          10.5,
+          78.0
+        ],
+        [
+          163.25,
+          120.0
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.CompoundButton",
+      "class": "android.widget.ToggleButton",
+      "text": "  I'm a Female",
+      "label": "button",
+      "points": [
+        [
+          163.25,
+          78.0
+        ],
+        [
+          349.5,
+          120.0
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Email Address (private)",
+      "label": "text_view",
+      "points": [
+        [
+          10.5,
+          128.75
+        ],
+        [
+          349.5,
+          147.75
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Birthday",
+      "label": "text_view",
+      "points": [
+        [
+          10.5,
+          198.5
+        ],
+        [
+          349.5,
+          217.5
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "1/1/80",
+      "label": "date_picker",
+      "points": [
+        [
+          10.5,
+          217.5
+        ],
+        [
+          349.5,
+          248.25
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Country",
+      "label": "text_view",
+      "points": [
+        [
+          10.5,
+          257.0
+        ],
+        [
+          349.5,
+          276.0
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "United States",
+      "label": "country",
+      "points": [
+        [
+          10.5,
+          276.0
+        ],
+        [
+          349.5,
+          306.75
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "City",
+      "label": "text_view",
+      "points": [
+        [
+          10.5,
+          315.5
+        ],
+        [
+          349.5,
+          334.5
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "California",
+      "label": "city",
+      "points": [
+        [
+          10.5,
+          334.5
+        ],
+        [
+          349.5,
+          365.25
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          28.0
+        ],
+        [
+          28.0,
+          56.0
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Signup",
+      "label": "text_view",
+      "points": [
+        [
+          28.5,
+          31.25
+        ],
+        [
+          76.5,
+          52.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.android.internal.view.menu.ActionMenuItemView",
+      "text": "Continue",
+      "label": "text_button",
+      "points": [
+        [
+          287.5,
+          21.0
+        ],
+        [
+          360.0,
+          63.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gender_picker",
+      "points": [
+        [
+          9.0,
+          75.66666666666667
+        ],
+        [
+          353.0,
+          122.33333333333333
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "email",
+      "points": [
+        [
+          11.0,
+          149.0
+        ],
+        [
+          350.3333333333333,
+          181.66666666666666
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "10209.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

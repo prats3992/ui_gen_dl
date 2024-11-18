@@ -1,0 +1,188 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     105.5,
+     84.0
+    ],
+    [
+     254.25,
+     178.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "alliantmobile.droid.views.FontEditText",
+   "class": "alliantmobile.droid.views.MaxWidthEditText",
+   "text": "Username",
+   "label": "username",
+   "points": [
+    [
+     51.25,
+     220.5
+    ],
+    [
+     308.5,
+     283.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "alliantmobile.droid.views.FontEditText",
+   "class": "alliantmobile.droid.views.MaxWidthEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     51.25,
+     283.5
+    ],
+    [
+     308.5,
+     346.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatButton",
+   "class": "alliantmobile.droid.views.FontButton",
+   "text": "Trouble Logging In?",
+   "label": "text_button",
+   "points": [
+    [
+     119.0,
+     416.5
+    ],
+    [
+     240.75,
+     458.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatButton",
+   "class": "alliantmobile.droid.views.FontButton",
+   "text": "Enroll",
+   "label": "text_button",
+   "points": [
+    [
+     73.58333333333334,
+     563.6666666666667
+    ],
+    [
+     108.58333333333334,
+     591.6666666666667
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatButton",
+   "class": "alliantmobile.droid.views.FontButton",
+   "text": "Become a Member",
+   "label": "tb_sign_up",
+   "points": [
+    [
+     123.5,
+     563.0
+    ],
+    [
+     238.0,
+     591.0
+    ]
+   ],
+   "group_id": 995,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatButton",
+   "class": "alliantmobile.droid.views.FontButton",
+   "text": "Legal",
+   "label": "text_button",
+   "points": [
+    [
+     252.25,
+     563.0
+    ],
+    [
+     285.5,
+     591.0
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "log_in",
+   "points": [
+    [
+     67.0,
+     366.3333333333333
+    ],
+    [
+     292.3333333333333,
+     409.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "separator_line",
+   "points": [
+    [
+     0.33333333333333304,
+     555.6666666666666
+    ],
+    [
+     359,
+     558
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "12270.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

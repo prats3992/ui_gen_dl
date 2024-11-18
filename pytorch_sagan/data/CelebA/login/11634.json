@@ -1,0 +1,139 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     26.25,
+     70.0
+    ],
+    [
+     333.75,
+     168.5
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.qliqsoft.widget.QliqEditText",
+   "text": "Email or Mobile Number",
+   "label": "email",
+   "points": [
+    [
+     26.25,
+     195.75
+    ],
+    [
+     333.75,
+     230.25
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.qliqsoft.widget.QliqEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     26.25,
+     239.0
+    ],
+    [
+     333.75,
+     273.5
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Login",
+   "label": "log_in",
+   "points": [
+    [
+     26.25,
+     300.0
+    ],
+    [
+     333.75,
+     342.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Create Account",
+   "label": "tb_sign_up",
+   "points": [
+    [
+     31.5,
+     350.75
+    ],
+    [
+     116.0,
+     377.75
+    ]
+   ],
+   "group_id": 995,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Forgot Password?",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     116.0,
+     350.75
+    ],
+    [
+     328.5,
+     377.75
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "11634.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

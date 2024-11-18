@@ -1,0 +1,201 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": true,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          148.5,
+          128.25
+        ],
+        [
+          211.5,
+          191.25
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "Email",
+      "label": "email",
+      "points": [
+        [
+          22.0,
+          222.75
+        ],
+        [
+          338.0,
+          241.75
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          22.0,
+          245.25
+        ],
+        [
+          338.0,
+          247.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "Password",
+      "label": "password",
+      "points": [
+        [
+          22.0,
+          282.0
+        ],
+        [
+          338.0,
+          301.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          22.0,
+          304.5
+        ],
+        [
+          338.0,
+          306.25
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          22.0,
+          332.5
+        ],
+        [
+          78.0,
+          388.5
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "There is no Hudl account using that email.",
+      "label": "text_view",
+      "points": [
+        [
+          78.0,
+          341.0
+        ],
+        [
+          338.0,
+          380.0
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Need Help Logging In?",
+      "label": "text_button",
+      "points": [
+        [
+          119.0,
+          483.0
+        ],
+        [
+          241.0,
+          499.5
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "log_in",
+      "points": [
+        [
+          21.666666666666668,
+          414.3333333333333
+        ],
+        [
+          337.6666666666667,
+          457.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "140.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

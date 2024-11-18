@@ -1,0 +1,1083 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          14.0,
+          29.75
+        ],
+        [
+          45.5,
+          61.25
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          63.0,
+          35.0
+        ],
+        [
+          84.0,
+          56.0
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "Find anything for your home",
+      "label": "search_bar",
+      "points": [
+        [
+          85.75,
+          35.75
+        ],
+        [
+          276.75,
+          55.0
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          321.5,
+          21.0
+        ],
+        [
+          360.0,
+          70.0
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "Beds",
+      "label": "text_view",
+      "points": [
+        [
+          8.0,
+          121.75
+        ],
+        [
+          43.5,
+          143.0
+        ]
+      ],
+      "group_id": 46,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.wayfair.wayfair.views.AspectRatioImageView",
+      "class": "com.wayfair.wayfair.views.NetworkAspectRatioImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.75,
+          152.75
+        ],
+        [
+          105.75,
+          257.75
+        ]
+      ],
+      "group_id": 50,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          76.0,
+          156.25
+        ],
+        [
+          102.25,
+          182.5
+        ]
+      ],
+      "group_id": 50,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "Sale",
+      "label": "text_view",
+      "points": [
+        [
+          0.75,
+          152.75
+        ],
+        [
+          42.5,
+          172.0
+        ]
+      ],
+      "group_id": 49,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "Upholstered Platform Bed",
+      "label": "text_view",
+      "points": [
+        [
+          112.75,
+          159.75
+        ],
+        [
+          352.25,
+          183.5
+        ]
+      ],
+      "group_id": 51,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "by OrthoTherapy",
+      "label": "text_view",
+      "points": [
+        [
+          112.75,
+          183.5
+        ],
+        [
+          352.25,
+          204.75
+        ]
+      ],
+      "group_id": 51,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "$164.52",
+      "label": "price",
+      "points": [
+        [
+          112.75,
+          204.75
+        ],
+        [
+          166.25,
+          226.0
+        ]
+      ],
+      "group_id": 52,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "$219.90",
+      "label": "price_s",
+      "points": [
+        [
+          173.25,
+          208.5
+        ],
+        [
+          215.0,
+          225.25
+        ]
+      ],
+      "group_id": 52,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.RatingBar",
+      "class": "android.support.v7.widget.AppCompatRatingBar",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          112.75,
+          228.25
+        ],
+        [
+          174.0,
+          240.5
+        ]
+      ],
+      "group_id": 53,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "(1183)",
+      "label": "text_view",
+      "points": [
+        [
+          174.0,
+          226.0
+        ],
+        [
+          211.25,
+          242.75
+        ]
+      ],
+      "group_id": 53,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "FREE 1-Day Shipping",
+      "label": "text_view",
+      "points": [
+        [
+          112.75,
+          242.75
+        ],
+        [
+          352.25,
+          262.0
+        ]
+      ],
+      "group_id": 51,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "Available in more options",
+      "label": "text_view",
+      "points": [
+        [
+          112.75,
+          262.0
+        ],
+        [
+          352.25,
+          281.25
+        ]
+      ],
+      "group_id": 51,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.wayfair.wayfair.views.AspectRatioImageView",
+      "class": "com.wayfair.wayfair.views.NetworkAspectRatioImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.75,
+          291.75
+        ],
+        [
+          105.75,
+          396.75
+        ]
+      ],
+      "group_id": 57,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          76.0,
+          295.9166666666667
+        ],
+        [
+          102.25,
+          322.1666666666667
+        ]
+      ],
+      "group_id": 57,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "Sale",
+      "label": "text_view",
+      "points": [
+        [
+          0.75,
+          291.75
+        ],
+        [
+          42.5,
+          311.0
+        ]
+      ],
+      "group_id": 56,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "Upholstered Platform Bed",
+      "label": "text_view",
+      "points": [
+        [
+          112.75,
+          298.75
+        ],
+        [
+          352.25,
+          322.5
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "by OrthoTherapy",
+      "label": "text_view",
+      "points": [
+        [
+          112.75,
+          322.5
+        ],
+        [
+          352.25,
+          343.75
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "$169.99",
+      "label": "price",
+      "points": [
+        [
+          112.75,
+          343.75
+        ],
+        [
+          165.75,
+          365.0
+        ]
+      ],
+      "group_id": 59,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "$211.90",
+      "label": "price_s",
+      "points": [
+        [
+          172.75,
+          347.5
+        ],
+        [
+          211.75,
+          364.25
+        ]
+      ],
+      "group_id": 59,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.RatingBar",
+      "class": "android.support.v7.widget.AppCompatRatingBar",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          112.75,
+          367.25
+        ],
+        [
+          174.0,
+          379.5
+        ]
+      ],
+      "group_id": 60,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "(1613)",
+      "label": "text_view",
+      "points": [
+        [
+          174.0,
+          365.0
+        ],
+        [
+          211.0,
+          381.75
+        ]
+      ],
+      "group_id": 60,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "FREE 1-Day Shipping",
+      "label": "text_view",
+      "points": [
+        [
+          112.75,
+          381.75
+        ],
+        [
+          352.25,
+          401.0
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "Available in more options",
+      "label": "text_view",
+      "points": [
+        [
+          112.75,
+          401.0
+        ],
+        [
+          352.25,
+          420.25
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.wayfair.wayfair.views.AspectRatioImageView",
+      "class": "com.wayfair.wayfair.views.NetworkAspectRatioImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.75,
+          430.75
+        ],
+        [
+          105.75,
+          535.75
+        ]
+      ],
+      "group_id": 64,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          76.0,
+          434.25
+        ],
+        [
+          102.25,
+          460.5
+        ]
+      ],
+      "group_id": 64,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "Sale",
+      "label": "text_view",
+      "points": [
+        [
+          0.75,
+          430.75
+        ],
+        [
+          42.5,
+          450.0
+        ]
+      ],
+      "group_id": 63,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "Gabriel Upholstered Panel Bed",
+      "label": "text_view",
+      "points": [
+        [
+          112.75,
+          437.75
+        ],
+        [
+          352.25,
+          479.0
+        ]
+      ],
+      "group_id": 65,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "by Mulhouse Furniture",
+      "label": "text_view",
+      "points": [
+        [
+          112.75,
+          479.0
+        ],
+        [
+          352.25,
+          500.25
+        ]
+      ],
+      "group_id": 65,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "$248.99",
+      "label": "price",
+      "points": [
+        [
+          112.75,
+          500.25
+        ],
+        [
+          169.5,
+          521.5
+        ]
+      ],
+      "group_id": 66,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "$999.98",
+      "label": "price_s",
+      "points": [
+        [
+          176.5,
+          504.0
+        ],
+        [
+          220.75,
+          520.75
+        ]
+      ],
+      "group_id": 66,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.RatingBar",
+      "class": "android.support.v7.widget.AppCompatRatingBar",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          112.75,
+          523.75
+        ],
+        [
+          174.0,
+          536.0
+        ]
+      ],
+      "group_id": 67,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "(322)",
+      "label": "text_view",
+      "points": [
+        [
+          174.0,
+          521.5
+        ],
+        [
+          209.5,
+          538.25
+        ]
+      ],
+      "group_id": 67,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "FREE Shipping",
+      "label": "text_view",
+      "points": [
+        [
+          112.75,
+          538.25
+        ],
+        [
+          352.25,
+          545.25
+        ]
+      ],
+      "group_id": 65,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "4907 items",
+      "label": "text_view",
+      "points": [
+        [
+          7.0,
+          83.0
+        ],
+        [
+          247.25,
+          102.25
+        ]
+      ],
+      "group_id": 82,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "Refine",
+      "label": "filter_button",
+      "points": [
+        [
+          294.75,
+          83.0
+        ],
+        [
+          353.0,
+          102.25
+        ]
+      ],
+      "group_id": 82,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.wayfair.wayfair.util.WFTextView",
+      "text": "View",
+      "label": "text_button",
+      "points": [
+        [
+          247.25,
+          83.0
+        ],
+        [
+          294.75,
+          102.25
+        ]
+      ],
+      "group_id": 82,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          360.0,
+          73.5
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "navigation_bar",
+      "points": [
+        [
+          0.0,
+          545.25
+        ],
+        [
+          360.0,
+          598.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          34.75,
+          554.0
+        ],
+        [
+          57.5,
+          575.0
+        ]
+      ],
+      "group_id": 133,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Home",
+      "label": "text_view",
+      "points": [
+        [
+          33.75,
+          576.0
+        ],
+        [
+          58.25,
+          588.25
+        ]
+      ],
+      "group_id": 133,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          124.75,
+          552.25
+        ],
+        [
+          145.75,
+          573.25
+        ]
+      ],
+      "group_id": 134,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Shop",
+      "label": "text_view",
+      "points": [
+        [
+          123.0,
+          573.25
+        ],
+        [
+          147.5,
+          587.5
+        ]
+      ],
+      "group_id": 134,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "wish_list",
+      "points": [
+        [
+          214.0,
+          554.0
+        ],
+        [
+          235.0,
+          575.0
+        ]
+      ],
+      "group_id": 135,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "My Boards",
+      "label": "text_view",
+      "points": [
+        [
+          202.25,
+          576.0
+        ],
+        [
+          247.0,
+          588.25
+        ]
+      ],
+      "group_id": 135,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          303.25,
+          554.0
+        ],
+        [
+          324.25,
+          575.0
+        ]
+      ],
+      "group_id": 136,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Account",
+      "label": "text_view",
+      "points": [
+        [
+          297.25,
+          576.0
+        ],
+        [
+          330.5,
+          588.25
+        ]
+      ],
+      "group_id": 136,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          0.6666666666666661,
+          151.66666666666666
+        ],
+        [
+          359,
+          287
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          -0.6666666666666625,
+          291.00000000000006
+        ],
+        [
+          357.6666666666667,
+          426.33333333333337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          8.881784197001252e-15,
+          429.6666666666667
+        ],
+        [
+          359.0,
+          545.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2099.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

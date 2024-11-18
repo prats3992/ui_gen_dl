@@ -1,0 +1,213 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.EditText",
+      "text": "Email address",
+      "label": "email",
+      "points": [
+        [
+          5.25,
+          225.5
+        ],
+        [
+          347.75,
+          260.0
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.EditText",
+      "text": "Password",
+      "label": "password",
+      "points": [
+        [
+          5.25,
+          260.0
+        ],
+        [
+          347.75,
+          294.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.CompoundButton",
+      "class": "android.widget.CheckBox",
+      "text": "Show password",
+      "label": "check_box",
+      "points": [
+        [
+          5.25,
+          294.5
+        ],
+        [
+          347.75,
+          322.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          5.25,
+          336.5
+        ],
+        [
+          33.25,
+          364.5
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Advanced options",
+      "label": "text_button",
+      "points": [
+        [
+          42.0,
+          342.25
+        ],
+        [
+          140.25,
+          358.75
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          555.0
+        ],
+        [
+          360.0,
+          556.0
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          10.0,
+          28.0
+        ],
+        [
+          39.0,
+          56.0
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Set up a new account",
+      "label": "text_view",
+      "points": [
+        [
+          42.5,
+          32.5
+        ],
+        [
+          175.5,
+          51.5
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          0.0,
+          556.0
+        ],
+        [
+          179.0,
+          598.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          179.66666666666666,
+          557.0
+        ],
+        [
+          359.0,
+          600.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "14912.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

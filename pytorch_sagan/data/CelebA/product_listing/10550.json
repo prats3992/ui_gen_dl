@@ -1,0 +1,390 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.n",
+      "text": "",
+      "label": "menu_dashs",
+      "points": [
+        [
+          0.6666666666666679,
+          20.333333333333336
+        ],
+        [
+          49.66666666666667,
+          69.33333333333334
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.aa",
+      "text": "Used Cars in Mumbai ",
+      "label": "text_view",
+      "points": [
+        [
+          63.0,
+          33.75
+        ],
+        [
+          235.0,
+          57.0
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.p",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          278.0,
+          32.25
+        ],
+        [
+          304.25,
+          58.5
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.aa",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "label": "menu_dots_dashs",
+      "points": [
+        [
+          311.0,
+          24.5
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.p",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          77.66666666666669
+        ],
+        [
+          360.0,
+          287.6666666666667
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.p",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          329.25,
+          77.0
+        ],
+        [
+          355.5,
+          103.25
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.p",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          83.25
+        ],
+        [
+          61.25,
+          109.5
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.carwale.carwale.utils.CarwaleTextView",
+      "text": "Rolls-Royce Phantom Coupe 6.8 L",
+      "label": "text_view",
+      "points": [
+        [
+          7.416666666666686,
+          287.6666666666667
+        ],
+        [
+          358.6666666666667,
+          315.9166666666667
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.carwale.carwale.utils.CarwaleTextView",
+      "text": " 2,80,00,000",
+      "label": "price",
+      "points": [
+        [
+          8.75,
+          319.75
+        ],
+        [
+          183.75,
+          343.25
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.carwale.carwale.utils.CarwaleTextView",
+      "text": "18,300 Kms  | Petrol | 2009",
+      "label": "text_view",
+      "points": [
+        [
+          8.75,
+          345.25
+        ],
+        [
+          183.66666666666666,
+          367.0
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.carwale.carwale.utils.CarwaleTextView",
+      "text": "IDC, Gurgaon",
+      "label": "text_view",
+      "points": [
+        [
+          8.75,
+          368.0
+        ],
+        [
+          183.75,
+          382.25
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.carwale.carwale.utils.CarwaleTextView",
+      "text": "Delivery available in Mumbai",
+      "label": "text_view",
+      "points": [
+        [
+          9.416666666666686,
+          391.0
+        ],
+        [
+          185.66666666666666,
+          407.0
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "android.support.v7.widget.h",
+      "text": "Get Seller Details",
+      "label": "select_button",
+      "points": [
+        [
+          8.75,
+          414.0
+        ],
+        [
+          192.5,
+          456.0
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.p",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          464.5
+        ],
+        [
+          360.0,
+          598.0
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.p",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          329.25,
+          464.5
+        ],
+        [
+          355.5,
+          490.75
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.p",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          470.75
+        ],
+        [
+          61.25,
+          497.0
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.design.widget.af",
+      "class": "android.support.design.widget.FloatingActionButton",
+      "text": "",
+      "label": "filter_button",
+      "points": [
+        [
+          302.25,
+          540.25
+        ],
+        [
+          351.25,
+          589.25
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          0.0,
+          74.0
+        ],
+        [
+          359.0,
+          461.0
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          0.0,
+          463.0
+        ],
+        [
+          359.0,
+          599.0
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "10550.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

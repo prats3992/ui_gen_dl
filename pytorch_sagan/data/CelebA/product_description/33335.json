@@ -1,0 +1,583 @@
+{
+ "version": "4.5.6",
+ "flags": {
+  "done": true,
+  "review": false,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": true,
+  "splash": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     360.0,
+     381.0
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "28%",
+   "label": "image_view",
+   "points": [
+    [
+     330.6666666666667,
+     23.0
+    ],
+    [
+     359.0,
+     55.0
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.banggood.client.widget.MTextView",
+   "text": "Loading...",
+   "label": "text_view",
+   "points": [
+    [
+     8.75,
+     381.0
+    ],
+    [
+     346.75,
+     424.75
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.AbsSeekBar",
+   "class": "android.widget.RatingBar",
+   "text": "",
+   "label": "rating_bar",
+   "points": [
+    [
+     8.75,
+     426.25
+    ],
+    [
+     70.0,
+     438.5
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "1 reviews",
+   "label": "text_button",
+   "points": [
+    [
+     83.25,
+     424.75
+    ],
+    [
+     131.5,
+     440.25
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Home and Garden",
+   "label": "text_view",
+   "points": [
+    [
+     8.75,
+     442.0
+    ],
+    [
+     93.25,
+     456.25
+    ]
+   ],
+   "group_id": 21,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": ">",
+   "label": "text_view",
+   "points": [
+    [
+     97.75,
+     440.25
+    ],
+    [
+     104.25,
+     456.75
+    ]
+   ],
+   "group_id": 21,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Bathroom",
+   "label": "text_view",
+   "points": [
+    [
+     108.75,
+     442.0
+    ],
+    [
+     155.0,
+     456.25
+    ]
+   ],
+   "group_id": 22,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": ">",
+   "label": "text_view",
+   "points": [
+    [
+     159.5,
+     440.25
+    ],
+    [
+     166.0,
+     456.75
+    ]
+   ],
+   "group_id": 22,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "1128717",
+   "label": "text_view",
+   "points": [
+    [
+     170.5,
+     441.25
+    ],
+    [
+     212.5,
+     455.5
+    ]
+   ],
+   "group_id": 23,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     0.0,
+     465.75
+    ],
+    [
+     360.0,
+     466.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "heart_icon_button",
+   "points": [
+    [
+     50.0,
+     470.5
+    ],
+    [
+     104.66666666666667,
+     495.6666666666667
+    ]
+   ],
+   "group_id": 26,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line_v",
+   "points": [
+    [
+     154.5,
+     470.5
+    ],
+    [
+     155.0,
+     496.75
+    ]
+   ],
+   "group_id": 24,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "fb_button",
+   "points": [
+    [
+     163.75,
+     470.5
+    ],
+    [
+     190.0,
+     496.75
+    ]
+   ],
+   "group_id": 27,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "whatsapp_button",
+   "points": [
+    [
+     198.75,
+     470.5
+    ],
+    [
+     225.0,
+     496.75
+    ]
+   ],
+   "group_id": 27,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "email_button",
+   "points": [
+    [
+     233.75,
+     470.5
+    ],
+    [
+     260.0,
+     496.75
+    ]
+   ],
+   "group_id": 27,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     268.75,
+     470.5
+    ],
+    [
+     295.0,
+     496.75
+    ]
+   ],
+   "group_id": 27,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     0.0,
+     501.25
+    ],
+    [
+     360.0,
+     501.5
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Price:",
+   "label": "text_view",
+   "points": [
+    [
+     13.25,
+     511.5
+    ],
+    [
+     83.25,
+     528.0
+    ]
+   ],
+   "group_id": 30,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "US$14.99",
+   "label": "price",
+   "points": [
+    [
+     83.25,
+     510.25
+    ],
+    [
+     143.0,
+     529.25
+    ]
+   ],
+   "group_id": 30,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": " (US$20.88) ",
+   "label": "price_s",
+   "points": [
+    [
+     148.25,
+     511.5
+    ],
+    [
+     216.25,
+     528.0
+    ]
+   ],
+   "group_id": 30,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     0.0,
+     538.0
+    ],
+    [
+     360.0,
+     538.25
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     0.0,
+     554.0
+    ],
+    [
+     360.0,
+     554.25
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     4.5,
+     561.25
+    ],
+    [
+     35.25,
+     592.0
+    ]
+   ],
+   "group_id": 84,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "",
+   "label": "menu_dashs",
+   "points": [
+    [
+     39.75,
+     563.5
+    ],
+    [
+     66.0,
+     589.75
+    ]
+   ],
+   "group_id": 84,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Add To Cart",
+   "label": "cart_add",
+   "points": [
+    [
+     74.66666666666667,
+     563.0
+    ],
+    [
+     298.0,
+     589.6666666666666
+    ]
+   ],
+   "group_id": 86,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "cart_icon_button",
+   "points": [
+    [
+     306.5,
+     557.25
+    ],
+    [
+     346.75,
+     597.5
+    ]
+   ],
+   "group_id": 88,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "",
+   "class": "",
+   "text": "",
+   "label": "navigation_dots",
+   "points": [
+    [
+     134.25,
+     373.0
+    ],
+    [
+     225.75,
+     376.5
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": false
+   }
+  }
+ ],
+ "imagePath": "33335.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

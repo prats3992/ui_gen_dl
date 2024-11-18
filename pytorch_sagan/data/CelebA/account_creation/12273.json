@@ -1,0 +1,285 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Your Profile",
+   "label": "text_view",
+   "points": [
+    [
+     14.0,
+     33.75
+    ],
+    [
+     106.0,
+     57.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "com.facebook.q",
+   "class": "com.hellow.ui.FacebookLoginButton",
+   "text": "Import profile from Facebook",
+   "label": "fb_button",
+   "points": [
+    [
+     14.0,
+     78.75
+    ],
+    [
+     346.0,
+     118.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "com.hellow.ui.common.RoundedImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     140.5,
+     136.0
+    ],
+    [
+     219.25,
+     214.75
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "First name",
+   "label": "name",
+   "points": [
+    [
+     14.0,
+     232.25
+    ],
+    [
+     175.5,
+     274.25
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "Last name",
+   "label": "last_name",
+   "points": [
+    [
+     184.5,
+     232.25
+    ],
+    [
+     346.0,
+     274.25
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "com.hellow.ui.common.RoundedImageView",
+   "text": "",
+   "label": "image_button",
+   "points": [
+    [
+     104.5,
+     291.75
+    ],
+    [
+     144.75,
+     332.0
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "or",
+   "label": "text_view",
+   "points": [
+    [
+     158.75,
+     291.75
+    ],
+    [
+     171.5,
+     333.75
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "com.hellow.ui.common.RoundedImageView",
+   "text": "",
+   "label": "image_button",
+   "points": [
+    [
+     185.5,
+     291.75
+    ],
+    [
+     225.75,
+     332.0
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "I accept Holaa! terms of service.",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     105.0,
+     444.0
+    ],
+    [
+     255.0,
+     458.25
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Done",
+   "label": "sign_up",
+   "points": [
+    [
+     8.75,
+     547.25
+    ],
+    [
+     351.25,
+     589.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     17.666666666666664,
+     303.0
+    ],
+    [
+     71.0,
+     323.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "email",
+   "points": [
+    [
+     16.333333333333336,
+     353.6666666666667
+    ],
+    [
+     343.6666666666667,
+     379.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "phone_button",
+   "points": [
+    [
+     16.333333333333336,
+     404.3333333333333
+    ],
+    [
+     343.6666666666667,
+     429.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "gender_picker",
+   "points": [
+    [
+     102.33333333333333,
+     289.0
+    ],
+    [
+     227.66666666666666,
+     333.6666666666667
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "12273.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

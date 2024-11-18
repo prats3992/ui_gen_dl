@@ -1,0 +1,504 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "yelik Formu",
+      "label": "text_view",
+      "points": [
+        [
+          80.5,
+          33.75
+        ],
+        [
+          183.0,
+          57.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          49.0,
+          31.5
+        ],
+        [
+          77.0,
+          59.5
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.dmall.mfandroid.widget.HelveticaButton",
+      "text": "Zaten yeyim",
+      "label": "tab_bar_button",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          180.0,
+          113.75
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.dmall.mfandroid.widget.HelveticaButton",
+      "text": "cretsiz ye Ol",
+      "label": "tab_bar_button",
+      "points": [
+        [
+          180.0,
+          70.0
+        ],
+        [
+          360.0,
+          113.75
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          264.0,
+          113.75
+        ],
+        [
+          275.75,
+          116.75
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          14.0,
+          148.75
+        ],
+        [
+          346.0,
+          149.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "E-Posta",
+      "label": "email",
+      "points": [
+        [
+          14.0,
+          149.25
+        ],
+        [
+          346.0,
+          192.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          14.0,
+          192.25
+        ],
+        [
+          346.0,
+          192.75
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "ifre",
+      "label": "password",
+      "points": [
+        [
+          14.0,
+          192.75
+        ],
+        [
+          347.6666666666667,
+          237.66666666666666
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.dmall.mfandroid.widget.HelveticaTextView",
+      "text": "Gster",
+      "label": "text_button",
+      "points": [
+        [
+          300.25,
+          203.5
+        ],
+        [
+          346.0,
+          224.75
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          14.0,
+          235.75
+        ],
+        [
+          346.0,
+          236.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.dmall.mfandroid.widget.HelveticaButton",
+      "text": "Erkek",
+      "label": "button",
+      "points": [
+        [
+          15.0,
+          247.75
+        ],
+        [
+          179.5,
+          287.25
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.dmall.mfandroid.widget.HelveticaButton",
+      "text": "Kadn",
+      "label": "button",
+      "points": [
+        [
+          180.5,
+          247.75
+        ],
+        [
+          345.0,
+          287.25
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.CheckBox",
+      "class": "android.support.v7.widget.AppCompatCheckBox",
+      "text": "",
+      "label": "check_box",
+      "points": [
+        [
+          14.0,
+          306.25
+        ],
+        [
+          34.25,
+          326.5
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.dmall.mfandroid.widget.HelveticaTextView",
+      "text": "yelik Szlemesi artlarn okudum ve kabul ediyorum.",
+      "label": "text_view",
+      "points": [
+        [
+          43.0,
+          298.75
+        ],
+        [
+          346.0,
+          334.0
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.CheckBox",
+      "class": "android.support.v7.widget.AppCompatCheckBox",
+      "text": "",
+      "label": "check_box",
+      "points": [
+        [
+          14.0,
+          352.25
+        ],
+        [
+          34.25,
+          372.5
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.dmall.mfandroid.widget.HelveticaTextView",
+      "text": "Tarafmla pazarlama ve tantm amal iletiime geilmesine izin veriyorum.  ",
+      "label": "text_view",
+      "points": [
+        [
+          43.0,
+          344.5
+        ],
+        [
+          346.0,
+          380.25
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.dmall.mfandroid.widget.HelveticaButton",
+      "text": "ye Ol",
+      "label": "sign_up",
+      "points": [
+        [
+          14.0,
+          397.75
+        ],
+        [
+          346.0,
+          441.5
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          84.0,
+          458.0
+        ],
+        [
+          160.75,
+          458.5
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.dmall.mfandroid.widget.HelveticaTextView",
+      "text": "veya",
+      "label": "text_view",
+      "points": [
+        [
+          160.75,
+          450.25
+        ],
+        [
+          199.0,
+          466.5
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          199.0,
+          458.0
+        ],
+        [
+          275.75,
+          458.5
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.facebook.widget.LoginButton",
+      "text": "Facebook ile ye Ol",
+      "label": "fb_button",
+      "points": [
+        [
+          14.0,
+          475.25
+        ],
+        [
+          346.0,
+          519.0
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tab_bar",
+      "points": [
+        [
+          0.33333333333333304,
+          69.66666666666667
+        ],
+        [
+          359.0,
+          117.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "13235.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

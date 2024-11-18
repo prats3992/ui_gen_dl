@@ -1,0 +1,598 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": true,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "Filter",
+   "label": "filter_button",
+   "points": [
+    [
+     44.0,
+     70.0
+    ],
+    [
+     110.75,
+     112.0
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "Sort",
+   "label": "sort",
+   "points": [
+    [
+     205.75,
+     70.0
+    ],
+    [
+     259.0,
+     112.0
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line_v",
+   "points": [
+    [
+     310.0,
+     70.0
+    ],
+    [
+     311.0,
+     112.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "menu_dots_dashs",
+   "points": [
+    [
+     311.0,
+     70.0
+    ],
+    [
+     360.0,
+     112.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_button",
+   "points": [
+    [
+     0.0,
+     119.0
+    ],
+    [
+     360.0,
+     218.75
+    ]
+   ],
+   "group_id": 22,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "Early Deals",
+   "label": "text_view",
+   "points": [
+    [
+     10.5,
+     226.0
+    ],
+    [
+     360.0,
+     266.75
+    ]
+   ],
+   "group_id": 25,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     7.0,
+     269.0
+    ],
+    [
+     129.5,
+     409.0
+    ]
+   ],
+   "group_id": 29,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "Bavin PC-207 10000mah Power Bank (Light Pink)",
+   "label": "text_view",
+   "points": [
+    [
+     14.0,
+     410.0
+    ],
+    [
+     122.5,
+     441.0
+    ]
+   ],
+   "group_id": 29,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "998.00",
+   "label": "price",
+   "points": [
+    [
+     14.0,
+     444.5
+    ],
+    [
+     64.25,
+     461.0
+    ]
+   ],
+   "group_id": 29,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "2,888.00",
+   "label": "price_s",
+   "points": [
+    [
+     14.0,
+     461.0
+    ],
+    [
+     65.0,
+     475.25
+    ]
+   ],
+   "group_id": 29,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "-65%",
+   "label": "discount",
+   "points": [
+    [
+     69.5,
+     461.0
+    ],
+    [
+     93.5,
+     475.25
+    ]
+   ],
+   "group_id": 29,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     136.5,
+     269.0
+    ],
+    [
+     259.0,
+     409.0
+    ]
+   ],
+   "group_id": 33,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "Kingslong KLB1310551-BK Canvas Backpack for School or Travel Rucksack Fits up to 15.6\" Laptop (Black)(Black)",
+   "label": "text_view",
+   "points": [
+    [
+     143.5,
+     410.0
+    ],
+    [
+     252.0,
+     441.0
+    ]
+   ],
+   "group_id": 33,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "999.00",
+   "label": "price",
+   "points": [
+    [
+     143.5,
+     444.5
+    ],
+    [
+     193.75,
+     461.0
+    ]
+   ],
+   "group_id": 33,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "1,599.00",
+   "label": "price_s",
+   "points": [
+    [
+     143.5,
+     461.0
+    ],
+    [
+     194.5,
+     475.25
+    ]
+   ],
+   "group_id": 33,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "-38%",
+   "label": "discount",
+   "points": [
+    [
+     199.0,
+     461.0
+    ],
+    [
+     223.0,
+     475.25
+    ]
+   ],
+   "group_id": 33,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     266.0,
+     269.0
+    ],
+    [
+     360.0,
+     409.0
+    ]
+   ],
+   "group_id": 37,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "Slique SLQ-02-12-PK Cutlery 12-piece Set (Pink)",
+   "label": "text_view",
+   "points": [
+    [
+     273.0,
+     410.0
+    ],
+    [
+     360.0,
+     441.0
+    ]
+   ],
+   "group_id": 37,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "399.00",
+   "label": "price",
+   "points": [
+    [
+     273.0,
+     444.5
+    ],
+    [
+     323.25,
+     461.0
+    ]
+   ],
+   "group_id": 37,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "479.00",
+   "label": "price_s",
+   "points": [
+    [
+     273.0,
+     461.0
+    ],
+    [
+     315.75,
+     475.25
+    ]
+   ],
+   "group_id": 37,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.lazada.customviews.FontTextView",
+   "text": "-17%",
+   "label": "discount",
+   "points": [
+    [
+     320.25,
+     461.0
+    ],
+    [
+     344.25,
+     475.25
+    ]
+   ],
+   "group_id": 37,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_button",
+   "points": [
+    [
+     0.0,
+     495.5
+    ],
+    [
+     360.0,
+     595.25
+    ]
+   ],
+   "group_id": 40,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "search_button",
+   "points": [
+    [
+     237.5,
+     28.0
+    ],
+    [
+     272.5,
+     63.0
+    ]
+   ],
+   "group_id": 52,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "cart_icon_button",
+   "points": [
+    [
+     279.5,
+     28.0
+    ],
+    [
+     314.5,
+     63.0
+    ]
+   ],
+   "group_id": 53,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "menu_dots",
+   "points": [
+    [
+     321.5,
+     28.0
+    ],
+    [
+     356.5,
+     63.0
+    ]
+   ],
+   "group_id": 54,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.widget.ImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     49.0,
+     70.0
+    ]
+   ],
+   "group_id": 50,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Catalogue",
+   "label": "text_view",
+   "points": [
+    [
+     52.5,
+     34.75
+    ],
+    [
+     126.25,
+     56.0
+    ]
+   ],
+   "group_id": 50,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "label": "card",
+   "points": [
+    [
+     5.666666666666668,
+     267.6666666666667
+    ],
+    [
+     130.33333333333334,
+     491.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "card",
+   "points": [
+    [
+     135.66666666666666,
+     269.0
+    ],
+    [
+     259.6666666666667,
+     491.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "card_partial",
+   "points": [
+    [
+     266.3333333333333,
+     269.0
+    ],
+    [
+     359,
+     491
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "14720.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

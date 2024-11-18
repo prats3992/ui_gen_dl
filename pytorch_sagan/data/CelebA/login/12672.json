@@ -1,0 +1,162 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "com.hyvee.android.ui.misc.BlurredImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     360.0,
+     78.75
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Please enter your email address.",
+   "label": "text_view",
+   "points": [
+    [
+     54.0,
+     106.75
+    ],
+    [
+     306.0,
+     130.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "If you have a HyVee account, you'll be asked for your password.",
+   "label": "text_view",
+   "points": [
+    [
+     28.0,
+     147.5
+    ],
+    [
+     332.0,
+     176.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "If you don't have a HyVee account, let's get you set up with one.",
+   "label": "text_view",
+   "points": [
+    [
+     28.0,
+     194.0
+    ],
+    [
+     332.0,
+     223.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatEditText",
+   "class": "android.support.design.widget.TextInputEditText",
+   "text": "* Email Address",
+   "label": "email",
+   "points": [
+    [
+     28.0,
+     246.5
+    ],
+    [
+     332.0,
+     279.5
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign In",
+   "label": "log_in",
+   "points": [
+    [
+     134.25,
+     307.5
+    ],
+    [
+     225.5,
+     352.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Cancel",
+   "label": "text_button",
+   "points": [
+    [
+     141.5,
+     355.5
+    ],
+    [
+     218.5,
+     397.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "12672.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

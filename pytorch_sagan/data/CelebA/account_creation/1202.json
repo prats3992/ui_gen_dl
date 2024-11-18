@@ -1,0 +1,237 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Create Your Account",
+      "label": "text_view",
+      "points": [
+        [
+          92.25,
+          135.5
+        ],
+        [
+          267.5,
+          161.25
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          62.75,
+          170.0
+        ],
+        [
+          297.25,
+          170.25
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "You're one step away from the best insider info and thousands of Black Friday Ads!",
+      "label": "text_view",
+      "points": [
+        [
+          62.75,
+          179.0
+        ],
+        [
+          297.25,
+          209.75
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "Username",
+      "label": "username",
+      "points": [
+        [
+          62.75,
+          218.5
+        ],
+        [
+          297.25,
+          258.0
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "Email Address",
+      "label": "email",
+      "points": [
+        [
+          62.75,
+          271.25
+        ],
+        [
+          297.25,
+          310.75
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "Password",
+      "label": "password",
+      "points": [
+        [
+          62.75,
+          319.5
+        ],
+        [
+          297.25,
+          359.0
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "HIDE PASSWORD",
+      "label": "text_button",
+      "points": [
+        [
+          203.0,
+          367.75
+        ],
+        [
+          297.25,
+          384.25
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.CheckBox",
+      "class": "android.support.v7.widget.AppCompatCheckBox",
+      "text": "Subscribe to the DealNews Select Newsletter",
+      "label": "check_box",
+      "points": [
+        [
+          62.75,
+          393.0
+        ],
+        [
+          297.25,
+          423.75
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign In",
+      "label": "log_in",
+      "points": [
+        [
+          62.75,
+          441.25
+        ],
+        [
+          175.5,
+          483.25
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Create Account",
+      "label": "sign_up",
+      "points": [
+        [
+          184.5,
+          441.25
+        ],
+        [
+          297.25,
+          483.25
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "box_outline",
+      "points": [
+        [
+          52.33333333333333,
+          125.66666666666667
+        ],
+        [
+          306.3333333333333,
+          493.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1202.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

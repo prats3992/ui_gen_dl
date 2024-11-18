@@ -1,0 +1,143 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.widget.ImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     49.0,
+     70.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Log in",
+   "label": "text_view",
+   "points": [
+    [
+     63.0,
+     33.75
+    ],
+    [
+     111.0,
+     57.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatEditText",
+   "class": "com.rengwuxian.materialedittext.MaterialEditText",
+   "text": "Phone number or e-mail",
+   "label": "email",
+   "points": [
+    [
+     42.0,
+     112.0
+    ],
+    [
+     318.0,
+     174.75
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatEditText",
+   "class": "com.rengwuxian.materialedittext.MaterialEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     42.0,
+     174.75
+    ],
+    [
+     318.0,
+     237.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Log in",
+   "label": "log_in",
+   "points": [
+    [
+     42.0,
+     260.25
+    ],
+    [
+     318.0,
+     302.25
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Forgot password?",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     42.0,
+     306.75
+    ],
+    [
+     318.0,
+     353.5
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "15301.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

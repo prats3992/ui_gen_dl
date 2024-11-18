@@ -1,0 +1,281 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     14.0,
+     146.5
+    ],
+    [
+     346.0,
+     315.5
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+   "text": "Hello.",
+   "label": "text_view",
+   "points": [
+    [
+     141.0,
+     179.0
+    ],
+    [
+     219.0,
+     221.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+   "text": "Discover tours for your destination \n & book them in advance.",
+   "label": "text_view",
+   "points": [
+    [
+     14.0,
+     221.0
+    ],
+    [
+     346.0,
+     258.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     81.5,
+     348.25
+    ],
+    [
+     107.75,
+     374.5
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+   "text": "Continue with Facebook",
+   "label": "fb_button",
+   "points": [
+    [
+     57.66666666666667,
+     342.3333333333333
+    ],
+    [
+     302.3333333333333,
+     380.3333333333333
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     57.5,
+     398.75
+    ],
+    [
+     302.5,
+     399.25
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+   "text": "OR",
+   "label": "text_view",
+   "points": [
+    [
+     164.25,
+     392.4166666666667
+    ],
+    [
+     195.75,
+     406.6666666666667
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     97.25,
+     423.25
+    ],
+    [
+     123.5,
+     449.5
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+   "text": "Sign up using email",
+   "label": "email_button",
+   "points": [
+    [
+     57.66666666666667,
+     416.3333333333333
+    ],
+    [
+     301.0,
+     455.6666666666667
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+   "text": "Creating an account means you acknowledge and agree to the Terms of Use and Privacy Policy.",
+   "label": "text_view",
+   "points": [
+    [
+     57.5,
+     469.5
+    ],
+    [
+     302.5,
+     515.0
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+   "text": "Already have an account?",
+   "label": "text_view",
+   "points": [
+    [
+     95.75,
+     556.75
+    ],
+    [
+     226.25,
+     572.25
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+   "text": "Log in",
+   "label": "text_button",
+   "points": [
+    [
+     230.75,
+     556.75
+    ],
+    [
+     261.5,
+     572.25
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "box_outline",
+   "points": [
+    [
+     13.0,
+     145.66666666666666
+    ],
+    [
+     346.3333333333333,
+     585.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "13147.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

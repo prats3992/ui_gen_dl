@@ -1,0 +1,423 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Sign up",
+      "label": "text_view",
+      "points": [
+        [
+          98.0,
+          33.75
+        ],
+        [
+          333.75,
+          57.0
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Gender",
+      "label": "text_view",
+      "points": [
+        [
+          12.5,
+          109.75
+        ],
+        [
+          146.5,
+          131.0
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Male",
+      "label": "text_view",
+      "points": [
+        [
+          146.5,
+          111.0
+        ],
+        [
+          305.5,
+          130.0
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "28",
+      "label": "age",
+      "points": [
+        [
+          4.5,
+          154.5
+        ],
+        [
+          355.5,
+          203.5
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Religion",
+      "label": "text_view",
+      "points": [
+        [
+          12.5,
+          226.0
+        ],
+        [
+          146.5,
+          247.25
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Muslim",
+      "label": "text_view",
+      "points": [
+        [
+          146.5,
+          227.25
+        ],
+        [
+          305.5,
+          246.25
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Marital Status",
+      "label": "text_view",
+      "points": [
+        [
+          12.5,
+          283.75
+        ],
+        [
+          146.5,
+          305.0
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Never Married",
+      "label": "text_view",
+      "points": [
+        [
+          146.5,
+          285.0
+        ],
+        [
+          305.5,
+          304.0
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "label": "address",
+      "points": [
+        [
+          4.5,
+          328.5
+        ],
+        [
+          355.5,
+          377.5
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Education Level",
+      "label": "text_view",
+      "points": [
+        [
+          12.5,
+          400.0
+        ],
+        [
+          146.5,
+          421.25
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "University",
+      "label": "text_view",
+      "points": [
+        [
+          146.5,
+          401.25
+        ],
+        [
+          305.5,
+          420.25
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Work Field",
+      "label": "text_view",
+      "points": [
+        [
+          12.5,
+          457.75
+        ],
+        [
+          146.5,
+          479.0
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Choose",
+      "label": "text_view",
+      "points": [
+        [
+          146.5,
+          459.0
+        ],
+        [
+          305.5,
+          478.0
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "label": "edit_text",
+      "points": [
+        [
+          4.5,
+          502.5
+        ],
+        [
+          355.5,
+          551.5
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign up",
+      "label": "sign_up",
+      "points": [
+        [
+          4.5,
+          551.5
+        ],
+        [
+          355.5,
+          593.5
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "gender_drop_down",
+      "points": [
+        [
+          6.333333333333336,
+          97.66666666666667
+        ],
+        [
+          354.3333333333333,
+          142.33333333333334
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "drop_down_list",
+      "points": [
+        [
+          6.333333333333336,
+          214.33333333333334
+        ],
+        [
+          354.3333333333333,
+          260.3333333333333
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "drop_down_list",
+      "points": [
+        [
+          6.333333333333336,
+          388.3333333333333
+        ],
+        [
+          353.6666666666667,
+          434.3333333333333
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "drop_down_list",
+      "points": [
+        [
+          6.333333333333336,
+          446.3333333333333
+        ],
+        [
+          354.3333333333333,
+          491.0
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "drop_down_list",
+      "points": [
+        [
+          5.666666666666668,
+          272.3333333333333
+        ],
+        [
+          353.0,
+          315.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "11134.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

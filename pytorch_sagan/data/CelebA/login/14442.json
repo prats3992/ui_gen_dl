@@ -1,0 +1,360 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     14.0,
+     22.75
+    ],
+    [
+     47.0,
+     57.75
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "KP Preventive Care",
+   "label": "text_view",
+   "points": [
+    [
+     47.0,
+     22.75
+    ],
+    [
+     312.75,
+     57.75
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     312.75,
+     26.25
+    ],
+    [
+     346.0,
+     54.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     63.0
+    ],
+    [
+     360.0,
+     360.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "For members in Northern California",
+   "label": "text_view",
+   "points": [
+    [
+     28.0,
+     250.25
+    ],
+    [
+     332.0,
+     273.75
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "User ID",
+   "label": "username",
+   "points": [
+    [
+     28.0,
+     273.75
+    ],
+    [
+     332.0,
+     310.25
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     295.0,
+     281.25
+    ],
+    [
+     318.0,
+     302.5
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     28.0,
+     310.25
+    ],
+    [
+     332.0,
+     346.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     295.0,
+     317.75
+    ],
+    [
+     318.0,
+     339.0
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Remember User ID",
+   "label": "text_view",
+   "points": [
+    [
+     28.0,
+     350.25
+    ],
+    [
+     145.5,
+     366.75
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.CompoundButton",
+   "class": "android.widget.Switch",
+   "text": "",
+   "label": "toggle",
+   "points": [
+    [
+     276.5,
+     346.75
+    ],
+    [
+     318.0,
+     370.5
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Sign In help",
+   "label": "text_button",
+   "points": [
+    [
+     28.0,
+     373.25
+    ],
+    [
+     106.5,
+     389.75
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "Sign In",
+   "label": "log_in",
+   "points": [
+    [
+     28.0,
+     392.5
+    ],
+    [
+     332.0,
+     431.25
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Video Visit Temporary Access",
+   "label": "text_view",
+   "points": [
+    [
+     63.0,
+     438.0
+    ],
+    [
+     332.0,
+     459.25
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     28.0,
+     431.25
+    ],
+    [
+     63.0,
+     466.25
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "By signing in, you agree to our",
+   "label": "text_view",
+   "points": [
+    [
+     28.0,
+     483.75
+    ],
+    [
+     332.0,
+     498.0
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Terms & Conditions and Privacy Statement",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     28.0,
+     498.0
+    ],
+    [
+     332.0,
+     512.25
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "14442.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

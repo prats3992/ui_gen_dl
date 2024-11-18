@@ -1,0 +1,137 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": false,
+    "splash": true,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          1.75,
+          22.75
+        ],
+        [
+          40.5,
+          61.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Be an active part of your favorite fandom!\n\nContribute, edit, chat and upvote with your Fandom Account.",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          110.75
+        ],
+        [
+          360.0,
+          219.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Connect with Facebook",
+      "label": "fb_button",
+      "points": [
+        [
+          30.75,
+          362.0
+        ],
+        [
+          329.25,
+          404.0
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign up with Email",
+      "label": "sign_up",
+      "points": [
+        [
+          30.75,
+          412.75
+        ],
+        [
+          329.25,
+          454.75
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Already have an account?  SIGN IN",
+      "label": "text_button",
+      "points": [
+        [
+          85.5,
+          463.5
+        ],
+        [
+          274.5,
+          492.5
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.wikia.commons.view.MaskImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          158.0,
+          287.5
+        ],
+        [
+          201.75,
+          331.25
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "11037.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

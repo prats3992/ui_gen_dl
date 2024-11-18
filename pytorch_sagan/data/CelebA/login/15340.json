@@ -1,0 +1,307 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     12.25,
+     79.5
+    ],
+    [
+     347.75,
+     148.75
+    ]
+   ],
+   "group_id": 22,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.amuniversal.android.gocomics.customview.GocomicsTextView",
+   "text": "Sign in with your GoComics.com account.",
+   "label": "text_view",
+   "points": [
+    [
+     71.0,
+     148.75
+    ],
+    [
+     288.75,
+     187.0
+    ]
+   ],
+   "group_id": 23,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.amuniversal.android.gocomics.customview.GocomicsEditText",
+   "text": "Username",
+   "label": "username",
+   "points": [
+    [
+     61.75,
+     187.0
+    ],
+    [
+     298.0,
+     224.0
+    ]
+   ],
+   "group_id": 24,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.amuniversal.android.gocomics.customview.GocomicsTextView",
+   "text": "Forgot Username?",
+   "label": "tb_forgot_username",
+   "points": [
+    [
+     61.75,
+     227.5
+    ],
+    [
+     167.0,
+     253.5
+    ]
+   ],
+   "group_id": 981,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.amuniversal.android.gocomics.customview.GocomicsEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     61.75,
+     253.5
+    ],
+    [
+     298.0,
+     290.5
+    ]
+   ],
+   "group_id": 25,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.amuniversal.android.gocomics.customview.GocomicsTextView",
+   "text": "Forgot Password?",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     61.75,
+     294.0
+    ],
+    [
+     163.75,
+     320.0
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.amuniversal.android.gocomics.customview.GocomicsButton",
+   "text": "Sign In",
+   "label": "log_in",
+   "points": [
+    [
+     103.25,
+     332.25
+    ],
+    [
+     256.5,
+     374.25
+    ]
+   ],
+   "group_id": 23,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     427.0
+    ],
+    [
+     360.0,
+     429.75
+    ]
+   ],
+   "group_id": 26,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.amuniversal.android.gocomics.customview.GocomicsTextView",
+   "text": "Not a GoComics member yet?",
+   "label": "text_view",
+   "points": [
+    [
+     101.0,
+     474.0
+    ],
+    [
+     258.75,
+     487.75
+    ]
+   ],
+   "group_id": 27,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.amuniversal.android.gocomics.customview.GocomicsButton",
+   "text": "Join Free",
+   "label": "sign_up",
+   "points": [
+    [
+     101.0,
+     500.0
+    ],
+    [
+     254.25,
+     542.0
+    ]
+   ],
+   "group_id": 27,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     35.0
+    ],
+    [
+     14.0,
+     49.0
+    ]
+   ],
+   "group_id": 31,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     10.75,
+     28.0
+    ],
+    [
+     38.75,
+     56.0
+    ]
+   ],
+   "group_id": 31,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Sign In",
+   "label": "text_view",
+   "points": [
+    [
+     42.25,
+     33.25
+    ],
+    [
+     87.75,
+     50.75
+    ]
+   ],
+   "group_id": 32,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageButton",
+   "class": "android.widget.ActionMenuPresenter$OverflowMenuButton",
+   "text": "",
+   "label": "menu_dots",
+   "points": [
+    [
+     311.0,
+     21.0
+    ],
+    [
+     360.0,
+     63.0
+    ]
+   ],
+   "group_id": 33,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "15340.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

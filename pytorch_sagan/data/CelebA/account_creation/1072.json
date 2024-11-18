@@ -1,0 +1,412 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "fb_button",
+   "points": [
+    [
+     14.0,
+     84.0
+    ],
+    [
+     346.0,
+     127.75
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     14.0,
+     157.5
+    ],
+    [
+     165.25,
+     158.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.careem.acma.activity.FontTextView",
+   "text": "or",
+   "label": "text_view",
+   "points": [
+    [
+     165.25,
+     141.75
+    ],
+    [
+     194.5,
+     174.25
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     194.5,
+     157.5
+    ],
+    [
+     346.0,
+     158.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     14.0,
+     185.5
+    ],
+    [
+     35.0,
+     206.5
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.careem.acma.activity.FontEditTextView",
+   "text": "",
+   "label": "name",
+   "points": [
+    [
+     49.0,
+     182.5
+    ],
+    [
+     346.0,
+     213.5
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     14.0,
+     238.0
+    ],
+    [
+     35.0,
+     259.0
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.careem.acma.activity.FontEditTextView",
+   "text": "",
+   "label": "email",
+   "points": [
+    [
+     49.0,
+     235.0
+    ],
+    [
+     346.0,
+     266.0
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     14.0,
+     290.5
+    ],
+    [
+     35.0,
+     311.5
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.careem.acma.activity.FontEditTextView",
+   "text": "",
+   "label": "password",
+   "points": [
+    [
+     49.0,
+     287.5
+    ],
+    [
+     346.0,
+     318.5
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     14.0,
+     343.0
+    ],
+    [
+     35.0,
+     364.0
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.careem.acma.activity.FontEditTextView",
+   "text": "+971",
+   "label": "edit_text",
+   "points": [
+    [
+     49.0,
+     338.75
+    ],
+    [
+     73.25,
+     371.0
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "drop_down_list",
+   "points": [
+    [
+     46.33333333333333,
+     336.3333333333333
+    ],
+    [
+     97.75,
+     372.25
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.careem.acma.activity.FontEditTextView",
+   "text": "",
+   "label": "phone_number",
+   "points": [
+    [
+     104.75,
+     340.0
+    ],
+    [
+     346.0,
+     371.0
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     14.0,
+     395.5
+    ],
+    [
+     35.0,
+     416.5
+    ]
+   ],
+   "group_id": 19,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.careem.acma.activity.FontEditTextView",
+   "text": "",
+   "label": "edit_text",
+   "points": [
+    [
+     49.0,
+     392.5
+    ],
+    [
+     346.0,
+     423.5
+    ]
+   ],
+   "group_id": 20,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.careem.acma.activity.FontTextView",
+   "text": "By signing up with Careem you agree to our terms and conditions",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     70.5,
+     554.25
+    ],
+    [
+     289.25,
+     584.0
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     36.0,
+     70.0
+    ]
+   ],
+   "group_id": 23,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.careem.acma.activity.FontTextView",
+   "text": "SIGN UP",
+   "label": "text_view",
+   "points": [
+    [
+     36.0,
+     35.5
+    ],
+    [
+     332.0,
+     55.25
+    ]
+   ],
+   "group_id": 23,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "label": "tb_sign_up",
+   "points": [
+    [
+     13.666666666666664,
+     502.3333333333333
+    ],
+    [
+     345.6666666666667,
+     545.6666666666666
+    ]
+   ],
+   "group_id": 995,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "1072.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

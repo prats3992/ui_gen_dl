@@ -1,0 +1,164 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     22.0
+    ],
+    [
+     360.0,
+     97.25
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     40.0,
+     229.5
+    ],
+    [
+     320.0,
+     382.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.mapmyfitness.android.ui.widget.TextView",
+   "text": "Join The Movement",
+   "label": "text_view",
+   "points": [
+    [
+     0.0,
+     396.75
+    ],
+    [
+     360.0,
+     427.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.mapmyfitness.android.ui.widget.TextView",
+   "text": "Ready to discover your path? Sign up today to start tracking your routes, distance, speed, calories burned and more.",
+   "label": "text_view",
+   "points": [
+    [
+     14.0,
+     441.75
+    ],
+    [
+     346.0,
+     478.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "com.viewpagerindicator.CirclePageIndicator",
+   "text": "",
+   "label": "navigation_dots",
+   "points": [
+    [
+     0.0,
+     492.75
+    ],
+    [
+     360.0,
+     507.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.mapmyfitness.android.ui.widget.Button",
+   "text": "Existing Users",
+   "label": "button",
+   "points": [
+    [
+     14.0,
+     528.0
+    ],
+    [
+     173.0,
+     570.0
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.mapmyfitness.android.ui.widget.Button",
+   "text": "Join Now",
+   "label": "button",
+   "points": [
+    [
+     187.66666666666669,
+     528.6666666666666
+    ],
+    [
+     346.6666666666667,
+     570.6666666666666
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "10741.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

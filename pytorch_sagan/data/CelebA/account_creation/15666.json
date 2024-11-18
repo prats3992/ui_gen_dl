@@ -1,0 +1,329 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.AutoCompleteTextView",
+   "class": "android.support.v7.widget.AppCompatAutoCompleteTextView",
+   "text": "appcrawler1@gmail.com",
+   "label": "email",
+   "points": [
+    [
+     28.0,
+     49.75
+    ],
+    [
+     332.0,
+     79.5
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatEditText",
+   "class": "com.holosfind.showroom.widget.PasswordView",
+   "text": "",
+   "label": "password",
+   "points": [
+    [
+     28.0,
+     97.0
+    ],
+    [
+     332.0,
+     126.75
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.RadioButton",
+   "class": "android.support.v7.widget.AppCompatRadioButton",
+   "text": "Ms",
+   "label": "radio_button",
+   "points": [
+    [
+     26.25,
+     133.0
+    ],
+    [
+     69.0,
+     161.0
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.RadioButton",
+   "class": "android.support.v7.widget.AppCompatRadioButton",
+   "text": "Mr",
+   "label": "radio_button",
+   "points": [
+    [
+     73.5,
+     133.0
+    ],
+    [
+     114.25,
+     161.0
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatEditText",
+   "class": "android.support.design.widget.TextInputEditText",
+   "text": "Lee",
+   "label": "last_name",
+   "points": [
+    [
+     28.0,
+     176.75
+    ],
+    [
+     332.0,
+     206.5
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatEditText",
+   "class": "android.support.design.widget.TextInputEditText",
+   "text": "Laura",
+   "label": "name",
+   "points": [
+    [
+     28.0,
+     224.0
+    ],
+    [
+     332.0,
+     253.75
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "United Kingdom",
+   "label": "text_view",
+   "points": [
+    [
+     33.5,
+     270.25
+    ],
+    [
+     108.0,
+     284.5
+    ]
+   ],
+   "group_id": 19,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     312.75,
+     267.0
+    ],
+    [
+     333.75,
+     288.0
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatEditText",
+   "class": "android.support.design.widget.TextInputEditText",
+   "text": "",
+   "label": "email",
+   "points": [
+    [
+     28.0,
+     310.75
+    ],
+    [
+     332.0,
+     340.5
+    ]
+   ],
+   "group_id": 20,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "I accept the terms and conditions",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     26.25,
+     355.5
+    ],
+    [
+     185.25,
+     373.25
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign Up",
+   "label": "sign_up",
+   "points": [
+    [
+     26.25,
+     386.5
+    ],
+    [
+     333.75,
+     428.5
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "or",
+   "label": "text_view",
+   "points": [
+    [
+     26.25,
+     433.0
+    ],
+    [
+     333.75,
+     447.25
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign Up",
+   "label": "fb_button",
+   "points": [
+    [
+     127.75,
+     451.75
+    ],
+    [
+     232.0,
+     495.5
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Do you already have an account?",
+   "label": "tb_log_in",
+   "points": [
+    [
+     30.75,
+     513.25
+    ],
+    [
+     329.25,
+     527.5
+    ]
+   ],
+   "group_id": 993,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "gender_picker",
+   "points": [
+    [
+     25.0,
+     132.33333333333334
+    ],
+    [
+     116.33333333333334,
+     163.66666666666666
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "location",
+   "points": [
+    [
+     30.333333333333336,
+     266.3333333333333
+    ],
+    [
+     337.6666666666667,
+     292.3333333333333
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "15666.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

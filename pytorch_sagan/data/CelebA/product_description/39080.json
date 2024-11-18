@@ -1,0 +1,223 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          13.5,
+          29.75
+        ],
+        [
+          41.5,
+          57.75
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.AutoCompleteTextView",
+      "class": "com.android.browser.UrlInputView",
+      "text": "Search or type URL",
+      "label": "edit_text",
+      "points": [
+        [
+          46.75,
+          21.0
+        ],
+        [
+          268.0,
+          66.5
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          276.0,
+          21.0
+        ],
+        [
+          318.0,
+          66.5
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "menu_dots",
+      "points": [
+        [
+          318.0,
+          21.0
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          16.0,
+          67.0
+        ],
+        [
+          343.3333333333333,
+          242.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "navigation_dots",
+      "points": [
+        [
+          73.33333333333333,
+          258.3333333333333
+        ],
+        [
+          287.3333333333333,
+          272.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          7.333333333333332,
+          307.6666666666667
+        ],
+        [
+          170.0,
+          322.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "color_picker",
+      "points": [
+        [
+          8.0,
+          342.3333333333333
+        ],
+        [
+          199.33333333333334,
+          392.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "size_picker",
+      "points": [
+        [
+          9.333333333333332,
+          425.6666666666667
+        ],
+        [
+          346.0,
+          511.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "quantity_counter",
+      "points": [
+        [
+          8.0,
+          541.6666666666666
+        ],
+        [
+          92.0,
+          573.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          105.33333333333333,
+          541.6666666666666
+        ],
+        [
+          177.33333333333334,
+          575.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "separator_line",
+      "points": [
+        [
+          10.0,
+          283.6666666666667
+        ],
+        [
+          352.0,
+          285.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "39080.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

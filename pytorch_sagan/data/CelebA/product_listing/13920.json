@@ -1,0 +1,812 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          14.0,
+          38.5
+        ],
+        [
+          106.5,
+          52.25
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "Sort",
+      "label": "sort",
+      "points": [
+        [
+          236.5,
+          24.5
+        ],
+        [
+          278.5,
+          66.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "Filter",
+      "label": "filter_button",
+      "points": [
+        [
+          278.5,
+          24.5
+        ],
+        [
+          325.0,
+          66.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatImageView",
+      "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+      "text": "",
+      "label": "menu_dots",
+      "points": [
+        [
+          325.0,
+          24.5
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          360.0,
+          94.0
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          94.0
+        ],
+        [
+          360.0,
+          251.5
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.android.volley.toolbox.NetworkImageView",
+      "class": "com.autolist.autolist.views.widgets.MemorySafeNetworkImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          94.0
+        ],
+        [
+          360.0,
+          251.5
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          94.0
+        ],
+        [
+          360.0,
+          251.5
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.autolist.autolist.views.widgets.FavoriteControl",
+      "class": "com.autolist.autolist.views.widgets.FavoriteIcon",
+      "text": "",
+      "label": "star_icon_button",
+      "points": [
+        [
+          320.0,
+          101.0
+        ],
+        [
+          353.0,
+          132.75
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "2016 BMW 4 Series",
+      "label": "text_view",
+      "points": [
+        [
+          7.0,
+          260.25
+        ],
+        [
+          288.5,
+          284.0
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$41,000",
+      "label": "price",
+      "points": [
+        [
+          288.5,
+          260.25
+        ],
+        [
+          353.0,
+          284.0
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "11k miles | Elk Grove, CA",
+      "label": "text_view",
+      "points": [
+        [
+          7.0,
+          280.75
+        ],
+        [
+          296.25,
+          299.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$590/mo",
+      "label": "price",
+      "points": [
+        [
+          296.25,
+          280.75
+        ],
+        [
+          353.0,
+          299.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Check Availability",
+      "label": "available",
+      "points": [
+        [
+          0.0,
+          302.75
+        ],
+        [
+          110.75,
+          335.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Track Price",
+      "label": "text_button",
+      "points": [
+        [
+          110.75,
+          302.75
+        ],
+        [
+          184.5,
+          335.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          345.75
+        ],
+        [
+          360.0,
+          503.25
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.android.volley.toolbox.NetworkImageView",
+      "class": "com.autolist.autolist.views.widgets.MemorySafeNetworkImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          345.75
+        ],
+        [
+          360.0,
+          503.25
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          345.75
+        ],
+        [
+          360.0,
+          503.25
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.autolist.autolist.views.widgets.FavoriteControl",
+      "class": "com.autolist.autolist.views.widgets.FavoriteIcon",
+      "text": "",
+      "label": "star_icon_button",
+      "points": [
+        [
+          320.0,
+          352.75
+        ],
+        [
+          353.0,
+          384.5
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "2016 BMW 5 Series",
+      "label": "text_view",
+      "points": [
+        [
+          7.0,
+          512.0
+        ],
+        [
+          288.5,
+          535.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$46,000",
+      "label": "price",
+      "points": [
+        [
+          288.5,
+          512.0
+        ],
+        [
+          353.0,
+          535.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "8k miles | Elk Grove, CA",
+      "label": "text_view",
+      "points": [
+        [
+          7.0,
+          532.5
+        ],
+        [
+          296.25,
+          549.0
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$663/mo",
+      "label": "price",
+      "points": [
+        [
+          296.25,
+          532.5
+        ],
+        [
+          353.0,
+          549.0
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "All Makes & Models, 100 mi away",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          360.0,
+          94.0
+        ]
+      ],
+      "group_id": 51,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          94.0
+        ],
+        [
+          360.0,
+          95.0
+        ]
+      ],
+      "group_id": 51,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          360.0,
+          73.5
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "navigation_bar",
+      "points": [
+        [
+          0.0,
+          549.6666666666666
+        ],
+        [
+          360.0,
+          598.6666666666666
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          25.75,
+          549.0
+        ],
+        [
+          46.75,
+          577.0
+        ]
+      ],
+      "group_id": 73,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Home",
+      "label": "text_view",
+      "points": [
+        [
+          26.25,
+          578.75
+        ],
+        [
+          46.5,
+          594.25
+        ]
+      ],
+      "group_id": 73,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "search_button",
+      "points": [
+        [
+          97.5,
+          549.0
+        ],
+        [
+          118.5,
+          575.25
+        ]
+      ],
+      "group_id": 74,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Recent Search",
+      "label": "text_view",
+      "points": [
+        [
+          80.0,
+          577.5
+        ],
+        [
+          136.25,
+          595.5
+        ]
+      ],
+      "group_id": 74,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          169.25,
+          549.0
+        ],
+        [
+          190.25,
+          577.0
+        ]
+      ],
+      "group_id": 75,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Favorites",
+      "label": "text_view",
+      "points": [
+        [
+          164.5,
+          578.75
+        ],
+        [
+          195.25,
+          594.25
+        ]
+      ],
+      "group_id": 75,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          241.0,
+          549.0
+        ],
+        [
+          262.0,
+          577.0
+        ]
+      ],
+      "group_id": 76,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Saved Searches",
+      "label": "text_view",
+      "points": [
+        [
+          224.75,
+          578.75
+        ],
+        [
+          278.5,
+          594.25
+        ]
+      ],
+      "group_id": 76,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          312.75,
+          549.0
+        ],
+        [
+          333.75,
+          577.0
+        ]
+      ],
+      "group_id": 77,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "More",
+      "label": "text_view",
+      "points": [
+        [
+          314.5,
+          578.75
+        ],
+        [
+          332.0,
+          594.25
+        ]
+      ],
+      "group_id": 77,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          0.0,
+          94.0
+        ],
+        [
+          359,
+          340
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          0.0,
+          346.0
+        ],
+        [
+          359,
+          549
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "13920.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

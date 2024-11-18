@@ -1,0 +1,214 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": false,
+    "splash": true,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.Button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Continue with Facebook",
+      "label": "fb_button",
+      "points": [
+        [
+          56.0,
+          273.25
+        ],
+        [
+          304.0,
+          322.25
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Continue with LinkedIn",
+      "label": "linkedin",
+      "points": [
+        [
+          56.0,
+          336.25
+        ],
+        [
+          304.0,
+          385.25
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          106.5,
+          407.0
+        ],
+        [
+          163.5,
+          407.75
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "OR",
+      "label": "text_view",
+      "points": [
+        [
+          170.5,
+          399.25
+        ],
+        [
+          189.5,
+          415.75
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          196.5,
+          407.0
+        ],
+        [
+          253.5,
+          407.75
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign Up with Email",
+      "label": "sign_up",
+      "points": [
+        [
+          56.0,
+          429.75
+        ],
+        [
+          304.0,
+          478.75
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Send me updates and tips",
+      "label": "text_view",
+      "points": [
+        [
+          70.5,
+          499.75
+        ],
+        [
+          234.0,
+          516.5
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.CompoundButton",
+      "class": "android.support.v7.widget.SwitchCompat",
+      "text": "",
+      "label": "toggle",
+      "points": [
+        [
+          234.0,
+          492.75
+        ],
+        [
+          289.5,
+          523.25
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "By logging on you agree to our Terms of Service and Privacy Policy",
+      "label": "text_view",
+      "points": [
+        [
+          35.0,
+          565.25
+        ],
+        [
+          325.0,
+          591.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "box_outline",
+      "points": [
+        [
+          26.174496644295303,
+          245.3221476510067
+        ],
+        [
+          332.2147651006711,
+          551.3624161073825
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "11117.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

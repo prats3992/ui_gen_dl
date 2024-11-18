@@ -1,0 +1,139 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     40.0,
+     90.0
+    ],
+    [
+     320.0,
+     313.25
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Monitor Weight",
+   "label": "text_view",
+   "points": [
+    [
+     102.5,
+     323.0
+    ],
+    [
+     257.25,
+     353.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Record your daily weight",
+   "label": "text_view",
+   "points": [
+    [
+     103.75,
+     363.25
+    ],
+    [
+     256.0,
+     382.25
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "navigation_dots",
+   "points": [
+    [
+     165.08333333333331,
+     418.75
+    ],
+    [
+     196.99999999999997,
+     429.6666666666667
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Register",
+   "label": "tb_sign_up",
+   "points": [
+    [
+     14.0,
+     470.75
+    ],
+    [
+     346.0,
+     519.0
+    ]
+   ],
+   "group_id": 995,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Sign in",
+   "label": "tb_log_in",
+   "points": [
+    [
+     14.333333333333336,
+     530.3333333333334
+    ],
+    [
+     345.6666666666667,
+     577.6666666666666
+    ]
+   ],
+   "group_id": 993,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "11290.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

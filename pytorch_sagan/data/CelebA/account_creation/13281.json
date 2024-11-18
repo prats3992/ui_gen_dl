@@ -1,0 +1,281 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Your fitness journey starts here",
+   "label": "text_view",
+   "points": [
+    [
+     48.0,
+     157.75
+    ],
+    [
+     312.0,
+     174.25
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     48.0,
+     189.5
+    ],
+    [
+     74.25,
+     215.75
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "username",
+   "label": "username",
+   "points": [
+    [
+     74.25,
+     183.0
+    ],
+    [
+     285.75,
+     222.5
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     48.0,
+     229.0
+    ],
+    [
+     74.25,
+     255.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "email",
+   "label": "email",
+   "points": [
+    [
+     74.25,
+     222.5
+    ],
+    [
+     285.75,
+     262.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     48.0,
+     268.5
+    ],
+    [
+     74.25,
+     294.75
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "password",
+   "label": "password",
+   "points": [
+    [
+     74.25,
+     262.0
+    ],
+    [
+     285.75,
+     301.5
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Create Account",
+   "label": "sign_up",
+   "points": [
+    [
+     48.0,
+     301.5
+    ],
+    [
+     312.0,
+     343.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "or login with",
+   "label": "text_view",
+   "points": [
+    [
+     65.5,
+     356.75
+    ],
+    [
+     132.25,
+     373.25
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageButton",
+   "class": "android.support.v7.widget.AppCompatImageButton",
+   "text": "",
+   "label": "google_button",
+   "points": [
+    [
+     149.75,
+     348.0
+    ],
+    [
+     193.5,
+     391.75
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageButton",
+   "class": "android.support.v7.widget.AppCompatImageButton",
+   "text": "",
+   "label": "fb_button",
+   "points": [
+    [
+     211.0,
+     348.0
+    ],
+    [
+     254.75,
+     391.75
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "By proceeding, you agree to JEFIT's Term of Service and Privacy Policy. ",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     56.75,
+     400.5
+    ],
+    [
+     303.25,
+     431.25
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "box_outline",
+   "points": [
+    [
+     33.666666666666664,
+     143.66666666666666
+    ],
+    [
+     326.3333333333333,
+     453.6666666666667
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "13281.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

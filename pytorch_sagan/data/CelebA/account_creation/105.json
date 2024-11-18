@@ -1,0 +1,176 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.TextView",
+      "class": "com.tracfone.generic.myaccountuilibrary.ui.TextViewCustomFont",
+      "text": "Create Account",
+      "label": "text_view",
+      "points": [
+        [
+          49.0,
+          36.0
+        ],
+        [
+          318.0,
+          55.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          318.0,
+          24.5
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          360.0,
+          72.75
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.tracfone.generic.myaccountuilibrary.ui.TextViewCustomFont",
+      "text": "Please Enter your Phone Number",
+      "label": "text_view",
+      "points": [
+        [
+          13.25,
+          86.0
+        ],
+        [
+          243.75,
+          107.25
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "com.tracfone.generic.myaccountuilibrary.ui.EditTextCustomFont",
+      "text": "(xxx)xxx-xxxx",
+      "label": "phone_number",
+      "points": [
+        [
+          22.0,
+          129.25
+        ],
+        [
+          338.0,
+          164.25
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.tracfone.generic.myaccountuilibrary.ui.ButtonCustomFont",
+      "text": "CONTINUE",
+      "label": "button",
+      "points": [
+        [
+          22.0,
+          173.0
+        ],
+        [
+          338.0,
+          215.0
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "box_outline",
+      "points": [
+        [
+          14.333333333333332,
+          119.66666666666667
+        ],
+        [
+          346.3333333333333,
+          223.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "105.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

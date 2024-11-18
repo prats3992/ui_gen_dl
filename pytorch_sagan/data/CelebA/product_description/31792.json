@@ -1,0 +1,244 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          42.0,
+          70.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.bj",
+      "class": "com.devspark.robototextview.widget.RobotoTextView",
+      "text": "Prada Bag",
+      "label": "text_view",
+      "points": [
+        [
+          50.75,
+          34.75
+        ],
+        [
+          276.0,
+          56.0
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          276.0,
+          21.0
+        ],
+        [
+          318.0,
+          70.0
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "menu_dots",
+      "points": [
+        [
+          318.0,
+          21.0
+        ],
+        [
+          360.0,
+          70.0
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.webkit.WebView",
+      "class": "com.shopee.app.ui.webview.TouchWebView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          -0.6666666666666856,
+          70.0
+        ],
+        [
+          359.0,
+          430.0
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "navigation_dots",
+      "points": [
+        [
+          151.33333333333334,
+          406.3333333333333
+        ],
+        [
+          207.33333333333334,
+          418.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          10.0,
+          441.6666666666667
+        ],
+        [
+          78.0,
+          459.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "price",
+      "points": [
+        [
+          11.333333333333332,
+          465.6666666666667
+        ],
+        [
+          52.0,
+          483.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          10.666666666666668,
+          486.3333333333333
+        ],
+        [
+          83.33333333333333,
+          505.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_button",
+      "points": [
+        [
+          8.0,
+          509.6666666666667
+        ],
+        [
+          204.66666666666666,
+          535.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msg_icon",
+      "points": [
+        [
+          0.6666666666666661,
+          557.0
+        ],
+        [
+          89.33333333333333,
+          597.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cart_add",
+      "points": [
+        [
+          90.0,
+          557.6666666666666
+        ],
+        [
+          178.66666666666666,
+          597.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "buy",
+      "points": [
+        [
+          180.66666666666666,
+          557.0
+        ],
+        [
+          359.0,
+          597.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "31792.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

@@ -1,0 +1,293 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "BJ'S FAVORITE",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          69.25
+        ],
+        [
+          360.0,
+          86.75
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          2.5,
+          106.0
+        ],
+        [
+          33.25,
+          136.75
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Customize",
+      "label": "text_view",
+      "points": [
+        [
+          38.25,
+          109.75
+        ],
+        [
+          122.5,
+          133.0
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.EditText",
+      "text": "Special Instructions (Max 25)",
+      "label": "edit_text",
+      "points": [
+        [
+          17.5,
+          333.75
+        ],
+        [
+          342.5,
+          361.75
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "$16.75",
+      "label": "price",
+      "points": [
+        [
+          17.5,
+          372.25
+        ],
+        [
+          99.25,
+          387.0
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Quantity",
+      "label": "text_view",
+      "points": [
+        [
+          99.25,
+          372.25
+        ],
+        [
+          197.0,
+          387.0
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "1",
+      "label": "text_view",
+      "points": [
+        [
+          197.0,
+          372.25
+        ],
+        [
+          201.75,
+          386.75
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.AbsSeekBar",
+      "class": "android.widget.SeekBar",
+      "text": "",
+      "label": "quantity_counter",
+      "points": [
+        [
+          4.5,
+          394.25
+        ],
+        [
+          355.5,
+          425.75
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.CompoundButton",
+      "class": "android.widget.ToggleButton",
+      "text": "",
+      "label": "toggle",
+      "points": [
+        [
+          8.75,
+          446.25
+        ],
+        [
+          63.0,
+          475.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Add to Favorites",
+      "label": "wish_list",
+      "points": [
+        [
+          6.333333333333332,
+          445.0
+        ],
+        [
+          177.66666666666666,
+          477.6666666666667
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "",
+      "label": "cart_add",
+      "points": [
+        [
+          220.0,
+          443.25
+        ],
+        [
+          355.25,
+          478.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_button",
+      "points": [
+        [
+          0.0,
+          36.75
+        ],
+        [
+          22.0,
+          47.25
+        ]
+      ],
+      "group_id": 50,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          324.0,
+          21.0
+        ],
+        [
+          359.0,
+          62.0
+        ]
+      ],
+      "group_id": 52,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "",
+      "label": "msg_icon",
+      "points": [
+        [
+          48.75,
+          21.0
+        ],
+        [
+          97.0,
+          63.0
+        ]
+      ],
+      "group_id": 52,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "18278.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

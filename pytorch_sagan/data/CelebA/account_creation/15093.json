@@ -1,0 +1,217 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Sign up",
+   "label": "text_view",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     360.0,
+     65.75
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "PLEASE CREATE YOUR ACCOUNT",
+   "label": "text_view",
+   "points": [
+    [
+     14.0,
+     64.75
+    ],
+    [
+     346.0,
+     95.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "First Name",
+   "label": "name",
+   "points": [
+    [
+     14.0,
+     112.75
+    ],
+    [
+     346.0,
+     156.5
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "Last Name",
+   "label": "last_name",
+   "points": [
+    [
+     14.0,
+     165.25
+    ],
+    [
+     346.0,
+     209.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "Email Address",
+   "label": "email",
+   "points": [
+    [
+     14.0,
+     217.75
+    ],
+    [
+     346.0,
+     261.5
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "You'll use this to login",
+   "label": "text_view",
+   "points": [
+    [
+     14.0,
+     274.75
+    ],
+    [
+     346.0,
+     305.5
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     14.0,
+     305.5
+    ],
+    [
+     346.0,
+     349.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "Confirm Password",
+   "label": "password",
+   "points": [
+    [
+     14.0,
+     358.0
+    ],
+    [
+     346.0,
+     401.75
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "By clicking 'Sign up' you agree to the Dove Channel's \nTerms of Use and Privacy Policy.",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     18.5,
+     410.5
+    ],
+    [
+     300.5,
+     442.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "SIGN UP",
+   "label": "sign_up",
+   "points": [
+    [
+     126.5,
+     458.75
+    ],
+    [
+     236.75,
+     493.75
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "15093.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

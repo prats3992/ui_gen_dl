@@ -1,0 +1,536 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     4.5,
+     28.0
+    ],
+    [
+     30.75,
+     54.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Log in or register",
+   "label": "text_view",
+   "points": [
+    [
+     129.25,
+     28.0
+    ],
+    [
+     230.75,
+     54.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     558.5
+    ],
+    [
+     72.0,
+     589.25
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Pay bills",
+   "label": "text_view",
+   "points": [
+    [
+     19.5,
+     584.5
+    ],
+    [
+     52.5,
+     598.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     72.0,
+     558.5
+    ],
+    [
+     144.0,
+     589.25
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Quick resend",
+   "label": "text_view",
+   "points": [
+    [
+     82.5,
+     584.5
+    ],
+    [
+     133.5,
+     598.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     144.0,
+     558.5
+    ],
+    [
+     216.0,
+     589.25
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Send",
+   "label": "text_view",
+   "points": [
+    [
+     170.0,
+     584.5
+    ],
+    [
+     189.75,
+     598.0
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     216.0,
+     558.5
+    ],
+    [
+     288.0,
+     589.25
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "History",
+   "label": "text_view",
+   "points": [
+    [
+     238.0,
+     584.5
+    ],
+    [
+     266.0,
+     598.0
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     288.0,
+     558.5
+    ],
+    [
+     360.0,
+     589.25
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "More",
+   "label": "text_view",
+   "points": [
+    [
+     313.75,
+     584.5
+    ],
+    [
+     334.25,
+     598.0
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Please enter your email address",
+   "label": "text_view",
+   "points": [
+    [
+     24.5,
+     90.25
+    ],
+    [
+     335.5,
+     104.5
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "appcrawler2@gmail.com",
+   "label": "email",
+   "points": [
+    [
+     24.5,
+     106.25
+    ],
+    [
+     335.5,
+     139.5
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.widget.ImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     314.5,
+     116.75
+    ],
+    [
+     326.75,
+     129.0
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Password",
+   "label": "text_view",
+   "points": [
+    [
+     24.5,
+     152.75
+    ],
+    [
+     335.5,
+     167.0
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "",
+   "label": "edit_text",
+   "points": [
+    [
+     24.5,
+     168.75
+    ],
+    [
+     335.5,
+     202.0
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "SHOW",
+   "label": "text_view",
+   "points": [
+    [
+     291.5,
+     177.0
+    ],
+    [
+     326.75,
+     193.5
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.CompoundButton",
+   "class": "android.widget.CheckBox",
+   "text": "",
+   "label": "check_box",
+   "points": [
+    [
+     24.5,
+     224.0
+    ],
+    [
+     126.05263157894734,
+     242.10526315789474
+    ]
+   ],
+   "group_id": 20,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Remember me",
+   "label": "text_view",
+   "points": [
+    [
+     41.84210526315786,
+     226.31578947368422
+    ],
+    [
+     122.75,
+     240.5
+    ]
+   ],
+   "group_id": 20,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "Register",
+   "label": "sign_up",
+   "points": [
+    [
+     24.5,
+     262.5
+    ],
+    [
+     171.25,
+     297.5
+    ]
+   ],
+   "group_id": 22,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     232.5,
+     272.0
+    ],
+    [
+     246.5,
+     287.75
+    ]
+   ],
+   "group_id": 23,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Log In",
+   "label": "text_view",
+   "points": [
+    [
+     255.25,
+     271.0
+    ],
+    [
+     291.5,
+     288.75
+    ]
+   ],
+   "group_id": 23,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Forgot your password?",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     121.25,
+     323.75
+    ],
+    [
+     238.5,
+     339.25
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "Register",
+   "label": "log_in",
+   "points": [
+    [
+     189.47368421052636,
+     262.4736842105263
+    ],
+    [
+     336.22368421052636,
+     297.4736842105263
+    ]
+   ],
+   "group_id": 23,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "tab_bar",
+   "points": [
+    [
+     0.0,
+     556.0
+    ],
+    [
+     359.0,
+     598.0
+    ]
+   ],
+   "group_id": 24,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "1001.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

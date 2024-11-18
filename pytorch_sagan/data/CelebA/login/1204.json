@@ -1,0 +1,197 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Sign In",
+   "label": "text_view",
+   "points": [
+    [
+     151.0,
+     179.5
+    ],
+    [
+     209.0,
+     205.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     62.75,
+     214.0
+    ],
+    [
+     297.25,
+     214.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "You're one step away from the best insider info and thousands of Black Friday Ads!",
+   "label": "text_view",
+   "points": [
+    [
+     62.75,
+     223.0
+    ],
+    [
+     297.25,
+     253.75
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "Email Address",
+   "label": "email",
+   "points": [
+    [
+     62.75,
+     267.0
+    ],
+    [
+     297.25,
+     306.5
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     62.75,
+     315.25
+    ],
+    [
+     297.25,
+     354.75
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "HIDE PASSWORD",
+   "label": "text_view",
+   "points": [
+    [
+     203.0,
+     363.5
+    ],
+    [
+     297.25,
+     380.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Create Account",
+   "label": "sign_up",
+   "points": [
+    [
+     62.75,
+     397.5
+    ],
+    [
+     175.5,
+     439.5
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign In",
+   "label": "log_in",
+   "points": [
+    [
+     184.5,
+     397.5
+    ],
+    [
+     297.25,
+     439.5
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "box_outline",
+   "points": [
+    [
+     53.0,
+     170.33333333333334
+    ],
+    [
+     307.0,
+     449.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "1204.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

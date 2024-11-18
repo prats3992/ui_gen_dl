@@ -1,0 +1,454 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          13.5,
+          29.75
+        ],
+        [
+          41.5,
+          57.75
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          13.5,
+          29.75
+        ],
+        [
+          41.5,
+          57.75
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.AutoCompleteTextView",
+      "class": "com.android.browser.UrlInputView",
+      "text": "Search or type URL",
+      "label": "text_view",
+      "points": [
+        [
+          46.75,
+          21.0
+        ],
+        [
+          268.0,
+          66.5
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          276.0,
+          21.0
+        ],
+        [
+          318.0,
+          66.5
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "menu_dots",
+      "points": [
+        [
+          318.0,
+          21.0
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "search_bar",
+      "points": [
+        [
+          8.666666666666668,
+          109.66666666666667
+        ],
+        [
+          350.6666666666667,
+          141.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "icon_button",
+      "points": [
+        [
+          270.0,
+          71.0
+        ],
+        [
+          304.6666666666667,
+          99.66666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cart_icon_button",
+      "points": [
+        [
+          312.6666666666667,
+          71.0
+        ],
+        [
+          348.0,
+          99.66666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          8.0,
+          72.33333333333333
+        ],
+        [
+          85.33333333333333,
+          101.66666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          10.0,
+          159.66666666666666
+        ],
+        [
+          198.0,
+          175.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_button",
+      "points": [
+        [
+          292.6666666666667,
+          160.33333333333334
+        ],
+        [
+          350.0,
+          174.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          16.0,
+          203.0
+        ],
+        [
+          158.66666666666666,
+          393.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          200.66666666666669,
+          203.0
+        ],
+        [
+          343.33333333333337,
+          393.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          19.333333333333332,
+          491.6666666666667
+        ],
+        [
+          156.66666666666666,
+          598.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          201.33333333333337,
+          491.00000000000006
+        ],
+        [
+          338.66666666666663,
+          597.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          8.0,
+          406.3333333333333
+        ],
+        [
+          172.66666666666666,
+          424.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          189.33333333333334,
+          407.6666666666667
+        ],
+        [
+          354.0,
+          425.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          189.33333333333334,
+          427.0
+        ],
+        [
+          221.33333333333334,
+          440.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "price",
+      "points": [
+        [
+          8.666666666666668,
+          425.6666666666667
+        ],
+        [
+          50.0,
+          439.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "price",
+      "points": [
+        [
+          302.6666666666667,
+          443.0
+        ],
+        [
+          347.3333333333333,
+          460.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          189.33333333333334,
+          443.6666666666667
+        ],
+        [
+          300.0,
+          459.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          52.66666666666667,
+          425.6666666666667
+        ],
+        [
+          100.0,
+          443.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          2.666666666666666,
+          189.0
+        ],
+        [
+          177.33333333333334,
+          471.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          183.33333333333334,
+          188.33333333333337
+        ],
+        [
+          358.0000000000001,
+          470.33333333333337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          2.666666666666666,
+          477.6666666666667
+        ],
+        [
+          176.0,
+          598.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          182.66666666666666,
+          477.6666666666667
+        ],
+        [
+          355.99999999999994,
+          598.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "21860.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

@@ -1,0 +1,177 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          323.25,
+          35.0
+        ],
+        [
+          344.25,
+          56.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          360.0,
+          416.0
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "navigation_dots",
+      "points": [
+        [
+          169.25,
+          419.0
+        ],
+        [
+          190.66666666666666,
+          426.3333333333333
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "com.ovenbits.fontviews.FontTextView",
+      "class": "com.rainbowshops.view.BaselineGridTextView",
+      "text": "Cold Shoulder Peasant Dress with Crochet Details",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          437.0
+        ],
+        [
+          346.0,
+          486.25
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.ovenbits.fontviews.FontTextView",
+      "text": "$16.97",
+      "label": "price",
+      "points": [
+        [
+          151.75,
+          493.25
+        ],
+        [
+          208.25,
+          513.5
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "wish_list",
+      "points": [
+        [
+          0.0,
+          549.0
+        ],
+        [
+          49.0,
+          598.0
+        ]
+      ],
+      "group_id": 39,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Add to Bag",
+      "label": "cart_add",
+      "points": [
+        [
+          49.0,
+          549.0
+        ],
+        [
+          360.0,
+          598.0
+        ]
+      ],
+      "group_id": 39,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "64183.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

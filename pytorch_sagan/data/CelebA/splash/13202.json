@@ -1,0 +1,122 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     109.5,
+     130.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "flipboard.gui.FLTextView",
+   "text": "THE\nONE PLACE\nFOR ALL\nYOUR\nINTERESTS",
+   "label": "text_view",
+   "points": [
+    [
+     22.0,
+     152.5
+    ],
+    [
+     197.25,
+     302.25
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "flipboard.gui.FLTextView",
+   "text": "Get Started",
+   "label": "button",
+   "points": [
+    [
+     21.0,
+     501.6666666666667
+    ],
+    [
+     338.3333333333333,
+     547.0
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "flipboard.gui.FLTextView",
+   "text": "By continuing, you accept the Terms of Use and Privacy Policy.",
+   "label": "text_view",
+   "points": [
+    [
+     0.0,
+     565.0
+    ],
+    [
+     360.0,
+     580.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "flipboard.gui.FLTextView",
+   "text": "Sign In",
+   "label": "text_view",
+   "points": [
+    [
+     302.5,
+     43.0
+    ],
+    [
+     338.0,
+     58.5
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "13202.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

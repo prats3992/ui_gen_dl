@@ -1,0 +1,597 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          -0.6666666666666856,
+          70.66666666666669
+        ],
+        [
+          359.3333333333333,
+          195.41666666666669
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "navigation_dots",
+      "points": [
+        [
+          154.25,
+          176.75
+        ],
+        [
+          207.0,
+          185.0
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          202.25
+        ],
+        [
+          360.0,
+          472.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "image_button",
+      "points": [
+        [
+          299.0,
+          411.25
+        ],
+        [
+          345.5,
+          457.75
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          307.75,
+          384.75
+        ],
+        [
+          339.25,
+          405.0
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": " 540",
+      "label": "price",
+      "points": [
+        [
+          10.5,
+          431.0
+        ],
+        [
+          76.0,
+          451.5
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "    ",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          486.25
+        ],
+        [
+          286.5,
+          505.25
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          286.5,
+          486.25
+        ],
+        [
+          346.0,
+          507.25
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          510.5
+        ],
+        [
+          33.5,
+          524.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          38.0,
+          513.75
+        ],
+        [
+          38.25,
+          524.25
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "2014 2",
+      "label": "text_view",
+      "points": [
+        [
+          42.75,
+          510.5
+        ],
+        [
+          94.75,
+          524.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          99.25,
+          513.75
+        ],
+        [
+          99.5,
+          524.25
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "19,934km",
+      "label": "text_view",
+      "points": [
+        [
+          104.0,
+          510.5
+        ],
+        [
+          150.5,
+          524.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          159.25,
+          513.0
+        ],
+        [
+          171.0,
+          524.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "7 ",
+      "label": "text_view",
+      "points": [
+        [
+          175.5,
+          510.5
+        ],
+        [
+          203.5,
+          524.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          212.25,
+          513.0
+        ],
+        [
+          228.25,
+          524.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "682",
+      "label": "text_view",
+      "points": [
+        [
+          232.75,
+          510.5
+        ],
+        [
+          250.75,
+          524.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "menu_dashs",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          48.25,
+          70.0
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          49.5,
+          21.0
+        ],
+        [
+          91.25,
+          70.0
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "search_button",
+      "points": [
+        [
+          316.0,
+          21.0
+        ],
+        [
+          355.5,
+          70.0
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          276.5,
+          21.0
+        ],
+        [
+          316.0,
+          70.0
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          52.0,
+          564.0
+        ],
+        [
+          77.75,
+          589.75
+        ]
+      ],
+      "group_id": 40,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          80.5,
+          568.75
+        ],
+        [
+          125.5,
+          585.25
+        ]
+      ],
+      "group_id": 40,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          179.5,
+          556.0
+        ],
+        [
+          180.5,
+          598.0
+        ]
+      ],
+      "group_id": 39,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          225.5,
+          564.0
+        ],
+        [
+          251.25,
+          589.75
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": " ",
+      "label": "text_view",
+      "points": [
+        [
+          254.0,
+          568.75
+        ],
+        [
+          313.25,
+          585.25
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          0.0,
+          201.0
+        ],
+        [
+          359.0,
+          539.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sort_button",
+      "points": [
+        [
+          179.66666666666666,
+          555.6666666666666
+        ],
+        [
+          359,
+          598
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "filter_button",
+      "points": [
+        [
+          0.3333333333333339,
+          555.6666666666666
+        ],
+        [
+          178.33333333333334,
+          598.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1167.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

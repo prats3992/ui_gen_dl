@@ -1,0 +1,311 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          8.75
+        ],
+        [
+          49.0,
+          57.75
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "A2",
+      "label": "text_view",
+      "points": [
+        [
+          49.666666666666664,
+          16.333333333333332
+        ],
+        [
+          90.5,
+          49.5
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          66.5
+        ],
+        [
+          360.0,
+          67.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          92.5,
+          129.5
+        ],
+        [
+          267.5,
+          304.5
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "$3,349 - $4,149",
+      "label": "price",
+      "points": [
+        [
+          14.0,
+          380.5
+        ],
+        [
+          177.25,
+          413.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Available Now",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          413.0
+        ],
+        [
+          141.75,
+          434.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          14.0,
+          448.5
+        ],
+        [
+          346.0,
+          449.5
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          57.0,
+          463.5
+        ],
+        [
+          81.5,
+          488.0
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "1 Bed",
+      "label": "text_view",
+      "points": [
+        [
+          53.5,
+          488.0
+        ],
+        [
+          84.75,
+          504.5
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          167.5,
+          463.5
+        ],
+        [
+          192.0,
+          488.0
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "1 Bath",
+      "label": "text_view",
+      "points": [
+        [
+          162.25,
+          488.0
+        ],
+        [
+          197.5,
+          504.5
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          278.25,
+          463.5
+        ],
+        [
+          302.75,
+          488.0
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "680 Sq ft.",
+      "label": "text_view",
+      "points": [
+        [
+          264.25,
+          488.0
+        ],
+        [
+          317.0,
+          504.5
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          14.0,
+          518.5
+        ],
+        [
+          346.0,
+          519.5
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    }
+  ],
+  "imagePath": "50513.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

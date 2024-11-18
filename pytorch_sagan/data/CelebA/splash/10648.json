@@ -1,0 +1,202 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": false,
+    "splash": true,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          40.25,
+          61.25
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.narvii.widget.AutoFitTextView",
+      "text": "VirtualSpace",
+      "label": "text_view",
+      "points": [
+        [
+          42.75,
+          80.0
+        ],
+        [
+          317.25,
+          150.25
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.narvii.widget.TintButton",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          146.5,
+          150.25
+        ],
+        [
+          213.5,
+          169.5
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.narvii.widget.NVImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          118.75,
+          202.0
+        ],
+        [
+          241.25,
+          324.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Role players gather to write and socialize!",
+      "label": "text_view",
+      "points": [
+        [
+          67.0,
+          397.75
+        ],
+        [
+          293.0,
+          414.25
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Sign Up",
+      "label": "sign_up",
+      "points": [
+        [
+          50.5,
+          440.5
+        ],
+        [
+          309.5,
+          486.0
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Log In",
+      "label": "log_in",
+      "points": [
+        [
+          50.5,
+          493.0
+        ],
+        [
+          309.5,
+          538.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "By signing up, you agree to the",
+      "label": "text_view",
+      "points": [
+        [
+          113.75,
+          552.5
+        ],
+        [
+          246.25,
+          565.75
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Terms of Service and Privacy Policy",
+      "label": "text_view",
+      "points": [
+        [
+          101.5,
+          568.5
+        ],
+        [
+          258.75,
+          581.75
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    }
+  ],
+  "imagePath": "10648.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

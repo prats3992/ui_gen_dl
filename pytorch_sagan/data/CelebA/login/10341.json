@@ -1,0 +1,147 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "label": "image_view",
+   "points": [
+    [
+     130.33333333333334,
+     132.33333333333334
+    ],
+    [
+     233.0,
+     162.33333333333334
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     29.66666666666667,
+     189.0
+    ],
+    [
+     329.0,
+     243.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     28.530259365994233,
+     266.57060518731987
+    ],
+    [
+     93.0835734870317,
+     282.13256484149855
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     26.33333333333333,
+     358.3333333333333
+    ],
+    [
+     130.33333333333334,
+     377.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "button",
+   "points": [
+    [
+     273.6666666666667,
+     353.0
+    ],
+    [
+     329.0,
+     380.3333333333333
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "edit_text",
+   "points": [
+    [
+     133.66666666666666,
+     260.3333333333333
+    ],
+    [
+     327.95389048991353,
+     289.91354466858786
+    ]
+   ],
+   "group_id": 1,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "edit_text",
+   "points": [
+    [
+     135.10758885686832,
+     304.71181556195967
+    ],
+    [
+     328.24207492795387,
+     333.71757925072046
+    ]
+   ],
+   "group_id": 1,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     28.54755043227666,
+     309.8155619596542
+    ],
+    [
+     92.21902017291066,
+     325.9365994236311
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "10341.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

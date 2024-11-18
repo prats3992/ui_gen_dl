@@ -1,0 +1,555 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "BJ's Snacks and Small Bites",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          64.75
+        ],
+        [
+          360.0,
+          89.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          4.5,
+          122.75
+        ],
+        [
+          355.5,
+          124.5
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          9.0,
+          135.0
+        ],
+        [
+          131.5,
+          213.75
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Honey Sriracha Brussels Sprouts",
+      "label": "text_view",
+      "points": [
+        [
+          138.5,
+          152.5
+        ],
+        [
+          283.0,
+          182.75
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "$6.75",
+      "label": "price",
+      "points": [
+        [
+          138.5,
+          182.75
+        ],
+        [
+          323.5,
+          199.5
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          4.5,
+          240.0
+        ],
+        [
+          355.5,
+          241.75
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          9.0,
+          252.25
+        ],
+        [
+          131.5,
+          331.0
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Housemade Guacamole and Chips",
+      "label": "text_view",
+      "points": [
+        [
+          138.5,
+          269.75
+        ],
+        [
+          283.0,
+          313.5
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "$5.75",
+      "label": "price",
+      "points": [
+        [
+          138.5,
+          313.5
+        ],
+        [
+          323.5,
+          330.25
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          4.5,
+          357.25
+        ],
+        [
+          355.5,
+          359.0
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          9.0,
+          369.5
+        ],
+        [
+          131.5,
+          448.25
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Pork Chile Verde and Sriracha Queso",
+      "label": "text_view",
+      "points": [
+        [
+          138.5,
+          387.0
+        ],
+        [
+          283.0,
+          430.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "$6.75",
+      "label": "price",
+      "points": [
+        [
+          138.5,
+          430.75
+        ],
+        [
+          323.5,
+          447.5
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          4.5,
+          474.5
+        ],
+        [
+          355.5,
+          476.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          9.0,
+          486.75
+        ],
+        [
+          131.5,
+          565.5
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Spinach Stuffed Mushrooms",
+      "label": "text_view",
+      "points": [
+        [
+          138.5,
+          504.25
+        ],
+        [
+          283.0,
+          534.5
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "$6.75",
+      "label": "price",
+      "points": [
+        [
+          138.5,
+          534.5
+        ],
+        [
+          323.5,
+          551.25
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          4.5,
+          591.75
+        ],
+        [
+          355.5,
+          593.5
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "menu_dashs",
+      "points": [
+        [
+          0.0,
+          36.75
+        ],
+        [
+          22.0,
+          47.25
+        ]
+      ],
+      "group_id": 55,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          18.75,
+          42.0
+        ],
+        [
+          19.0,
+          42.25
+        ]
+      ],
+      "group_id": 55,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          324.0,
+          21.0
+        ],
+        [
+          355.5,
+          63.0
+        ]
+      ],
+      "group_id": 57,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "",
+      "label": "msg_icon",
+      "points": [
+        [
+          48.75,
+          21.0
+        ],
+        [
+          97.0,
+          63.0
+        ]
+      ],
+      "group_id": 57,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          4.0,
+          126.33333333333333
+        ],
+        [
+          356.6666666666667,
+          237.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          3.3333333333333286,
+          243.0
+        ],
+        [
+          356.00000000000006,
+          354.33333333333337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          4.666666666666671,
+          361.0
+        ],
+        [
+          357.3333333333334,
+          472.33333333333337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          3.999999999999986,
+          478.3333333333333
+        ],
+        [
+          356.6666666666668,
+          589.6666666666669
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          156.0,
+          21.0
+        ],
+        [
+          206.66666666666666,
+          59.666666666666664
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "18264.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

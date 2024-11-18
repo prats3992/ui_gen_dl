@@ -1,0 +1,80 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     360.0,
+     367.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.anprosit.drivemode.commons.ui.widget.TypefaceTextView",
+   "text": "Get Started!",
+   "label": "button",
+   "points": [
+    [
+     28.0,
+     481.0
+    ],
+    [
+     332.0,
+     530.0
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.anprosit.drivemode.commons.ui.widget.TypefaceTextView",
+   "text": "By using this application you agree to \nthe License Agreement and Privacy Policy.",
+   "label": "text_view",
+   "points": [
+    [
+     28.0,
+     551.0
+    ],
+    [
+     332.0,
+     584.0
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "12758.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

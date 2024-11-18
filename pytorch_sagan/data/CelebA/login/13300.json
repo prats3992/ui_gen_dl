@@ -1,0 +1,202 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": true,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          30.75
+        ],
+        [
+          70.0,
+          50.5
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Account Login",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          78.25
+        ],
+        [
+          104.75,
+          97.25
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          113.5,
+          78.25
+        ],
+        [
+          128.5,
+          96.75
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Member ID",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          131.25
+        ],
+        [
+          147.5,
+          147.75
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.EditText",
+      "text": "",
+      "label": "edit_text",
+      "points": [
+        [
+          147.5,
+          119.25
+        ],
+        [
+          342.5,
+          161.25
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "User ID",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          173.25
+        ],
+        [
+          147.5,
+          189.75
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.EditText",
+      "text": "",
+      "label": "username",
+      "points": [
+        [
+          147.5,
+          161.25
+        ],
+        [
+          342.5,
+          203.25
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Validate",
+      "label": "button",
+      "points": [
+        [
+          127.5,
+          229.5
+        ],
+        [
+          232.5,
+          263.75
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "For more info: www.nowonline.in",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          564.0
+        ],
+        [
+          359.0,
+          599.0
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    }
+  ],
+  "imagePath": "13300.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

@@ -1,0 +1,218 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Join LEGO Life",
+   "label": "text_view",
+   "points": [
+    [
+     96.0,
+     73.75
+    ],
+    [
+     263.75,
+     96.25
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     322.25,
+     71.25
+    ],
+    [
+     348.5,
+     97.5
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Sign up for much, much more!",
+   "label": "text_view",
+   "points": [
+    [
+     7.0,
+     97.5
+    ],
+    [
+     353.0,
+     113.75
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "See stuff you'll love",
+   "label": "text_view",
+   "points": [
+    [
+     115.25,
+     122.5
+    ],
+    [
+     244.75,
+     155.25
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     239.25,
+     119.0
+    ],
+    [
+     284.0,
+     173.75
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     76.33333333333333,
+     169.66666666666666
+    ],
+    [
+     293.6666666666667,
+     377.6666666666667
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "com.synnapps.carouselview.CirclePageIndicator",
+   "text": "",
+   "label": "navigation_dots",
+   "points": [
+    [
+     151.0,
+     382.3333333333333
+    ],
+    [
+     207.0,
+     397.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign up",
+   "label": "tb_sign_up",
+   "points": [
+    [
+     114.25,
+     424.0
+    ],
+    [
+     245.5,
+     463.0
+    ]
+   ],
+   "group_id": 995,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign in",
+   "label": "tb_log_in",
+   "points": [
+    [
+     114.25,
+     475.25
+    ],
+    [
+     245.5,
+     514.5
+    ]
+   ],
+   "group_id": 993,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "label": "box_outline",
+   "points": [
+    [
+     6.333333333333336,
+     64.33333333333333
+    ],
+    [
+     354.3333333333333,
+     523.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "11296.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

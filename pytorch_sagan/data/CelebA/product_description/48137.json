@@ -1,0 +1,376 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          35.25
+        ],
+        [
+          34.25,
+          55.5
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "BENEFIT COSMETICS THE POREFESSIONAL FACE PRIMER",
+      "label": "text_view",
+      "points": [
+        [
+          41.25,
+          36.5
+        ],
+        [
+          273.0,
+          54.5
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          316.25,
+          21.0
+        ],
+        [
+          360.0,
+          70.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          272.5,
+          21.0
+        ],
+        [
+          316.25,
+          70.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.birchbox.birchbox.views.BBXFavoriteImageView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          322.25,
+          84.0
+        ],
+        [
+          346.0,
+          102.5
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          83.75,
+          125.25
+        ],
+        [
+          276.25,
+          317.75
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.birchbox.birchbox.views.BBXTextView",
+      "text": "Benefit Cosmetics The POREfessional Face Primer",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          326.5
+        ],
+        [
+          272.5,
+          358.75
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.birchbox.birchbox.views.BBXTextView",
+      "text": "$31.00",
+      "label": "price",
+      "points": [
+        [
+          14.0,
+          362.25
+        ],
+        [
+          51.5,
+          379.75
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          14.0,
+          393.75
+        ],
+        [
+          346.0,
+          394.75
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.birchbox.birchbox.views.BBXTextView",
+      "text": "11,810",
+      "label": "rating_bar",
+      "points": [
+        [
+          27.333333333333336,
+          423.0
+        ],
+        [
+          153.75,
+          436.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.birchbox.birchbox.views.BBXTextView",
+      "text": "Reviews",
+      "label": "text_button",
+      "points": [
+        [
+          269.25,
+          422.75
+        ],
+        [
+          333.3333333333333,
+          437.6666666666667
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.birchbox.birchbox.views.BBXTextView",
+      "text": "0.75 fl. oz. / 22 ml",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          464.75
+        ],
+        [
+          120.75,
+          482.25
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          14.0,
+          496.25
+        ],
+        [
+          346.0,
+          497.25
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.birchbox.birchbox.views.BBXTextView",
+      "text": "Qty. 1",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          522.75
+        ],
+        [
+          49.5,
+          540.25
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.birchbox.birchbox.views.BBXButton",
+      "text": "ADD TO CART $31.00",
+      "label": "cart_add",
+      "points": [
+        [
+          14.0,
+          565.75
+        ],
+        [
+          346.0,
+          598.0
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          360.0,
+          71.75
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "",
+      "class": "",
+      "text": "",
+      "label": "quantity_counter",
+      "points": [
+        [
+          64.0,
+          511.0
+        ],
+        [
+          143.33333333333334,
+          552.3333333333334
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "navigation_dots",
+      "points": [
+        [
+          158.66666666666666,
+          85.0
+        ],
+        [
+          200.0,
+          101.66666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "48137.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

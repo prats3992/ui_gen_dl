@@ -1,0 +1,185 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "com.logisticare.ui.views.CustomTextView",
+   "text": "Pre-Register",
+   "label": "text_view",
+   "points": [
+    [
+     22.0,
+     43.0
+    ],
+    [
+     304.25,
+     79.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.z",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     304.25,
+     44.5
+    ],
+    [
+     338.0,
+     78.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.logisticare.ui.views.CustomEditText",
+   "text": "First Name",
+   "label": "name",
+   "points": [
+    [
+     22.0,
+     114.5
+    ],
+    [
+     338.0,
+     145.25
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.logisticare.ui.views.CustomEditText",
+   "text": "Last Name",
+   "label": "last_name",
+   "points": [
+    [
+     22.0,
+     180.25
+    ],
+    [
+     338.0,
+     211.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.logisticare.ui.views.CustomEditText",
+   "text": "Email Address",
+   "label": "email",
+   "points": [
+    [
+     22.0,
+     246.0
+    ],
+    [
+     338.0,
+     276.75
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.logisticare.ui.views.CustomEditText",
+   "text": "Confirm Email Address",
+   "label": "email",
+   "points": [
+    [
+     22.0,
+     311.75
+    ],
+    [
+     338.0,
+     342.5
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.logisticare.ui.views.CustomEditTextDone",
+   "text": "Mobile Number",
+   "label": "phone_number",
+   "points": [
+    [
+     22.0,
+     377.5
+    ],
+    [
+     338.0,
+     404.5
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.r",
+   "text": "Continue",
+   "label": "button",
+   "points": [
+    [
+     22.0,
+     448.25
+    ],
+    [
+     338.0,
+     505.25
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "1080.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

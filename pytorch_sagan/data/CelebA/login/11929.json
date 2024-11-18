@@ -1,0 +1,242 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     70.5,
+     64.25
+    ],
+    [
+     289.25,
+     98.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.firstnational.fnbolib.view.FNTextView",
+   "text": "LOG IN TO MOBILE BANKING",
+   "label": "text_view",
+   "points": [
+    [
+     29.0,
+     141.25
+    ],
+    [
+     338.0,
+     160.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.firstnational.fnbolib.view.FNEditText",
+   "text": "User ID",
+   "label": "username",
+   "points": [
+    [
+     22.0,
+     165.25
+    ],
+    [
+     338.0,
+     203.75
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.firstnational.fnbolib.view.FNEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     22.0,
+     199.5
+    ],
+    [
+     338.0,
+     238.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.firstnational.fnbolib.view.FNTextView",
+   "text": "Forgot ID/Password?",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     25.5,
+     248.5
+    ],
+    [
+     125.25,
+     265.25
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.CheckBox",
+   "class": "com.firstnational.fnbolib.view.CheckBox",
+   "text": "Remember My User ID",
+   "label": "check_box",
+   "points": [
+    [
+     28.0,
+     281.75
+    ],
+    [
+     180.75,
+     304.5
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.firstnational.fnbolib.view.FNButton",
+   "text": "Log In",
+   "label": "log_in",
+   "points": [
+    [
+     50.0,
+     322.25
+    ],
+    [
+     310.0,
+     372.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.firstnational.fnbolib.view.FNTextView",
+   "text": "Don't have a User ID?",
+   "label": "text_view",
+   "points": [
+    [
+     81.5,
+     389.75
+    ],
+    [
+     211.0,
+     409.75
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.firstnational.fnbolib.view.FNTextView",
+   "text": "Enroll Now",
+   "label": "tb_sign_up",
+   "points": [
+    [
+     214.5,
+     389.75
+    ],
+    [
+     278.25,
+     409.75
+    ]
+   ],
+   "group_id": 995,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     105.0,
+     440.25
+    ],
+    [
+     133.0,
+     466.5
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.firstnational.fnbolib.view.FNTextView",
+   "text": "Contact Us",
+   "label": "button",
+   "points": [
+    [
+     89.0,
+     430.3333333333333
+    ],
+    [
+     271.0,
+     476.3333333333333
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "11929.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

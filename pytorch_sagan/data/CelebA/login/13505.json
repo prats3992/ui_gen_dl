@@ -1,0 +1,156 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": true,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          63.0
+        ],
+        [
+          360.0,
+          238.0
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.EditText",
+      "text": "Username",
+      "label": "username",
+      "points": [
+        [
+          26.25,
+          238.0
+        ],
+        [
+          333.75,
+          276.75
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.EditText",
+      "text": "Password",
+      "label": "password",
+      "points": [
+        [
+          26.25,
+          281.25
+        ],
+        [
+          333.75,
+          320.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Log In",
+      "label": "log_in",
+      "points": [
+        [
+          26.25,
+          328.75
+        ],
+        [
+          333.75,
+          370.75
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "menu_dashs",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          42.0,
+          63.0
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "LOG IN",
+      "label": "text_view",
+      "points": [
+        [
+          155.25,
+          31.25
+        ],
+        [
+          204.5,
+          52.5
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          323.25,
+          28.0
+        ],
+        [
+          360.0,
+          56.0
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "13505.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

@@ -1,0 +1,938 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.AutoCompleteTextView",
+      "class": "com.trovit.android.apps.commons.ui.widgets.RecentsAutoCompleteTextView",
+      "text": "Search",
+      "label": "text_view",
+      "points": [
+        [
+          66.5,
+          27.75
+        ],
+        [
+          314.5,
+          63.0
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "label": "filter_button",
+      "points": [
+        [
+          318.0,
+          24.5
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Ad",
+      "label": "text_view",
+      "points": [
+        [
+          8.75,
+          72.25
+        ],
+        [
+          28.33333333333333,
+          87.66666666666667
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          91.0
+        ],
+        [
+          105.0,
+          172.5
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Seized Car Auctions $500",
+      "label": "text_view",
+      "points": [
+        [
+          109.5,
+          91.0
+        ],
+        [
+          355.5,
+          110.0
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Buy Repos & Seized Cars at 70% Off $1 to Search Thousands- All Makes!",
+      "label": "text_view",
+      "points": [
+        [
+          109.5,
+          110.0
+        ],
+        [
+          355.5,
+          140.75
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Visit Site",
+      "label": "text_view",
+      "points": [
+        [
+          109.5,
+          145.75
+        ],
+        [
+          157.25,
+          162.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          338.0,
+          145.25
+        ],
+        [
+          355.5,
+          162.75
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "usgovernmentauctions.net",
+      "label": "text_view",
+      "points": [
+        [
+          157.25,
+          146.75
+        ],
+        [
+          338.0,
+          161.0
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          346.75,
+          70.0
+        ],
+        [
+          360.0,
+          83.25
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          185.0
+        ],
+        [
+          108.5,
+          353.0
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "2015 Volvo S60 T5 Premier Albuquerque, NM",
+      "label": "text_view",
+      "points": [
+        [
+          119.0,
+          192.0
+        ],
+        [
+          328.5,
+          225.25
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Albuquerque  NM",
+      "label": "text_view",
+      "points": [
+        [
+          119.0,
+          227.0
+        ],
+        [
+          349.5,
+          241.25
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$21,969",
+      "label": "price",
+      "points": [
+        [
+          119.0,
+          241.25
+        ],
+        [
+          200.0,
+          271.75
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "1 week ago",
+      "label": "text_view",
+      "points": [
+        [
+          119.0,
+          271.75
+        ],
+        [
+          172.0,
+          286.0
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Sponsored",
+      "label": "text_view",
+      "points": [
+        [
+          119.0,
+          291.25
+        ],
+        [
+          178.5,
+          306.5
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "36,999",
+      "label": "text_view",
+      "points": [
+        [
+          119.25,
+          309.25
+        ],
+        [
+          170.0,
+          331.75
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Miles",
+      "label": "text_view",
+      "points": [
+        [
+          119.25,
+          331.75
+        ],
+        [
+          144.5,
+          346.0
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "2015",
+      "label": "text_view",
+      "points": [
+        [
+          188.5,
+          309.25
+        ],
+        [
+          226.5,
+          331.75
+        ]
+      ],
+      "group_id": 39,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Year",
+      "label": "text_view",
+      "points": [
+        [
+          188.5,
+          331.75
+        ],
+        [
+          209.25,
+          346.0
+        ]
+      ],
+      "group_id": 39,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "4",
+      "label": "text_view",
+      "points": [
+        [
+          245.0,
+          309.25
+        ],
+        [
+          254.5,
+          331.75
+        ]
+      ],
+      "group_id": 40,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Doors",
+      "label": "text_view",
+      "points": [
+        [
+          245.0,
+          331.75
+        ],
+        [
+          273.0,
+          346.0
+        ]
+      ],
+      "group_id": 40,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.trovit.android.apps.commons.ui.widgets.FavoriteAnimatedView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          321.5,
+          311.0
+        ],
+        [
+          342.5,
+          332.0
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          367.5
+        ],
+        [
+          108.5,
+          535.5
+        ]
+      ],
+      "group_id": 43,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "2016 Volvo XC60 T5 Drive-E Premier Tucson, AZ",
+      "label": "text_view",
+      "points": [
+        [
+          119.0,
+          374.5
+        ],
+        [
+          328.5,
+          407.75
+        ]
+      ],
+      "group_id": 45,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Tucson  AZ",
+      "label": "text_view",
+      "points": [
+        [
+          119.0,
+          409.5
+        ],
+        [
+          349.5,
+          423.75
+        ]
+      ],
+      "group_id": 45,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$35,996",
+      "label": "price",
+      "points": [
+        [
+          119.0,
+          423.75
+        ],
+        [
+          200.0,
+          454.25
+        ]
+      ],
+      "group_id": 46,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "1 week ago",
+      "label": "text_view",
+      "points": [
+        [
+          119.0,
+          454.25
+        ],
+        [
+          172.0,
+          468.5
+        ]
+      ],
+      "group_id": 45,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Sponsored",
+      "label": "text_view",
+      "points": [
+        [
+          119.0,
+          473.75
+        ],
+        [
+          178.5,
+          489.0
+        ]
+      ],
+      "group_id": 48,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "5,797",
+      "label": "text_view",
+      "points": [
+        [
+          119.25,
+          491.75
+        ],
+        [
+          160.5,
+          514.25
+        ]
+      ],
+      "group_id": 51,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Miles",
+      "label": "text_view",
+      "points": [
+        [
+          119.25,
+          514.25
+        ],
+        [
+          144.5,
+          528.5
+        ]
+      ],
+      "group_id": 51,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "2016",
+      "label": "text_view",
+      "points": [
+        [
+          179.0,
+          491.75
+        ],
+        [
+          217.0,
+          514.25
+        ]
+      ],
+      "group_id": 52,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Year",
+      "label": "text_view",
+      "points": [
+        [
+          179.0,
+          514.25
+        ],
+        [
+          199.75,
+          528.5
+        ]
+      ],
+      "group_id": 52,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "4",
+      "label": "text_view",
+      "points": [
+        [
+          235.5,
+          491.75
+        ],
+        [
+          245.0,
+          514.25
+        ]
+      ],
+      "group_id": 53,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Doors",
+      "label": "text_view",
+      "points": [
+        [
+          235.5,
+          514.25
+        ],
+        [
+          263.5,
+          528.5
+        ]
+      ],
+      "group_id": 53,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.trovit.android.apps.commons.ui.widgets.FavoriteAnimatedView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          321.5,
+          493.5
+        ],
+        [
+          342.5,
+          514.5
+        ]
+      ],
+      "group_id": 49,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          550.0
+        ],
+        [
+          108.5,
+          598.0
+        ]
+      ],
+      "group_id": 56,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "2015 Volvo XC70 3.2L Premier",
+      "label": "text_view",
+      "points": [
+        [
+          119.0,
+          557.0
+        ],
+        [
+          328.5,
+          574.75
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Middletown  NY",
+      "label": "text_view",
+      "points": [
+        [
+          119.0,
+          576.5
+        ],
+        [
+          349.5,
+          590.75
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$31,988",
+      "label": "price",
+      "points": [
+        [
+          119.0,
+          590.75
+        ],
+        [
+          200.0,
+          598.0
+        ]
+      ],
+      "group_id": 59,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "ad",
+      "points": [
+        [
+          0.0,
+          71.0
+        ],
+        [
+          359.0,
+          178.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          0.0,
+          180.0
+        ],
+        [
+          359.0,
+          360.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          0.0,
+          362.0
+        ],
+        [
+          359.0,
+          542.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          0.0,
+          544.0
+        ],
+        [
+          359.0,
+          598.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "12452.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

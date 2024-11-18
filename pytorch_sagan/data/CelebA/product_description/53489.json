@@ -1,0 +1,193 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          27.75
+        ],
+        [
+          35.0,
+          62.75
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.namshi.android.widgets.ToggleImageView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          324.75,
+          29.0
+        ],
+        [
+          360.0,
+          61.75
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "share_button",
+      "points": [
+        [
+          285.25,
+          27.75
+        ],
+        [
+          320.25,
+          62.75
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.innovattic.font.FontTextView",
+      "text": "GINGER",
+      "label": "text_view",
+      "points": [
+        [
+          34.666666666666664,
+          24.333333333333332
+        ],
+        [
+          281.3333333333333,
+          65.66666666666667
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.facebook.drawee.view.SimpleDraweeView",
+      "class": "com.imageProvider.fresco.photoView.PhotoDraweeView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          12.25,
+          70.0
+        ],
+        [
+          347.75,
+          475.5
+        ]
+      ],
+      "group_id": 102,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.innovattic.font.FontTextView",
+      "text": "39 SAR",
+      "label": "text_view",
+      "points": [
+        [
+          12.25,
+          487.75
+        ],
+        [
+          52.0,
+          504.25
+        ]
+      ],
+      "group_id": 110,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.innovattic.font.FontTextView",
+      "text": "Unicorn Print Mug",
+      "label": "text_view",
+      "points": [
+        [
+          12.25,
+          508.75
+        ],
+        [
+          251.5,
+          525.25
+        ]
+      ],
+      "group_id": 109,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.innovattic.font.FontTextView",
+      "text": "Add to Bag",
+      "label": "cart_add",
+      "points": [
+        [
+          12.0,
+          541.6666666666666
+        ],
+        [
+          348.0,
+          586.3333333333334
+        ]
+      ],
+      "group_id": 127,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "size_picker",
+      "points": [
+        [
+          260.0,
+          493.0
+        ],
+        [
+          348.0,
+          523.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "53489.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

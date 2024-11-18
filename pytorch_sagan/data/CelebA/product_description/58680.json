@@ -1,0 +1,386 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "menu_dashs",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          46.5,
+          64.75
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          46.5,
+          21.0
+        ],
+        [
+          148.25,
+          64.75
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          148.25,
+          21.0
+        ],
+        [
+          213.0,
+          66.5
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "search_button",
+      "points": [
+        [
+          213.0,
+          21.0
+        ],
+        [
+          314.5,
+          64.75
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          314.5,
+          22.0
+        ],
+        [
+          359.25,
+          65.75
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "discount",
+      "points": [
+        [
+          6.666666666666668,
+          72.33333333333333
+        ],
+        [
+          132.66666666666666,
+          89.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "price",
+      "points": [
+        [
+          6.0,
+          101.0
+        ],
+        [
+          137.33333333333334,
+          115.66666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "price",
+      "points": [
+        [
+          8.0,
+          127.0
+        ],
+        [
+          154.0,
+          141.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          8.0,
+          161.66666666666666
+        ],
+        [
+          70.0,
+          175.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          8.0,
+          247.66666666666666
+        ],
+        [
+          91.33333333333333,
+          262.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          6.666666666666668,
+          332.3333333333333
+        ],
+        [
+          103.33333333333333,
+          347.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "size_picker",
+      "points": [
+        [
+          9.333333333333332,
+          182.33333333333334
+        ],
+        [
+          352.0,
+          229.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "quantity_counter",
+      "points": [
+        [
+          8.666666666666668,
+          268.3333333333333
+        ],
+        [
+          352.0,
+          314.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cart_add",
+      "points": [
+        [
+          8.666666666666668,
+          367.6666666666667
+        ],
+        [
+          352.0,
+          407.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "drop_down_list",
+      "points": [
+        [
+          0.6666666666666661,
+          457.6666666666667
+        ],
+        [
+          359,
+          490
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "drop_down_list",
+      "points": [
+        [
+          1.0000000000000089,
+          493.66666666666663
+        ],
+        [
+          359.33333333333337,
+          526.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "drop_down_list",
+      "points": [
+        [
+          -1.333333333333334,
+          529.6666666666667
+        ],
+        [
+          357.00000000000006,
+          562.0000000000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "drop_down_list",
+      "points": [
+        [
+          -0.3333333333333339,
+          566.3333333333334
+        ],
+        [
+          358.0,
+          598.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "twitter_button",
+      "points": [
+        [
+          210.0,
+          424.3333333333333
+        ],
+        [
+          264.0,
+          443.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "fb_button",
+      "points": [
+        [
+          123.33333333333334,
+          425.0
+        ],
+        [
+          183.33333333333334,
+          443.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "icon_button",
+      "points": [
+        [
+          43.333333333333336,
+          425.6666666666667
+        ],
+        [
+          114.66666666666667,
+          442.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msg_icon",
+      "points": [
+        [
+          8.666666666666668,
+          425.6666666666667
+        ],
+        [
+          33.333333333333336,
+          441.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "58680.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

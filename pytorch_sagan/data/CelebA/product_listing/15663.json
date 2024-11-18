@@ -1,0 +1,602 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          63.0,
+          35.0
+        ],
+        [
+          227.75,
+          55.75
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "menu_dashs",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          325.0,
+          35.0
+        ],
+        [
+          351.25,
+          56.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          360.0,
+          71.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "ALL THE SALES",
+      "label": "text_view",
+      "points": [
+        [
+          10.5,
+          83.75
+        ],
+        [
+          98.5,
+          100.25
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "FASHION & BEAUTY",
+      "label": "text_view",
+      "points": [
+        [
+          119.5,
+          83.75
+        ],
+        [
+          230.0,
+          100.25
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "CHILDREN",
+      "label": "text_view",
+      "points": [
+        [
+          251.0,
+          83.75
+        ],
+        [
+          309.5,
+          100.25
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "HOMEWARE",
+      "label": "text_view",
+      "points": [
+        [
+          330.5,
+          83.75
+        ],
+        [
+          360.0,
+          100.25
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.holosfind.showroom.widget.SquaredImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          1.75,
+          115.75
+        ],
+        [
+          178.25,
+          292.25
+        ]
+      ],
+      "group_id": 51,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          152.75,
+          294.0
+        ],
+        [
+          173.75,
+          318.5
+        ]
+      ],
+      "group_id": 52,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.holosfind.showroom.widget.PodiumImageview",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          50.75,
+          271.75
+        ],
+        [
+          129.5,
+          312.75
+        ]
+      ],
+      "group_id": 50,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.holosfind.showroom.widget.SquaredImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          181.75,
+          115.75
+        ],
+        [
+          358.25,
+          292.25
+        ]
+      ],
+      "group_id": 55,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          332.75,
+          294.0
+        ],
+        [
+          353.75,
+          318.5
+        ]
+      ],
+      "group_id": 56,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.holosfind.showroom.widget.PodiumImageview",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          230.75,
+          271.75
+        ],
+        [
+          309.5,
+          312.75
+        ]
+      ],
+      "group_id": 54,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.holosfind.showroom.widget.SquaredImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          1.75,
+          325.75
+        ],
+        [
+          178.25,
+          502.25
+        ]
+      ],
+      "group_id": 59,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          152.75,
+          504.0
+        ],
+        [
+          173.75,
+          528.5
+        ]
+      ],
+      "group_id": 60,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.holosfind.showroom.widget.PodiumImageview",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          50.75,
+          481.75
+        ],
+        [
+          129.5,
+          522.75
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.holosfind.showroom.widget.SquaredImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          181.75,
+          325.75
+        ],
+        [
+          358.25,
+          502.25
+        ]
+      ],
+      "group_id": 63,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          186.25,
+          504.0
+        ],
+        [
+          220.5,
+          528.5
+        ]
+      ],
+      "group_id": 64,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          332.75,
+          504.0
+        ],
+        [
+          353.75,
+          528.5
+        ]
+      ],
+      "group_id": 64,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.holosfind.showroom.widget.PodiumImageview",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          230.75,
+          481.75
+        ],
+        [
+          309.5,
+          522.75
+        ]
+      ],
+      "group_id": 62,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.holosfind.showroom.widget.SquaredImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          1.75,
+          535.75
+        ],
+        [
+          178.25,
+          598.0
+        ]
+      ],
+      "group_id": 67,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.holosfind.showroom.widget.SquaredImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          181.75,
+          535.75
+        ],
+        [
+          358.25,
+          598.0
+        ]
+      ],
+      "group_id": 71,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "tab_bar",
+      "points": [
+        [
+          0.0,
+          70.33333333333333
+        ],
+        [
+          359.0,
+          113.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          2.0,
+          115.0
+        ],
+        [
+          178.66666666666666,
+          321.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          182.0,
+          115.0
+        ],
+        [
+          358.6666666666667,
+          321.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          1.333333333333334,
+          325.6666666666667
+        ],
+        [
+          179.33333333333334,
+          531.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          181.33333333333334,
+          324.3333333333333
+        ],
+        [
+          359.0,
+          530.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          2.0,
+          535.0
+        ],
+        [
+          179.33333333333334,
+          597.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          182.66666666666666,
+          534.3333333333334
+        ],
+        [
+          359.0,
+          599.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "15663.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

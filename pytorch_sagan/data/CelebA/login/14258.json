@@ -1,0 +1,181 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     31.25,
+     129.25
+    ],
+    [
+     328.75,
+     171.0
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "Email",
+   "label": "email",
+   "points": [
+    [
+     63.75,
+     188.5
+    ],
+    [
+     296.0,
+     236.25
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     63.75,
+     245.0
+    ],
+    [
+     296.0,
+     292.75
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign In",
+   "label": "tb_log_in",
+   "points": [
+    [
+     141.5,
+     292.75
+    ],
+    [
+     218.5,
+     334.75
+    ]
+   ],
+   "group_id": 993,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Stay Logged In",
+   "label": "text_view",
+   "points": [
+    [
+     105.25,
+     344.0
+    ],
+    [
+     204.25,
+     364.25
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.CompoundButton",
+   "class": "android.support.v7.widget.SwitchCompat",
+   "text": "",
+   "label": "check_box",
+   "points": [
+    [
+     213.0,
+     343.5
+    ],
+    [
+     254.5,
+     367.25
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Forgot Password?",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     115.0,
+     376.0
+    ],
+    [
+     244.75,
+     418.0
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Demo Mode",
+   "label": "text_button",
+   "points": [
+    [
+     92.5,
+     556.0
+    ],
+    [
+     267.5,
+     598.0
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "14258.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

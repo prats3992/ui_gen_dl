@@ -1,0 +1,250 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "com.tracfone.generic.myaccountuilibrary.ui.TextViewCustomFont",
+   "text": "    LOG IN WITH YOUR EMAIL",
+   "label": "text_view",
+   "points": [
+    [
+     9.0,
+     80.75
+    ],
+    [
+     351.0,
+     105.25
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.tracfone.generic.myaccountuilibrary.ui.EditTextCustomFont",
+   "text": "Email",
+   "label": "email",
+   "points": [
+    [
+     22.25,
+     121.25
+    ],
+    [
+     337.75,
+     147.5
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.tracfone.generic.myaccountuilibrary.ui.EditTextCustomFont",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     22.25,
+     152.0
+    ],
+    [
+     337.75,
+     178.25
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.tracfone.generic.myaccountuilibrary.ui.ButtonCustomFont",
+   "text": "LOGIN",
+   "label": "log_in",
+   "points": [
+    [
+     22.25,
+     182.75
+    ],
+    [
+     337.75,
+     217.75
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.tracfone.generic.myaccountuilibrary.ui.TextViewCustomFont",
+   "text": "Forgot Password?",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     22.25,
+     231.0
+    ],
+    [
+     107.5,
+     245.25
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.tracfone.generic.myaccountuilibrary.ui.TextViewCustomFont",
+   "text": "Forgot your email?",
+   "label": "tb_forgot_username",
+   "points": [
+    [
+     251.25,
+     231.0
+    ],
+    [
+     337.75,
+     245.25
+    ]
+   ],
+   "group_id": 981,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.CheckBox",
+   "class": "android.support.v7.widget.AppCompatCheckBox",
+   "text": "  Keep Me Logged In",
+   "label": "check_box",
+   "points": [
+    [
+     22.25,
+     258.5
+    ],
+    [
+     167.25,
+     277.5
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.tracfone.generic.myaccountuilibrary.ui.TextViewCustomFont",
+   "text": "    OR LOG IN WITH FACEBOOK",
+   "label": "text_view",
+   "points": [
+    [
+     9.0,
+     299.5
+    ],
+    [
+     351.0,
+     324.0
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "com.facebook.FacebookButtonBase",
+   "class": "com.facebook.login.widget.LoginButton",
+   "text": "Log in with Facebook",
+   "label": "fb_button",
+   "points": [
+    [
+     22.25,
+     337.25
+    ],
+    [
+     337.75,
+     370.0
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.tracfone.generic.myaccountuilibrary.ui.TextViewCustomFont",
+   "text": "Create Account",
+   "label": "text_view",
+   "points": [
+    [
+     266.0,
+     383.25
+    ],
+    [
+     337.75,
+     397.5
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.tracfone.generic.myaccountuilibrary.ui.ButtonCustomFont",
+   "text": "CANCEL",
+   "label": "button",
+   "points": [
+    [
+     136.25,
+     524.0
+    ],
+    [
+     223.75,
+     550.25
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "101.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

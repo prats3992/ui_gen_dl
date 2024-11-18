@@ -1,0 +1,99 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          5.666666666666666,
+          31.0
+        ],
+        [
+          59.0,
+          55.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "log_in",
+      "points": [
+        [
+          306.3333333333333,
+          30.333333333333332
+        ],
+        [
+          353.6666666666667,
+          55.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sign_up",
+      "points": [
+        [
+          75.0,
+          285.6666666666667
+        ],
+        [
+          287.0,
+          323.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "email",
+      "points": [
+        [
+          74.33333333333333,
+          197.0
+        ],
+        [
+          287.0,
+          233.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "password",
+      "points": [
+        [
+          75.0,
+          236.33333333333334
+        ],
+        [
+          286.3333333333333,
+          273.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "13195.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

@@ -1,0 +1,348 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     17.5,
+     84.0
+    ],
+    [
+     121.75,
+     110.25
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "To NAB",
+   "label": "text_view",
+   "points": [
+    [
+     17.5,
+     119.0
+    ],
+    [
+     298.75,
+     174.5
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Register >",
+   "label": "text_view",
+   "points": [
+    [
+     17.5,
+     185.0
+    ],
+    [
+     67.25,
+     200.75
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     304.25,
+     84.0
+    ],
+    [
+     353.0,
+     155.0
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Login",
+   "label": "log_in",
+   "points": [
+    [
+     14.0,
+     500.0
+    ],
+    [
+     346.0,
+     538.5
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     34.5,
+     552.5
+    ],
+    [
+     55.5,
+     573.5
+    ]
+   ],
+   "group_id": 26,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Home",
+   "label": "text_view",
+   "points": [
+    [
+     29.5,
+     575.25
+    ],
+    [
+     60.5,
+     591.0
+    ]
+   ],
+   "group_id": 26,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     124.5,
+     560.0
+    ],
+    [
+     145.5,
+     581.0
+    ]
+   ],
+   "group_id": 29,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Balances",
+   "label": "text_view",
+   "points": [
+    [
+     112.0,
+     583.25
+    ],
+    [
+     158.0,
+     583.25
+    ]
+   ],
+   "group_id": 29,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     214.5,
+     560.0
+    ],
+    [
+     235.5,
+     581.0
+    ]
+   ],
+   "group_id": 32,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "NAB Pay",
+   "label": "text_view",
+   "points": [
+    [
+     203.5,
+     583.25
+    ],
+    [
+     246.5,
+     583.25
+    ]
+   ],
+   "group_id": 32,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     304.5,
+     560.0
+    ],
+    [
+     325.5,
+     581.0
+    ]
+   ],
+   "group_id": 35,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Find us",
+   "label": "text_view",
+   "points": [
+    [
+     296.5,
+     583.25
+    ],
+    [
+     333.5,
+     583.25
+    ]
+   ],
+   "group_id": 35,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "NAB",
+   "label": "text_view",
+   "points": [
+    [
+     49.0,
+     35.5
+    ],
+    [
+     77.0,
+     55.5
+    ]
+   ],
+   "group_id": 48,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.widget.ImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     49.0,
+     70.0
+    ]
+   ],
+   "group_id": 48,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "label": "tab_bar",
+   "points": [
+    [
+     0.3333333333333357,
+     549.0
+    ],
+    [
+     359.0,
+     597.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "13360.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

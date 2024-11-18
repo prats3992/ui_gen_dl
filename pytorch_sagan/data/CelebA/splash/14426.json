@@ -1,0 +1,120 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     92.5,
+     87.5
+    ],
+    [
+     267.5,
+     349.0
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "fb_button",
+   "points": [
+    [
+     28.33333333333333,
+     453.0
+    ],
+    [
+     331.6666666666667,
+     501.6666666666667
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.mindbodyonline.views.LatoTextView",
+   "text": "Continue with Facebook",
+   "label": "text_view",
+   "points": [
+    [
+     124.25,
+     467.5
+    ],
+    [
+     274.0,
+     486.75
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "email_button",
+   "points": [
+    [
+     28.33333333333333,
+     509.0
+    ],
+    [
+     331.0,
+     556.3333333333334
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.mindbodyonline.views.LatoTextView",
+   "text": "Continue with email",
+   "label": "text_view",
+   "points": [
+    [
+     124.25,
+     522.75
+    ],
+    [
+     247.75,
+     542.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "14426.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

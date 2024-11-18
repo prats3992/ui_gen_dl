@@ -1,0 +1,202 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Discover for what you love! \nStay for what you discover!",
+   "label": "text_view",
+   "points": [
+    [
+     92.0,
+     43.0
+    ],
+    [
+     267.75,
+     78.5
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     112.75,
+     82.25
+    ],
+    [
+     247.0,
+     216.5
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     81.08333333333334,
+     413.5
+    ],
+    [
+     109.08333333333334,
+     434.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Login with phone number",
+   "label": "log_in",
+   "points": [
+    [
+     75.0,
+     406.3333333333333
+    ],
+    [
+     284.3333333333333,
+     442.3333333333333
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     82.75,
+     466.0
+    ],
+    [
+     103.75,
+     487.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Login with Facebook",
+   "label": "fb_button",
+   "points": [
+    [
+     74.33333333333333,
+     457.6666666666667
+    ],
+    [
+     285.0,
+     493.6666666666667
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Skip & Explore",
+   "label": "button",
+   "points": [
+    [
+     73.0,
+     511.0
+    ],
+    [
+     285.0,
+     547.6666666666666
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Your data will be secured",
+   "label": "text_view",
+   "points": [
+    [
+     111.75,
+     572.75
+    ],
+    [
+     248.25,
+     589.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "v. 5.0.3",
+   "label": "text_view",
+   "points": [
+    [
+     166.0,
+     586.25
+    ],
+    [
+     193.75,
+     598.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "11701.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

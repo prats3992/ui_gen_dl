@@ -1,0 +1,694 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "sort_selector",
+      "points": [
+        [
+          0.0,
+          68.25
+        ],
+        [
+          360.0,
+          109.0
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "com.lightinthebox.android.ui.view.SelectableRoundedImageView",
+      "class": "com.lightinthebox.android.ui.view.FixedShapeImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          7.0,
+          116.0
+        ],
+        [
+          176.5,
+          285.5
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          126.0,
+          259.0
+        ],
+        [
+          170.0,
+          279.0
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "USD $12.99",
+      "label": "price_s",
+      "points": [
+        [
+          12.25,
+          289.0
+        ],
+        [
+          63.25,
+          302.25
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "USD $9.99",
+      "label": "price",
+      "points": [
+        [
+          12.25,
+          302.25
+        ],
+        [
+          154.75,
+          318.75
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          159.25,
+          305.0
+        ],
+        [
+          172.0,
+          317.75
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.lightinthebox.android.ui.view.SelectableRoundedImageView",
+      "class": "com.lightinthebox.android.ui.view.FixedShapeImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          183.5,
+          116.0
+        ],
+        [
+          353.0,
+          285.5
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          301.3333333333333,
+          259.0
+        ],
+        [
+          347.3333333333333,
+          279.6666666666667
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "USD $17.99",
+      "label": "price_s",
+      "points": [
+        [
+          188.75,
+          289.0
+        ],
+        [
+          239.75,
+          302.25
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "USD $12.99",
+      "label": "price",
+      "points": [
+        [
+          188.75,
+          302.25
+        ],
+        [
+          344.0,
+          318.75
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.lightinthebox.android.ui.view.SelectableRoundedImageView",
+      "class": "com.lightinthebox.android.ui.view.FixedShapeImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          7.0,
+          329.25
+        ],
+        [
+          176.5,
+          556.25
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          126.0,
+          529.6666666666666
+        ],
+        [
+          170.66666666666666,
+          551.0
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.lightinthebox.android.ui.view.SelectableRoundedImageView",
+      "class": "com.lightinthebox.android.ui.view.FixedShapeImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          183.5,
+          329.25
+        ],
+        [
+          353.0,
+          498.75
+        ]
+      ],
+      "group_id": 43,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          301.3333333333333,
+          472.3333333333333
+        ],
+        [
+          348.0,
+          493.6666666666667
+        ]
+      ],
+      "group_id": 45,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "USD $9.99",
+      "label": "price",
+      "points": [
+        [
+          188.75,
+          502.25
+        ],
+        [
+          331.25,
+          518.75
+        ]
+      ],
+      "group_id": 49,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          335.75,
+          505.0
+        ],
+        [
+          348.5,
+          517.75
+        ]
+      ],
+      "group_id": 50,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.lightinthebox.android.ui.view.SelectableRoundedImageView",
+      "class": "com.lightinthebox.android.ui.view.FixedShapeImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          183.5,
+          529.25
+        ],
+        [
+          353.0,
+          598.0
+        ]
+      ],
+      "group_id": 53,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Relevance",
+      "label": "text_button",
+      "points": [
+        [
+          25.5,
+          80.75
+        ],
+        [
+          77.25,
+          96.25
+        ]
+      ],
+      "group_id": 86,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Popular",
+      "label": "text_button",
+      "points": [
+        [
+          134.25,
+          80.75
+        ],
+        [
+          173.75,
+          96.25
+        ]
+      ],
+      "group_id": 88,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Price",
+      "label": "text_button",
+      "points": [
+        [
+          237.75,
+          80.75
+        ],
+        [
+          276.0,
+          96.25
+        ]
+      ],
+      "group_id": 90,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "New Arrivals",
+      "label": "text_button",
+      "points": [
+        [
+          327.25,
+          80.75
+        ],
+        [
+          360.0,
+          96.25
+        ]
+      ],
+      "group_id": 92,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "top_bar",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          360.0,
+          68.25
+        ]
+      ],
+      "group_id": 93,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          5.25,
+          26.0
+        ],
+        [
+          42.5,
+          63.25
+        ]
+      ],
+      "group_id": 93,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.lightinthebox.android.ui.view.CustomMarqueeTextView",
+      "text": "dresses",
+      "label": "text_view",
+      "points": [
+        [
+          152.25,
+          34.0
+        ],
+        [
+          207.75,
+          55.25
+        ]
+      ],
+      "group_id": 94,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "search_button",
+      "points": [
+        [
+          314.0,
+          26.0
+        ],
+        [
+          351.25,
+          63.25
+        ]
+      ],
+      "group_id": 95,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          15.25,
+          558.25
+        ],
+        [
+          39.25,
+          582.25
+        ]
+      ],
+      "group_id": 98,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          56.0,
+          558.25
+        ],
+        [
+          80.0,
+          582.25
+        ]
+      ],
+      "group_id": 99,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          96.75,
+          558.25
+        ],
+        [
+          120.75,
+          582.25
+        ]
+      ],
+      "group_id": 100,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "",
+      "class": "",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          143.75,
+          575.75
+        ],
+        [
+          172.0,
+          588.5
+        ]
+      ],
+      "group_id": 40,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "box_outline",
+      "points": [
+        [
+          6.666666666666668,
+          551.0
+        ],
+        [
+          129.33333333333334,
+          589.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          5.333333333333332,
+          114.33333333333333
+        ],
+        [
+          178.0,
+          325.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          183.33333333333334,
+          114.33333333333333
+        ],
+        [
+          356.0,
+          325.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          6.666666666666668,
+          328.3333333333333
+        ],
+        [
+          178.0,
+          595.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          182.0,
+          328.3333333333333
+        ],
+        [
+          354.6666666666667,
+          524.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          183.33333333333334,
+          528.3333333333334
+        ],
+        [
+          353.3333333333333,
+          599.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "14946.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

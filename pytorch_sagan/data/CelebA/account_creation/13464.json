@@ -1,0 +1,229 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.widget.ImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     49.0,
+     70.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Sign Up!",
+   "label": "text_view",
+   "points": [
+    [
+     91.5,
+     84.0
+    ],
+    [
+     268.25,
+     149.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "",
+   "label": "name",
+   "points": [
+    [
+     42.0,
+     180.0
+    ],
+    [
+     318.0,
+     219.5
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "",
+   "label": "last_name",
+   "points": [
+    [
+     42.0,
+     236.0
+    ],
+    [
+     318.0,
+     275.5
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "",
+   "label": "email",
+   "points": [
+    [
+     42.0,
+     292.0
+    ],
+    [
+     318.0,
+     331.5
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "",
+   "label": "password",
+   "points": [
+    [
+     42.0,
+     348.0
+    ],
+    [
+     318.0,
+     387.5
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "",
+   "label": "password",
+   "points": [
+    [
+     42.0,
+     404.0
+    ],
+    [
+     318.0,
+     443.5
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "",
+   "label": "phone_number",
+   "points": [
+    [
+     42.0,
+     460.0
+    ],
+    [
+     318.0,
+     499.5
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.CompoundButton",
+   "class": "android.support.v7.widget.SwitchCompat",
+   "text": "",
+   "label": "toggle",
+   "points": [
+    [
+     42.0,
+     510.0
+    ],
+    [
+     83.5,
+     533.75
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "I Agree to Takl's Terms of Use and Privacy Policy",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     94.0,
+     506.5
+    ],
+    [
+     307.5,
+     537.25
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "sign_up",
+   "points": [
+    [
+     16.333333333333332,
+     563.0
+    ],
+    [
+     341.6666666666667,
+     598.3333333333334
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "13464.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

@@ -1,0 +1,315 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.Button",
+   "class": "grit.storytel.app.view.helpers.FontelloButton",
+   "text": "",
+   "label": "button",
+   "points": [
+    [
+     8.75,
+     21.0
+    ],
+    [
+     43.75,
+     63.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "grit.storytel.app.view.helpers.LatoRegEditText",
+   "text": "Search",
+   "label": "text_view",
+   "points": [
+    [
+     52.5,
+     29.0
+    ],
+    [
+     271.0,
+     61.666666666666664
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "grit.storytel.app.view.helpers.PlayFairTextView",
+   "text": "Login",
+   "label": "top_bar",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     360.0,
+     68.25
+    ]
+   ],
+   "group_id": 34,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     27.25,
+     145.0
+    ],
+    [
+     144.25,
+     146.0
+    ]
+   ],
+   "group_id": 36,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "grit.storytel.app.view.helpers.MateTextView",
+   "text": "Or with",
+   "label": "text_view",
+   "points": [
+    [
+     144.25,
+     138.25
+    ],
+    [
+     222.25,
+     153.0
+    ]
+   ],
+   "group_id": 36,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     222.25,
+     145.0
+    ],
+    [
+     339.75,
+     146.0
+    ]
+   ],
+   "group_id": 36,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.facebook.widget.LoginButton",
+   "text": "Log in with Facebook",
+   "label": "fb_button",
+   "points": [
+    [
+     27.25,
+     83.0
+    ],
+    [
+     339.75,
+     125.0
+    ]
+   ],
+   "group_id": 35,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "grit.storytel.app.view.helpers.LatoRegEditText",
+   "text": "E-mail",
+   "label": "email",
+   "points": [
+    [
+     27.25,
+     166.25
+    ],
+    [
+     339.75,
+     204.0
+    ]
+   ],
+   "group_id": 35,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "grit.storytel.app.view.helpers.LatoRegEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     27.25,
+     217.25
+    ],
+    [
+     339.75,
+     255.0
+    ]
+   ],
+   "group_id": 35,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "grit.storytel.app.view.helpers.LatoRegButton",
+   "text": "Login",
+   "label": "log_in",
+   "points": [
+    [
+     27.25,
+     268.25
+    ],
+    [
+     339.75,
+     310.25
+    ]
+   ],
+   "group_id": 35,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "grit.storytel.app.view.helpers.LatoRegButton",
+   "text": "Create Account",
+   "label": "sign_up",
+   "points": [
+    [
+     27.25,
+     327.75
+    ],
+    [
+     339.75,
+     369.75
+    ]
+   ],
+   "group_id": 35,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "grit.storytel.app.view.helpers.LatoBoldButton",
+   "text": "Forgot password?",
+   "label": "button",
+   "points": [
+    [
+     27.25,
+     383.0
+    ],
+    [
+     339.75,
+     425.0
+    ]
+   ],
+   "group_id": 35,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "grit.storytel.app.view.helpers.LatoBoldButton",
+   "text": "Test ",
+   "label": "button",
+   "points": [
+    [
+     27.25,
+     438.25
+    ],
+    [
+     339.75,
+     480.25
+    ]
+   ],
+   "group_id": 35,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "grit.storytel.app.view.helpers.FontelloButton",
+   "text": "",
+   "label": "menu_dashs",
+   "points": [
+    [
+     8.75,
+     21.0
+    ],
+    [
+     43.75,
+     63.0
+    ]
+   ],
+   "group_id": 42,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "box_outline",
+   "points": [
+    [
+     0.0,
+     69.0
+    ],
+    [
+     359,
+     484
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "12593.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

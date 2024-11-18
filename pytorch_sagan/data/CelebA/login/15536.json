@@ -1,0 +1,179 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     49.0,
+     313.5
+    ],
+    [
+     311.0,
+     347.5
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "LOGIN",
+   "label": "log_in",
+   "points": [
+    [
+     49.0,
+     365.0
+    ],
+    [
+     311.0,
+     407.0
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.freeplus.textview.GothamRnd",
+   "text": "Forgot Password?",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     124.75,
+     433.25
+    ],
+    [
+     235.0,
+     449.0
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "Email",
+   "label": "email",
+   "points": [
+    [
+     49.0,
+     270.75
+    ],
+    [
+     311.0,
+     304.75
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "LOGIN",
+   "label": "text_view",
+   "points": [
+    [
+     154.0,
+     228.25
+    ],
+    [
+     205.75,
+     248.75
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     28.0
+    ],
+    [
+     38.0,
+     56.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     34.75,
+     28.0
+    ],
+    [
+     62.75,
+     56.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Login",
+   "label": "text_view",
+   "points": [
+    [
+     66.25,
+     32.5
+    ],
+    [
+     101.25,
+     51.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "15536.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

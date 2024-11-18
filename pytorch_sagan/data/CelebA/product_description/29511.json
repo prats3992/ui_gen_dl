@@ -1,0 +1,343 @@
+{
+ "version": "4.5.6",
+ "flags": {
+  "done": true,
+  "review": false,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": true,
+  "splash": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     8.75,
+     25.25
+    ],
+    [
+     43.75,
+     60.25
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "share_button",
+   "points": [
+    [
+     316.25,
+     25.25
+    ],
+    [
+     351.25,
+     60.25
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "eBay.com",
+   "label": "text_view",
+   "points": [
+    [
+     142.0,
+     25.25
+    ],
+    [
+     217.75,
+     60.25
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "wish_list",
+   "points": [
+    [
+     272.5,
+     25.25
+    ],
+    [
+     307.5,
+     60.25
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     0.0,
+     545.5
+    ],
+    [
+     360.0,
+     546.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "BUY AT ALIEXPRESS",
+   "label": "buy",
+   "points": [
+    [
+     43.75,
+     554.25
+    ],
+    [
+     316.25,
+     589.25
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     64.75
+    ],
+    [
+     360.0,
+     424.75
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.select.ninedollars.view.RobotoTextView",
+   "text": "$14.99",
+   "label": "price",
+   "points": [
+    [
+     17.5,
+     444.0
+    ],
+    [
+     113.33333333333333,
+     472.3333333333333
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "/",
+   "label": "text_view",
+   "points": [
+    [
+     118.0,
+     450.75
+    ],
+    [
+     124.5,
+     472.0
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.select.ninedollars.view.RobotoTextView",
+   "text": "$50.99USD",
+   "label": "price_s",
+   "points": [
+    [
+     129.0,
+     450.75
+    ],
+    [
+     208.75,
+     472.0
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.select.ninedollars.view.RobotoTextView",
+   "text": "10",
+   "label": "rating_bar",
+   "points": [
+    [
+     249.33333333333331,
+     456.3333333333333
+    ],
+    [
+     322.6666666666667,
+     472.3333333333333
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.select.ninedollars.view.RobotoTextView",
+   "text": "90%OFF+ Emoji Charm Bracelet",
+   "label": "text_view",
+   "points": [
+    [
+     17.5,
+     480.75
+    ],
+    [
+     229.0,
+     509.75
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Emoji",
+   "label": "text_view",
+   "points": [
+    [
+     22.0,
+     514.25
+    ],
+    [
+     61.75,
+     532.75
+    ]
+   ],
+   "group_id": 20,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Bracelet",
+   "label": "text_view",
+   "points": [
+    [
+     66.25,
+     514.25
+    ],
+    [
+     120.25,
+     532.75
+    ]
+   ],
+   "group_id": 20,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Charm",
+   "label": "text_view",
+   "points": [
+    [
+     124.75,
+     514.25
+    ],
+    [
+     170.25,
+     532.75
+    ]
+   ],
+   "group_id": 20,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "",
+   "class": "",
+   "text": "",
+   "label": "navigation_dots",
+   "points": [
+    [
+     167.0,
+     385.5
+    ],
+    [
+     193.0,
+     394.25
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": false
+   }
+  }
+ ],
+ "imagePath": "29511.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

@@ -1,0 +1,411 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          17.5,
+          21.0
+        ],
+        [
+          342.5,
+          110.25
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Create an account for FREE!",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          114.75
+        ],
+        [
+          342.5,
+          140.25
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "You are a",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          162.25
+        ],
+        [
+          180.0,
+          181.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Male",
+      "label": "text_view",
+      "points": [
+        [
+          180.0,
+          162.25
+        ],
+        [
+          342.5,
+          181.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Female",
+      "label": "button",
+      "points": [
+        [
+          22.75,
+          184.5
+        ],
+        [
+          178.25,
+          216.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Male",
+      "label": "text_view",
+      "points": [
+        [
+          181.75,
+          184.5
+        ],
+        [
+          337.25,
+          216.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Seeking",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          237.0
+        ],
+        [
+          180.0,
+          255.75
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Female",
+      "label": "text_view",
+      "points": [
+        [
+          180.0,
+          237.0
+        ],
+        [
+          342.5,
+          255.75
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Female",
+      "label": "button",
+      "points": [
+        [
+          22.75,
+          259.25
+        ],
+        [
+          178.25,
+          290.75
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Male",
+      "label": "button",
+      "points": [
+        [
+          181.75,
+          259.25
+        ],
+        [
+          337.25,
+          290.75
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Location (click to change)",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          311.75
+        ],
+        [
+          342.5,
+          330.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.EditText",
+      "text": "Enter your zip code or city name",
+      "label": "location",
+      "points": [
+        [
+          17.5,
+          330.5
+        ],
+        [
+          342.5,
+          372.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Birth date (click to change)",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          385.75
+        ],
+        [
+          342.5,
+          404.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.EditText",
+      "text": "March 23, 1999",
+      "label": "date_picker",
+      "points": [
+        [
+          17.5,
+          404.5
+        ],
+        [
+          342.5,
+          446.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Email",
+      "label": "text_view",
+      "points": [
+        [
+          22.0,
+          459.75
+        ],
+        [
+          342.5,
+          478.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.EditText",
+      "text": "Enter your email address",
+      "label": "email",
+      "points": [
+        [
+          17.5,
+          478.5
+        ],
+        [
+          342.5,
+          520.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Password",
+      "label": "text_view",
+      "points": [
+        [
+          22.0,
+          533.75
+        ],
+        [
+          342.5,
+          552.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.EditText",
+      "text": "Enter your password",
+      "label": "password",
+      "points": [
+        [
+          17.5,
+          552.5
+        ],
+        [
+          342.5,
+          594.5
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gender_picker",
+      "points": [
+        [
+          19.666666666666664,
+          180.33333333333334
+        ],
+        [
+          340.3333333333333,
+          219.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gender_picker",
+      "points": [
+        [
+          19.0,
+          254.33333333333334
+        ],
+        [
+          340.3333333333333,
+          294.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "13443.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

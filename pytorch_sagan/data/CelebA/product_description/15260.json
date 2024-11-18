@@ -1,0 +1,748 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false,
+    "review": true
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.bigoven.android.widgets.SquareImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          360.0,
+          252.0
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.viewpagerindicator.CirclePageIndicator",
+      "class": "com.bigoven.android.widgets.CirclePagerIndicator",
+      "text": "",
+      "label": "navigation_dots",
+      "points": [
+        [
+          124.33333333333331,
+          24.333333333333336
+        ],
+        [
+          230.66666666666677,
+          35.83333333333334
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.m",
+      "text": "",
+      "label": "share_button",
+      "points": [
+        [
+          318.0,
+          70.0
+        ],
+        [
+          353.0,
+          105.0
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.m",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          318.0,
+          112.0
+        ],
+        [
+          353.0,
+          147.0
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.m",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          318.0,
+          154.0
+        ],
+        [
+          353.0,
+          189.0
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "Addicting Buttery Chocolate Covered Ritz Toffee (aka...Christmas Crack)",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          184.5
+        ],
+        [
+          360.0,
+          252.0
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.o",
+      "class": "android.support.v7.widget.ActionMenuPresenter$d",
+      "text": "",
+      "label": "menu_dots",
+      "points": [
+        [
+          325.0,
+          24.5
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "de.hdodenhof.circleimageview.CircleImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          17.5,
+          259.0
+        ],
+        [
+          38.5,
+          280.0
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "halfbakedharvestrecipes",
+      "label": "text_view",
+      "points": [
+        [
+          49.0,
+          260.0
+        ],
+        [
+          214.0,
+          279.0
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.m",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          224.5,
+          259.0
+        ],
+        [
+          328.3333333333333,
+          279.0
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "0",
+      "label": "text_view",
+      "points": [
+        [
+          334.75,
+          261.0
+        ],
+        [
+          342.5,
+          280.0
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "Ingredients",
+      "label": "tab_bar_button",
+      "points": [
+        [
+          0.0,
+          298.0
+        ],
+        [
+          119.66666666666666,
+          328.3333333333333
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "Preparation",
+      "label": "tab_bar_button",
+      "points": [
+        [
+          119.66666666666666,
+          297.6666666666667
+        ],
+        [
+          236.33333333333334,
+          329.0
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "Nutrition",
+      "label": "tab_bar_button",
+      "points": [
+        [
+          237.0,
+          297.0
+        ],
+        [
+          359.0,
+          329.0
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.o",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          54.0,
+          343.0
+        ],
+        [
+          75.0,
+          364.0
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "30 min. prep",
+      "label": "text_view",
+      "points": [
+        [
+          30.5,
+          367.5
+        ],
+        [
+          98.5,
+          384.0
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.o",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          169.25,
+          343.0
+        ],
+        [
+          190.25,
+          364.0
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "30 min. cook",
+      "label": "text_view",
+      "points": [
+        [
+          144.5,
+          367.5
+        ],
+        [
+          215.0,
+          384.0
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.o",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          282.0,
+          346.0
+        ],
+        [
+          303.0,
+          367.0
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.o",
+      "text": "",
+      "label": "drop_down_list",
+      "points": [
+        [
+          304.1666666666667,
+          344.5
+        ],
+        [
+          325.1666666666667,
+          365.5
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "10 Servings",
+      "label": "text_view",
+      "points": [
+        [
+          263.25,
+          366.25
+        ],
+        [
+          327.0,
+          382.75
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "30-40 Ritz",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          401.5
+        ],
+        [
+          112.0,
+          420.5
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "crackers",
+      "label": "text_view",
+      "points": [
+        [
+          126.0,
+          401.5
+        ],
+        [
+          339.0,
+          420.5
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          7.0,
+          431.0
+        ],
+        [
+          353.0,
+          431.5
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "8 tablespoons",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          442.0
+        ],
+        [
+          112.0,
+          461.0
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "unsalted butter, at room temperature",
+      "label": "text_view",
+      "points": [
+        [
+          126.0,
+          442.0
+        ],
+        [
+          339.0,
+          477.5
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          7.0,
+          488.0
+        ],
+        [
+          353.0,
+          488.5
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "1/3 cup",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          499.0
+        ],
+        [
+          112.0,
+          518.0
+        ]
+      ],
+      "group_id": 39,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "real maple syrup",
+      "label": "text_view",
+      "points": [
+        [
+          126.0,
+          499.0
+        ],
+        [
+          339.0,
+          518.0
+        ]
+      ],
+      "group_id": 39,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          7.0,
+          528.5
+        ],
+        [
+          353.0,
+          529.0
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "12 ounces",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          539.5
+        ],
+        [
+          112.0,
+          554.25
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.y",
+      "text": "semi sweet chocolate chips (or more!)",
+      "label": "text_view",
+      "points": [
+        [
+          126.0,
+          539.5
+        ],
+        [
+          339.0,
+          554.25
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.design.widget.FloatingActionButton",
+      "class": "com.bigoven.android.widgets.CheckableFloatingActionButton",
+      "text": "",
+      "label": "cart_add",
+      "points": [
+        [
+          297.0,
+          491.25
+        ],
+        [
+          346.0,
+          540.25
+        ]
+      ],
+      "group_id": 84,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.webkit.WebView",
+      "class": "com.google.android.gms.ads.internal.webview.m",
+      "text": "",
+      "label": "ad",
+      "points": [
+        [
+          40.0,
+          554.25
+        ],
+        [
+          320.0,
+          598.0
+        ]
+      ],
+      "group_id": 97,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tab_bar",
+      "points": [
+        [
+          0.3333333333333339,
+          297.6666666666667
+        ],
+        [
+          359,
+          330
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "15260.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

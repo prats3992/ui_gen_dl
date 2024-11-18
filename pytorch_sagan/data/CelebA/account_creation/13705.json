@@ -1,0 +1,177 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Have an account? Sign In",
+   "label": "tb_log_in",
+   "points": [
+    [
+     194.0,
+     21.0
+    ],
+    [
+     360.0,
+     70.0
+    ]
+   ],
+   "group_id": 993,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Create a CareZone Account",
+   "label": "text_view",
+   "points": [
+    [
+     55.5,
+     83.25
+    ],
+    [
+     304.25,
+     204.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "com.carezone.caredroid.careapp.ui.view.EditTextPatch",
+   "class": "com.carezone.caredroid.careapp.ui.view.ClearEditText",
+   "text": "Your name",
+   "label": "name",
+   "points": [
+    [
+     28.0,
+     220.5
+    ],
+    [
+     248.0,
+     257.5
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "auto-fill",
+   "label": "button",
+   "points": [
+    [
+     255.0,
+     218.0
+    ],
+    [
+     332.0,
+     260.0
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.AutoCompleteTextView",
+   "class": "android.support.v7.widget.AppCompatAutoCompleteTextView",
+   "text": "Your email",
+   "label": "email",
+   "points": [
+    [
+     28.0,
+     274.0
+    ],
+    [
+     332.0,
+     311.0
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "com.carezone.caredroid.careapp.ui.view.EditTextPatch",
+   "class": "com.carezone.caredroid.careapp.ui.view.ClearEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     28.0,
+     325.0
+    ],
+    [
+     332.0,
+     362.0
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Create a Free Account",
+   "label": "sign_up",
+   "points": [
+    [
+     28.0,
+     376.0
+    ],
+    [
+     332.0,
+     418.75
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.carezone.caredroid.careapp.ui.view.SpannableTextView",
+   "text": "By using CareZone, you agree to CareZone's\n Terms of Service, Privacy Policy and Copyright Policy.",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     0.0,
+     535.75
+    ],
+    [
+     360.0,
+     598.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "13705.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

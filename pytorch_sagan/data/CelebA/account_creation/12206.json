@@ -1,0 +1,219 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.freeconferencecall.voipclient.common.ui.views.AdjustedImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          24.5,
+          30.75
+        ],
+        [
+          335.5,
+          107.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "1.5.8.6",
+      "label": "text_view",
+      "points": [
+        [
+          306.0,
+          93.75
+        ],
+        [
+          335.5,
+          107.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.freeconferencecall.voipclient.common.ui.views.ActiveDrawablesEditText",
+      "class": "com.freeconferencecall.meetingclient.common.ui.views.EditText",
+      "text": "Online Meeting ID",
+      "label": "edit_text",
+      "points": [
+        [
+          12.25,
+          205.0
+        ],
+        [
+          347.75,
+          244.5
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.freeconferencecall.voipclient.common.ui.views.ActiveDrawablesEditText",
+      "class": "com.freeconferencecall.meetingclient.common.ui.views.EditText",
+      "text": "Your Name",
+      "label": "name",
+      "points": [
+        [
+          12.25,
+          253.0
+        ],
+        [
+          347.75,
+          292.5
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.freeconferencecall.voipclient.common.ui.views.ActiveDrawablesEditText",
+      "class": "com.freeconferencecall.meetingclient.common.ui.views.EditText",
+      "text": "Your e-mail [optional]",
+      "label": "email",
+      "points": [
+        [
+          12.25,
+          301.0
+        ],
+        [
+          347.75,
+          340.5
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.freeconferencecall.voipclient.common.ui.views.ScrollableTextView",
+      "text": "Join",
+      "label": "sign_up",
+      "points": [
+        [
+          12.25,
+          352.75
+        ],
+        [
+          347.75,
+          392.75
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.freeconferencecall.voipclient.common.ui.views.ScrollableTextView",
+      "text": "I don't have an Online Meeting ID",
+      "label": "text_button",
+      "points": [
+        [
+          164.0,
+          405.0
+        ],
+        [
+          353.75,
+          434.0
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "com.freeconferencecall.meetingclient.common.ui.views.TextView",
+      "class": "com.freeconferencecall.meetingclient.common.ui.views.CheckBox",
+      "text": "Remember",
+      "label": "check_box",
+      "points": [
+        [
+          6.25,
+          560.5
+        ],
+        [
+          104.0,
+          591.75
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.freeconferencecall.voipclient.common.ui.views.ScrollableTextView",
+      "text": "I'm a HOST",
+      "label": "button",
+      "points": [
+        [
+          274.5,
+          562.75
+        ],
+        [
+          347.75,
+          584.25
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.freeconferencecall.voipclient.common.ui.views.AdjustedImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          322.0,
+          0.0
+        ],
+        [
+          360.0,
+          38.0
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "12206.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

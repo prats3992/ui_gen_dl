@@ -1,0 +1,617 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "label": "search_button",
+      "points": [
+        [
+          311.0,
+          24.5
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "True Religion",
+      "label": "text_view",
+      "points": [
+        [
+          52.5,
+          33.75
+        ],
+        [
+          156.0,
+          57.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomButton",
+      "text": "Filter",
+      "label": "filter_button",
+      "points": [
+        [
+          4.5,
+          70.75
+        ],
+        [
+          81.5,
+          100.5
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "168 Items",
+      "label": "text_view",
+      "points": [
+        [
+          90.25,
+          70.0
+        ],
+        [
+          139.75,
+          105.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Recommended",
+      "label": "drop_down_list",
+      "points": [
+        [
+          214.5,
+          79.25
+        ],
+        [
+          347.5,
+          95.75
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "ENDS ON THURSDAY AT 3PM PACIFIC",
+      "label": "text_view",
+      "points": [
+        [
+          1.75,
+          105.0
+        ],
+        [
+          358.25,
+          135.5
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLAspectRatioImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          3.5,
+          137.25
+        ],
+        [
+          178.25,
+          399.25
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "True Religion",
+      "label": "text_view",
+      "points": [
+        [
+          3.5,
+          399.25
+        ],
+        [
+          77.25,
+          415.75
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "Distressed Skinny Jean",
+      "label": "text_view",
+      "points": [
+        [
+          3.5,
+          415.75
+        ],
+        [
+          126.0,
+          431.5
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "$79.97",
+      "label": "price",
+      "points": [
+        [
+          8.0,
+          431.5
+        ],
+        [
+          42.5,
+          448.0
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "$196.00",
+      "label": "price_s",
+      "points": [
+        [
+          47.0,
+          433.5
+        ],
+        [
+          81.0,
+          447.0
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLAspectRatioImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          181.75,
+          137.25
+        ],
+        [
+          356.5,
+          399.25
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "True Religion",
+      "label": "text_view",
+      "points": [
+        [
+          181.75,
+          399.25
+        ],
+        [
+          255.5,
+          415.75
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "Moto Curvy Skinny Jean",
+      "label": "text_view",
+      "points": [
+        [
+          181.75,
+          415.75
+        ],
+        [
+          309.75,
+          431.5
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "$99.97",
+      "label": "price",
+      "points": [
+        [
+          186.25,
+          431.5
+        ],
+        [
+          220.75,
+          448.0
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "$229.00",
+      "label": "price_s",
+      "points": [
+        [
+          225.25,
+          433.5
+        ],
+        [
+          259.25,
+          447.0
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLAspectRatioImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          3.5,
+          464.75
+        ],
+        [
+          178.25,
+          549.0
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLAspectRatioImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          181.75,
+          464.75
+        ],
+        [
+          356.5,
+          549.0
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "navigation_bar",
+      "points": [
+        [
+          0.0,
+          549.0
+        ],
+        [
+          360.0,
+          598.0
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          49.5,
+          556.0
+        ],
+        [
+          70.5,
+          577.0
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Rack",
+      "label": "text_view",
+      "points": [
+        [
+          10.5,
+          577.5
+        ],
+        [
+          109.5,
+          591.75
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          169.5,
+          554.25
+        ],
+        [
+          190.5,
+          575.25
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "HauteLook",
+      "label": "text_view",
+      "points": [
+        [
+          130.5,
+          575.25
+        ],
+        [
+          229.5,
+          591.75
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          289.5,
+          556.0
+        ],
+        [
+          310.5,
+          577.0
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Cart",
+      "label": "text_view",
+      "points": [
+        [
+          250.5,
+          577.5
+        ],
+        [
+          349.5,
+          591.75
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          1.6666666666666643,
+          135.66666666666666
+        ],
+        [
+          179.66666666666666,
+          461.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          181.66666666666666,
+          134.33333333333334
+        ],
+        [
+          357.0,
+          463.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          1.6666666666666643,
+          462.3333333333333
+        ],
+        [
+          179.66666666666666,
+          549.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          181.66666666666666,
+          464.3333333333333
+        ],
+        [
+          357.0,
+          549.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1140.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

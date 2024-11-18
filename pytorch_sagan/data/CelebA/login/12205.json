@@ -1,0 +1,196 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "com.freeconferencecall.voipclient.common.ui.views.AdjustedImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     24.5,
+     30.75
+    ],
+    [
+     335.5,
+     107.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "1.5.8.6",
+   "label": "text_view",
+   "points": [
+    [
+     306.0,
+     93.75
+    ],
+    [
+     335.5,
+     107.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "com.freeconferencecall.voipclient.common.ui.views.ActiveDrawablesEditText",
+   "class": "com.freeconferencecall.meetingclient.common.ui.views.EditText",
+   "text": "Your e-mail",
+   "label": "email",
+   "points": [
+    [
+     12.25,
+     229.0
+    ],
+    [
+     347.75,
+     268.5
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "com.freeconferencecall.voipclient.common.ui.views.ActiveDrawablesEditText",
+   "class": "com.freeconferencecall.meetingclient.common.ui.views.EditText",
+   "text": "Your Password",
+   "label": "password",
+   "points": [
+    [
+     12.25,
+     277.0
+    ],
+    [
+     347.75,
+     316.5
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.freeconferencecall.voipclient.common.ui.views.ScrollableTextView",
+   "text": "Log in",
+   "label": "log_in",
+   "points": [
+    [
+     12.25,
+     328.75
+    ],
+    [
+     347.75,
+     368.75
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.freeconferencecall.voipclient.common.ui.views.ScrollableTextView",
+   "text": "Create account",
+   "label": "tb_sign_up",
+   "points": [
+    [
+     6.25,
+     381.0
+    ],
+    [
+     102.0,
+     410.0
+    ]
+   ],
+   "group_id": 995,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.freeconferencecall.voipclient.common.ui.views.ScrollableTextView",
+   "text": "I don't have a password",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     213.25,
+     381.0
+    ],
+    [
+     353.75,
+     410.0
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.freeconferencecall.voipclient.common.ui.views.ScrollableTextView",
+   "text": "I'm a participant",
+   "label": "button",
+   "points": [
+    [
+     247.5,
+     562.75
+    ],
+    [
+     347.75,
+     584.25
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "com.freeconferencecall.voipclient.common.ui.views.AdjustedImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     322.0,
+     0.0
+    ],
+    [
+     360.0,
+     38.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "12205.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

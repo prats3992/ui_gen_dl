@@ -1,0 +1,122 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     360.0,
+     358.25
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Skip",
+   "label": "button",
+   "points": [
+    [
+     320.0,
+     42.0
+    ],
+    [
+     346.0,
+     59.75
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "it.doveconviene.android.views.DCSpannableTextView",
+   "text": "ShopFully keeps you up-to-date on weekly deals",
+   "label": "text_view",
+   "points": [
+    [
+     28.0,
+     372.25
+    ],
+    [
+     332.0,
+     388.75
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Log in with Facebook",
+   "label": "fb_button",
+   "points": [
+    [
+     14.0,
+     402.75
+    ],
+    [
+     346.0,
+     436.75
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Register",
+   "label": "sign_up",
+   "points": [
+    [
+     14.0,
+     443.75
+    ],
+    [
+     346.0,
+     477.75
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "12628.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

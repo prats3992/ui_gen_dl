@@ -1,0 +1,963 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "Featured music experiences",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          143.75
+        ],
+        [
+          325.0,
+          165.0
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatImageView",
+      "class": "com.airbnb.n2.AirImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          21.0,
+          180.75
+        ],
+        [
+          174.75,
+          413.75
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          21.0,
+          180.75
+        ],
+        [
+          174.75,
+          413.75
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "$30  2 hours  artist & music",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          420.75
+        ],
+        [
+          174.75,
+          454.75
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.RatingBar",
+      "class": "android.support.v7.widget.AppCompatRatingBar",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          21.0,
+          460.25
+        ],
+        [
+          78.5,
+          469.5
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "6 Reviews",
+      "label": "text_view",
+      "points": [
+        [
+          82.0,
+          458.25
+        ],
+        [
+          128.0,
+          471.75
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "card",
+      "points": [
+        [
+          21.0,
+          180.75
+        ],
+        [
+          174.75,
+          471.75
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "com.airbnb.lottie.LottieAnimationView",
+      "class": "com.airbnb.n2.components.internal.WishListIconView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          142.25,
+          180.75
+        ],
+        [
+          174.75,
+          213.25
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "SOLD OUT",
+      "label": "text_view",
+      "points": [
+        [
+          24.5,
+          390.25
+        ],
+        [
+          69.0,
+          406.75
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatImageView",
+      "class": "com.airbnb.n2.AirImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          185.25,
+          180.75
+        ],
+        [
+          339.0,
+          413.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          185.25,
+          180.75
+        ],
+        [
+          339.0,
+          413.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "$77  4 hours  live music & backstage",
+      "label": "text_view",
+      "points": [
+        [
+          185.25,
+          420.75
+        ],
+        [
+          339.0,
+          454.75
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "2 Reviews",
+      "label": "text_view",
+      "points": [
+        [
+          185.25,
+          458.25
+        ],
+        [
+          230.75,
+          471.75
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "card",
+      "points": [
+        [
+          185.25,
+          180.75
+        ],
+        [
+          339.0,
+          471.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "com.airbnb.lottie.LottieAnimationView",
+      "class": "com.airbnb.n2.components.internal.WishListIconView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          306.5,
+          180.75
+        ],
+        [
+          339.0,
+          213.25
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatImageView",
+      "class": "com.airbnb.n2.AirImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          349.5,
+          180.75
+        ],
+        [
+          360.0,
+          413.75
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          349.5,
+          180.75
+        ],
+        [
+          360.0,
+          413.75
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "$238  3 days  grime & clubbing",
+      "label": "text_view",
+      "points": [
+        [
+          349.5,
+          420.75
+        ],
+        [
+          360.0,
+          454.75
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.RatingBar",
+      "class": "android.support.v7.widget.AppCompatRatingBar",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          349.5,
+          460.25
+        ],
+        [
+          360.0,
+          469.5
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "card_partial",
+      "points": [
+        [
+          349.5,
+          180.75
+        ],
+        [
+          360.0,
+          471.75
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "Just booked",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          508.5
+        ],
+        [
+          325.0,
+          529.75
+        ]
+      ],
+      "group_id": 43,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.airbnb.n2.components.JellyfishImageView",
+      "text": "",
+      "label": "tab_bar",
+      "points": [
+        [
+          0.0,
+          79.0
+        ],
+        [
+          359.0,
+          123.0
+        ]
+      ],
+      "group_id": 67,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "search_button",
+      "points": [
+        [
+          24.5,
+          49.75
+        ],
+        [
+          38.5,
+          63.75
+        ]
+      ],
+      "group_id": 76,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "Anywhere",
+      "label": "text_view",
+      "points": [
+        [
+          52.5,
+          48.25
+        ],
+        [
+          115.5,
+          65.25
+        ]
+      ],
+      "group_id": 76,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          115.5,
+          48.5
+        ],
+        [
+          126.0,
+          65.25
+        ]
+      ],
+      "group_id": 76,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "Anytime",
+      "label": "text_view",
+      "points": [
+        [
+          126.0,
+          48.25
+        ],
+        [
+          178.0,
+          65.25
+        ]
+      ],
+      "group_id": 76,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          178.0,
+          48.5
+        ],
+        [
+          188.5,
+          65.25
+        ]
+      ],
+      "group_id": 76,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "1 guest",
+      "label": "text_view",
+      "points": [
+        [
+          188.5,
+          48.25
+        ],
+        [
+          231.75,
+          65.25
+        ]
+      ],
+      "group_id": 76,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "For you",
+      "label": "text_view",
+      "points": [
+        [
+          10.5,
+          79.0
+        ],
+        [
+          77.25,
+          121.75
+        ]
+      ],
+      "group_id": 78,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "Homes",
+      "label": "text_view",
+      "points": [
+        [
+          77.25,
+          79.0
+        ],
+        [
+          136.75,
+          121.75
+        ]
+      ],
+      "group_id": 78,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "Experiences",
+      "label": "text_view",
+      "points": [
+        [
+          136.75,
+          79.0
+        ],
+        [
+          227.0,
+          121.75
+        ]
+      ],
+      "group_id": 78,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.airbnb.n2.AirTextView",
+      "text": "Places",
+      "label": "text_view",
+      "points": [
+        [
+          227.0,
+          79.0
+        ],
+        [
+          287.75,
+          121.75
+        ]
+      ],
+      "group_id": 78,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          121.75
+        ],
+        [
+          360.0,
+          122.75
+        ]
+      ],
+      "group_id": 68,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          548.0
+        ],
+        [
+          360.0,
+          549.0
+        ]
+      ],
+      "group_id": 79,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          25.75,
+          549.0
+        ],
+        [
+          46.75,
+          578.75
+        ]
+      ],
+      "group_id": 83,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "EXPLORE",
+      "label": "text_view",
+      "points": [
+        [
+          17.25,
+          579.75
+        ],
+        [
+          55.5,
+          596.75
+        ]
+      ],
+      "group_id": 83,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          96.83333333333334,
+          549.0
+        ],
+        [
+          117.83333333333334,
+          578.75
+        ]
+      ],
+      "group_id": 84,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "SAVED",
+      "label": "text_view",
+      "points": [
+        [
+          94.0,
+          579.75
+        ],
+        [
+          122.25,
+          596.75
+        ]
+      ],
+      "group_id": 84,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          169.25,
+          549.0
+        ],
+        [
+          190.25,
+          578.75
+        ]
+      ],
+      "group_id": 85,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "TRIPS",
+      "label": "text_view",
+      "points": [
+        [
+          167.75,
+          579.75
+        ],
+        [
+          192.0,
+          596.75
+        ]
+      ],
+      "group_id": 85,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          241.0,
+          549.0
+        ],
+        [
+          262.0,
+          578.75
+        ]
+      ],
+      "group_id": 86,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "INBOX",
+      "label": "text_view",
+      "points": [
+        [
+          238.0,
+          579.75
+        ],
+        [
+          265.25,
+          596.75
+        ]
+      ],
+      "group_id": 86,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          312.75,
+          549.0
+        ],
+        [
+          333.75,
+          578.75
+        ]
+      ],
+      "group_id": 87,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "PROFILE",
+      "label": "text_view",
+      "points": [
+        [
+          305.5,
+          579.75
+        ],
+        [
+          341.0,
+          596.75
+        ]
+      ],
+      "group_id": 87,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "navigation_bar",
+      "points": [
+        [
+          0.0,
+          548.0
+        ],
+        [
+          359.0,
+          599.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "search_bar",
+      "points": [
+        [
+          10.333333333333336,
+          33.0
+        ],
+        [
+          349.6666666666667,
+          79.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "12920.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

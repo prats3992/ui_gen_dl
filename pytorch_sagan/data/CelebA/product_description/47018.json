@@ -1,0 +1,391 @@
+{
+ "version": "4.5.6",
+ "flags": {
+  "done": true,
+  "review": false,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": true,
+  "splash": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     70.0
+    ],
+    [
+     360.0,
+     332.5
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "4T",
+   "label": "image_view",
+   "points": [
+    [
+     17.5,
+     259.0
+    ],
+    [
+     73.5,
+     315.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.kidizen.views.ClickableTextView",
+   "text": "Nike Shorts Outfit",
+   "label": "text_view",
+   "points": [
+    [
+     95.25,
+     350.0
+    ],
+    [
+     264.5,
+     373.25
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "$6.25",
+   "label": "price",
+   "points": [
+    [
+     159.75,
+     373.91666666666663
+    ],
+    [
+     200.25,
+     395.16666666666663
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "includes shipping",
+   "label": "text_view",
+   "points": [
+    [
+     138.5,
+     394.5
+    ],
+    [
+     221.25,
+     408.75
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Brand:   ",
+   "label": "text_view",
+   "points": [
+    [
+     17.5,
+     442.0
+    ],
+    [
+     54.75,
+     456.25
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Nike",
+   "label": "text_view",
+   "points": [
+    [
+     54.75,
+     442.0
+    ],
+    [
+     75.5,
+     456.25
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Size:   ",
+   "label": "text_view",
+   "points": [
+    [
+     17.5,
+     470.25
+    ],
+    [
+     47.0,
+     484.5
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "4T",
+   "label": "text_view",
+   "points": [
+    [
+     47.0,
+     470.25
+    ],
+    [
+     59.25,
+     484.5
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Condition:   ",
+   "label": "text_view",
+   "points": [
+    [
+     17.5,
+     498.5
+    ],
+    [
+     72.25,
+     512.75
+    ]
+   ],
+   "group_id": 19,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Play - some wear, spots, and/or holes, but still in usable condition",
+   "label": "text_view",
+   "points": [
+    [
+     72.25,
+     498.5
+    ],
+    [
+     342.5,
+     525.0
+    ]
+   ],
+   "group_id": 19,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "$6.25",
+   "label": "price",
+   "points": [
+    [
+     17.5,
+     551.75
+    ],
+    [
+     58.0,
+     573.0
+    ]
+   ],
+   "group_id": 34,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "includes shipping",
+   "label": "text_view",
+   "points": [
+    [
+     17.5,
+     573.0
+    ],
+    [
+     96.5,
+     587.25
+    ]
+   ],
+   "group_id": 34,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Add to Cart",
+   "label": "cart_add",
+   "points": [
+    [
+     180.0,
+     541.0
+    ],
+    [
+     360.0,
+     598.0
+    ]
+   ],
+   "group_id": 35,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Nike Shorts Outfit",
+   "label": "text_view",
+   "points": [
+    [
+     52.5,
+     33.75
+    ],
+    [
+     186.75,
+     57.0
+    ]
+   ],
+   "group_id": 45,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.widget.ImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     49.0,
+     70.0
+    ]
+   ],
+   "group_id": 45,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "cart_icon_button",
+   "points": [
+    [
+     322.25,
+     28.5
+    ],
+    [
+     360.0,
+     62.25
+    ]
+   ],
+   "group_id": 47,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "",
+   "class": "",
+   "text": "",
+   "label": "navigation_dots",
+   "points": [
+    [
+     145.5,
+     321.0
+    ],
+    [
+     214.5,
+     328.0
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": false
+   }
+  }
+ ],
+ "imagePath": "47018.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

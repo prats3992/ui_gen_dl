@@ -1,0 +1,296 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     338.5,
+     30.75
+    ],
+    [
+     355.5,
+     47.75
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     109.25,
+     61.5
+    ],
+    [
+     251.0,
+     110.5
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "IMEI: null",
+   "label": "text_view",
+   "points": [
+    [
+     151.5,
+     123.75
+    ],
+    [
+     209.0,
+     150.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Already have an account?",
+   "label": "tb_log_in",
+   "points": [
+    [
+     100.75,
+     163.25
+    ],
+    [
+     259.5,
+     182.25
+    ]
+   ],
+   "group_id": 993,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "Sign In",
+   "label": "log_in",
+   "points": [
+    [
+     111.0,
+     186.75
+    ],
+    [
+     249.5,
+     232.25
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "No account? Sign up below:",
+   "label": "text_view",
+   "points": [
+    [
+     94.25,
+     245.5
+    ],
+    [
+     266.25,
+     271.75
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Enter your name:",
+   "label": "text_view",
+   "points": [
+    [
+     127.5,
+     271.75
+    ],
+    [
+     235.0,
+     289.6666666666667
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "",
+   "label": "name",
+   "points": [
+    [
+     26.25,
+     293.75
+    ],
+    [
+     334.25,
+     342.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Enter your email:",
+   "label": "text_view",
+   "points": [
+    [
+     128.0,
+     350.75
+    ],
+    [
+     233.0,
+     371.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "appcrawler4@gmail.com",
+   "label": "email",
+   "points": [
+    [
+     26.25,
+     372.75
+    ],
+    [
+     334.25,
+     421.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Enter your password:",
+   "label": "text_view",
+   "points": [
+    [
+     114.75,
+     429.75
+    ],
+    [
+     244.33333333333331,
+     449.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "",
+   "label": "password",
+   "points": [
+    [
+     26.25,
+     451.75
+    ],
+    [
+     334.25,
+     500.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "SIGN UP",
+   "label": "sign_up",
+   "points": [
+    [
+     126.0,
+     522.0
+    ],
+    [
+     234.5,
+     567.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "box_outline",
+   "points": [
+    [
+     7.0,
+     47.0
+    ],
+    [
+     353.0,
+     578.3333333333334
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "13434.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

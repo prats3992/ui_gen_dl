@@ -1,0 +1,178 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.widget.ImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     49.0,
+     70.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Sign In!",
+   "label": "text_view",
+   "points": [
+    [
+     101.25,
+     84.0
+    ],
+    [
+     258.5,
+     149.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatEditText",
+   "class": "android.support.design.widget.TextInputEditText",
+   "text": "",
+   "label": "email",
+   "points": [
+    [
+     42.0,
+     187.0
+    ],
+    [
+     318.0,
+     226.5
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatEditText",
+   "class": "android.support.design.widget.TextInputEditText",
+   "text": "",
+   "label": "password",
+   "points": [
+    [
+     42.0,
+     259.75
+    ],
+    [
+     318.0,
+     299.25
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Forgot Password?",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     249.0,
+     420.0
+    ],
+    [
+     346.0,
+     436.5
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign up!",
+   "label": "sign_up",
+   "points": [
+    [
+     14.0,
+     451.16666666666663
+    ],
+    [
+     346.0,
+     516.6666666666666
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Become a Provider",
+   "label": "button",
+   "points": [
+    [
+     14.0,
+     516.0
+    ],
+    [
+     346.0,
+     581.5
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "label": "log_in",
+   "points": [
+    [
+     17.0,
+     349.0
+    ],
+    [
+     343.0,
+     405.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "13460.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

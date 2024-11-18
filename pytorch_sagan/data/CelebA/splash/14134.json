@@ -1,0 +1,124 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     73.25,
+     33.25
+    ],
+    [
+     286.75,
+     68.25
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.natgeo.tv.widgets.CMTextView",
+   "text": "Choose Your Experience",
+   "label": "text_view",
+   "points": [
+    [
+     109.0,
+     566.25
+    ],
+    [
+     250.75,
+     584.0
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     31.0,
+     417.75
+    ],
+    [
+     178.0,
+     554.25
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     178.0,
+     442.25
+    ],
+    [
+     182.0,
+     528.0
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     182.99999999999997,
+     418.4166666666667
+    ],
+    [
+     329.99999999999994,
+     554.9166666666667
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "14134.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

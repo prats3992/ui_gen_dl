@@ -1,0 +1,248 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.ab",
+   "text": "New Account",
+   "label": "text_view",
+   "points": [
+    [
+     35.0,
+     56.0
+    ],
+    [
+     325.0,
+     83.0
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.ab",
+   "text": "1 (415) 579-1543",
+   "label": "text_view",
+   "points": [
+    [
+     35.0,
+     91.75
+    ],
+    [
+     325.0,
+     135.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.n",
+   "text": "Email",
+   "label": "email",
+   "points": [
+    [
+     35.0,
+     170.5
+    ],
+    [
+     295.25,
+     202.0
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "com.life360.android.shared.views.ValidatorView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     304.0,
+     170.5
+    ],
+    [
+     325.0,
+     191.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.n",
+   "text": "First Name",
+   "label": "name",
+   "points": [
+    [
+     35.0,
+     240.5
+    ],
+    [
+     295.25,
+     272.0
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "com.life360.android.shared.views.ValidatorView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     304.0,
+     240.5
+    ],
+    [
+     325.0,
+     261.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.n",
+   "text": "Last Name",
+   "label": "last_name",
+   "points": [
+    [
+     35.0,
+     307.0
+    ],
+    [
+     295.25,
+     338.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "com.life360.android.shared.views.ValidatorView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     304.0,
+     307.0
+    ],
+    [
+     325.0,
+     328.0
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.n",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     35.0,
+     373.5
+    ],
+    [
+     295.25,
+     405.0
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.i",
+   "text": "Sign Up",
+   "label": "sign_up",
+   "points": [
+    [
+     115.75,
+     440.0
+    ],
+    [
+     244.25,
+     483.75
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.ab",
+   "text": "I certify I am at least 13 years old and accept the TOS and Privacy Policy. To invite a family member under 13, you must submit a Parental Consent Form.",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     4.5,
+     501.25
+    ],
+    [
+     355.5,
+     526.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "10618.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

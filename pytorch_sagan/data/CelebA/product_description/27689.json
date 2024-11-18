@@ -1,0 +1,716 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          161.0
+        ],
+        [
+          45.5,
+          206.5
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          26.25,
+          182.0
+        ],
+        [
+          83.25,
+          197.5
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "$264*",
+      "label": "price_s",
+      "points": [
+        [
+          39.75,
+          197.5
+        ],
+        [
+          70.0,
+          208.0
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "$210",
+      "label": "price",
+      "points": [
+        [
+          21.0,
+          208.0
+        ],
+        [
+          72.0,
+          232.5
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "/nt",
+      "label": "text_view",
+      "points": [
+        [
+          72.0,
+          216.0
+        ],
+        [
+          88.75,
+          230.75
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "3-star Boutique Hotel in Pacific Heights area",
+      "label": "text_view",
+      "points": [
+        [
+          111.5,
+          182.0
+        ],
+        [
+          339.0,
+          222.5
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          111.5,
+          230.5
+        ],
+        [
+          123.75,
+          243.0
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "85%",
+      "label": "text_view",
+      "points": [
+        [
+          126.5,
+          231.25
+        ],
+        [
+          149.0,
+          243.25
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          153.5,
+          227.0
+        ],
+        [
+          169.25,
+          243.25
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "1.0 - 1.7 mi",
+      "label": "text_view",
+      "points": [
+        [
+          169.25,
+          231.25
+        ],
+        [
+          224.5,
+          243.25
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Hotel located within shaded area",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          360.5
+        ],
+        [
+          360.0,
+          386.75
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          400.75
+        ],
+        [
+          76.0,
+          427.0
+        ]
+      ],
+      "group_id": 40,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Free",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          432.25
+        ],
+        [
+          76.0,
+          443.25
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "breakfast",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          443.25
+        ],
+        [
+          76.0,
+          454.25
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          83.0,
+          400.75
+        ],
+        [
+          145.0,
+          427.0
+        ]
+      ],
+      "group_id": 42,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Free",
+      "label": "text_view",
+      "points": [
+        [
+          83.0,
+          432.25
+        ],
+        [
+          145.0,
+          443.25
+        ]
+      ],
+      "group_id": 43,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Internet",
+      "label": "text_view",
+      "points": [
+        [
+          83.0,
+          443.25
+        ],
+        [
+          145.0,
+          454.25
+        ]
+      ],
+      "group_id": 43,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          152.0,
+          400.75
+        ],
+        [
+          214.0,
+          427.0
+        ]
+      ],
+      "group_id": 44,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Pet",
+      "label": "text_view",
+      "points": [
+        [
+          152.0,
+          432.25
+        ],
+        [
+          214.0,
+          443.25
+        ]
+      ],
+      "group_id": 45,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "friendly",
+      "label": "text_view",
+      "points": [
+        [
+          152.0,
+          443.25
+        ],
+        [
+          214.0,
+          454.25
+        ]
+      ],
+      "group_id": 45,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          221.0,
+          400.75
+        ],
+        [
+          283.0,
+          427.0
+        ]
+      ],
+      "group_id": 46,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Smoke-free",
+      "label": "text_view",
+      "points": [
+        [
+          221.0,
+          432.25
+        ],
+        [
+          283.0,
+          443.25
+        ]
+      ],
+      "group_id": 47,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "rooms",
+      "label": "text_view",
+      "points": [
+        [
+          221.0,
+          443.25
+        ],
+        [
+          283.0,
+          454.25
+        ]
+      ],
+      "group_id": 47,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": " 4 \nMore",
+      "label": "text_view",
+      "points": [
+        [
+          305.25,
+          412.25
+        ],
+        [
+          336.5,
+          442.75
+        ]
+      ],
+      "group_id": 48,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Why you should visit",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          478.75
+        ],
+        [
+          342.5,
+          500.5
+        ]
+      ],
+      "group_id": 49,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Walk to cafes, shops, the Presidio or harbor views",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          507.5
+        ],
+        [
+          261.25,
+          520.25
+        ]
+      ],
+      "group_id": 50,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Perched on the northern edge of the city, the wind-swept Presidio offers heart-stopping views of the Bay and access to the Golden Gate Bridge. Its bordered to the east by a quiet, residential area with affordable hotels and strollable shopping streets.\n\nOnce a military base, the Presidio is now part of the National Park Service. Chrissy Field makes a great picnic spot and Baker Beach, with its epic views of the bridge, is a perfect sunny-day outing (the northern part is clothing-optional).\n\nDeeper into the park are historical buildings, the Walt Disney Family Museum, wooded trails and magnificent viewpoints. Lucasfilm has its campus here  you cant tour, but you can check out the Yoda statue outside. On the edge of the park, the Palace of Fine Arts provides a classic photo op.\n\n",
+      "label": "button",
+      "points": [
+        [
+          -0.6666666666666661,
+          549.9999999999999
+        ],
+        [
+          359.0,
+          599.0
+        ]
+      ],
+      "group_id": 49,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          108.5,
+          64.75
+        ],
+        [
+          251.25,
+          89.25
+        ]
+      ],
+      "group_id": 62,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Hot Rate Hotel",
+      "label": "text_view",
+      "points": [
+        [
+          128.5,
+          89.25
+        ],
+        [
+          231.5,
+          105.0
+        ]
+      ],
+      "group_id": 62,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Not actual photo of room",
+      "label": "text_view",
+      "points": [
+        [
+          116.5,
+          144.5
+        ],
+        [
+          243.25,
+          157.5
+        ]
+      ],
+      "group_id": 62,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 63,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatImageView",
+      "class": "android.support.v7.widget.ActionMenuPresenter$d",
+      "text": "",
+      "label": "menu_dots",
+      "points": [
+        [
+          325.0,
+          24.5
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 64,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hotwire.common.customview.HwTextView",
+      "text": "Select Bed Type",
+      "label": "text_view",
+      "points": [
+        [
+          132.0,
+          566.0
+        ],
+        [
+          228.0,
+          581.75
+        ]
+      ],
+      "group_id": 65,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "map",
+      "points": [
+        [
+          1.666666666666666,
+          265.0
+        ],
+        [
+          359,
+          359
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "27689.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

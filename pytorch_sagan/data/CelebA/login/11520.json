@@ -1,0 +1,387 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     44.25,
+     60.5
+    ]
+   ],
+   "group_id": 59,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "separator_line_v",
+   "points": [
+    [
+     44.25,
+     27.5
+    ],
+    [
+     45.25,
+     53.75
+    ]
+   ],
+   "group_id": 59,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Log In",
+   "label": "text_view",
+   "points": [
+    [
+     45.25,
+     29.0
+    ],
+    [
+     103.75,
+     52.25
+    ]
+   ],
+   "group_id": 59,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "Username",
+   "label": "username",
+   "points": [
+    [
+     8.75,
+     73.75
+    ],
+    [
+     351.25,
+     114.5
+    ]
+   ],
+   "group_id": 65,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     8.75,
+     123.25
+    ],
+    [
+     351.25,
+     164.0
+    ]
+   ],
+   "group_id": 65,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Forgot Password",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     15.75,
+     164.0
+    ],
+    [
+     109.0,
+     180.5
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "Log In",
+   "label": "log_in",
+   "points": [
+    [
+     8.75,
+     206.75
+    ],
+    [
+     351.25,
+     248.75
+    ]
+   ],
+   "group_id": 65,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     8.75,
+     268.5
+    ],
+    [
+     351.25,
+     269.5
+    ]
+   ],
+   "group_id": 66,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "OR",
+   "label": "text_view",
+   "points": [
+    [
+     159.75,
+     257.5
+    ],
+    [
+     200.0,
+     280.75
+    ]
+   ],
+   "group_id": 66,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "Register",
+   "label": "sign_up",
+   "points": [
+    [
+     9.416666666666657,
+     290.1666666666667
+    ],
+    [
+     351.91666666666663,
+     332.1666666666667
+    ]
+   ],
+   "group_id": 65,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Already have an account on one of these sites? Use it here!",
+   "label": "text_view",
+   "points": [
+    [
+     20.0,
+     364.75
+    ],
+    [
+     340.0,
+     381.25
+    ]
+   ],
+   "group_id": 65,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     405.75
+    ],
+    [
+     72.0,
+     447.75
+    ]
+   ],
+   "group_id": 67,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     72.0,
+     405.75
+    ],
+    [
+     144.0,
+     447.75
+    ]
+   ],
+   "group_id": 67,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     144.0,
+     405.75
+    ],
+    [
+     216.0,
+     447.75
+    ]
+   ],
+   "group_id": 67,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     216.0,
+     405.75
+    ],
+    [
+     288.0,
+     447.75
+    ]
+   ],
+   "group_id": 67,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     288.0,
+     405.75
+    ],
+    [
+     360.0,
+     447.75
+    ]
+   ],
+   "group_id": 67,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     8.75,
+     456.5
+    ],
+    [
+     351.25,
+     457.5
+    ]
+   ],
+   "group_id": 65,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "By using Truck Paper, you agree to be bound by the terms of the Sandhills Publishing Privacy Policy, Copyright & Legal Notice, and Mobile Application Privacy Policy and Terms of Use.",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     9.416666666666657,
+     466.91666666666663
+    ],
+    [
+     351.91666666666663,
+     526.1666666666666
+    ]
+   ],
+   "group_id": 65,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "11520.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

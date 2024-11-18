@@ -1,0 +1,628 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "Ballet flats",
+      "label": "text_view",
+      "points": [
+        [
+          3.5,
+          40.25
+        ],
+        [
+          176.5,
+          53.0
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "$ 565.00",
+      "label": "price_s",
+      "points": [
+        [
+          3.5,
+          53.0
+        ],
+        [
+          176.5,
+          65.75
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "$ 378.00",
+      "label": "price",
+      "points": [
+        [
+          3.5,
+          65.75
+        ],
+        [
+          176.5,
+          78.5
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "Shirt dress",
+      "label": "text_view",
+      "points": [
+        [
+          183.5,
+          40.25
+        ],
+        [
+          356.5,
+          53.0
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "$ 1,226.00",
+      "label": "price_s",
+      "points": [
+        [
+          183.5,
+          53.0
+        ],
+        [
+          356.5,
+          65.75
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "$ 404.00",
+      "label": "price",
+      "points": [
+        [
+          183.5,
+          65.75
+        ],
+        [
+          356.5,
+          78.5
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.yoox.library.utils.widgets.ResizableImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          3.5,
+          92.5
+        ],
+        [
+          176.5,
+          283.25
+        ]
+      ],
+      "group_id": 51,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "CHLO",
+      "label": "text_view",
+      "points": [
+        [
+          3.5,
+          290.25
+        ],
+        [
+          176.5,
+          303.0
+        ]
+      ],
+      "group_id": 48,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "Ankle boot",
+      "label": "text_view",
+      "points": [
+        [
+          3.5,
+          303.0
+        ],
+        [
+          176.5,
+          315.75
+        ]
+      ],
+      "group_id": 48,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "$ 585.00",
+      "label": "price_s",
+      "points": [
+        [
+          3.5,
+          315.75
+        ],
+        [
+          176.5,
+          328.5
+        ]
+      ],
+      "group_id": 48,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "$ 321.00",
+      "label": "price",
+      "points": [
+        [
+          3.5,
+          328.5
+        ],
+        [
+          176.5,
+          341.25
+        ]
+      ],
+      "group_id": 48,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.yoox.library.utils.widgets.ResizableImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          183.5,
+          92.5
+        ],
+        [
+          356.5,
+          283.25
+        ]
+      ],
+      "group_id": 61,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "PHILOSOPHY di ALBERTA FERRETTI",
+      "label": "text_view",
+      "points": [
+        [
+          183.5,
+          290.25
+        ],
+        [
+          356.5,
+          316.0
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "Knee-length dress",
+      "label": "text_view",
+      "points": [
+        [
+          183.5,
+          316.0
+        ],
+        [
+          356.5,
+          328.75
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "$ 424.00",
+      "label": "price_s",
+      "points": [
+        [
+          183.5,
+          328.75
+        ],
+        [
+          356.5,
+          341.5
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "$ 110.00",
+      "label": "price",
+      "points": [
+        [
+          183.5,
+          341.5
+        ],
+        [
+          356.5,
+          354.25
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.yoox.library.utils.widgets.ResizableImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          3.5,
+          368.25
+        ],
+        [
+          176.5,
+          559.0
+        ]
+      ],
+      "group_id": 71,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "KARL LAGERFELD",
+      "label": "text_view",
+      "points": [
+        [
+          3.5,
+          566.0
+        ],
+        [
+          176.5,
+          578.75
+        ]
+      ],
+      "group_id": 68,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "Jacket",
+      "label": "text_view",
+      "points": [
+        [
+          3.5,
+          578.75
+        ],
+        [
+          176.5,
+          591.5
+        ]
+      ],
+      "group_id": 68,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "$ 941.00",
+      "label": "price_s",
+      "points": [
+        [
+          3.5,
+          591.5
+        ],
+        [
+          176.5,
+          598.0
+        ]
+      ],
+      "group_id": 68,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "JIL SANDER",
+      "label": "text_view",
+      "points": [
+        [
+          183.5,
+          566.0
+        ],
+        [
+          356.5,
+          578.75
+        ]
+      ],
+      "group_id": 78,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "Knee length skirt",
+      "label": "text_view",
+      "points": [
+        [
+          183.5,
+          578.75
+        ],
+        [
+          356.5,
+          591.5
+        ]
+      ],
+      "group_id": 78,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "$ 519.00",
+      "label": "price_s",
+      "points": [
+        [
+          183.5,
+          591.5
+        ],
+        [
+          356.5,
+          598.0
+        ]
+      ],
+      "group_id": 78,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.yoox.library.utils.widgets.localizable.YooxTextView",
+      "text": "WOMEN",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          360.0,
+          42.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.yoox.library.utils.widgets.ResizableImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          182.83333333333331,
+          367.58333333333337
+        ],
+        [
+          355.83333333333326,
+          558.3333333333334
+        ]
+      ],
+      "group_id": 71,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          1.333333333333334,
+          90.33333333333333
+        ],
+        [
+          177.33333333333334,
+          356.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          182.66666666666666,
+          91.0
+        ],
+        [
+          358.6666666666667,
+          357.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          2.666666666666666,
+          366.3333333333333
+        ],
+        [
+          178.66666666666666,
+          598.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          181.33333333333334,
+          365.6666666666667
+        ],
+        [
+          358.0,
+          599.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          1.333333333333334,
+          40.333333333333336
+        ],
+        [
+          178.0,
+          80.33333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          182.66666666666666,
+          39.666666666666664
+        ],
+        [
+          358.6666666666667,
+          81.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "23869.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

@@ -1,0 +1,412 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "menu_dashs",
+      "points": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          49.0,
+          28.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "All",
+      "label": "text_view",
+      "points": [
+        [
+          71.75,
+          36.0
+        ],
+        [
+          96.0,
+          55.0
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Gear & Accessories",
+      "label": "text_view",
+      "points": [
+        [
+          126.0,
+          36.0
+        ],
+        [
+          269.0,
+          55.0
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.honest.foundation.cms.presentation.view.CmsSlideView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          1.0,
+          70.0
+        ],
+        [
+          180.0,
+          221.0
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.honest.foundation.ui.CustomTextView",
+      "text": "Kids Toothpaste",
+      "label": "text_view",
+      "points": [
+        [
+          1.0,
+          238.5
+        ],
+        [
+          180.0,
+          261.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.honest.foundation.ui.CustomTextView",
+      "text": "$3.95",
+      "label": "price",
+      "points": [
+        [
+          1.0,
+          261.25
+        ],
+        [
+          180.0,
+          283.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.honest.foundation.cms.presentation.view.CmsSlideView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          181.0,
+          70.0
+        ],
+        [
+          360.0,
+          221.0
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.honest.foundation.ui.CustomTextView",
+      "text": "Swim Diapers",
+      "label": "text_view",
+      "points": [
+        [
+          181.0,
+          238.5
+        ],
+        [
+          360.0,
+          261.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.honest.foundation.ui.CustomTextView",
+      "text": "$6.95",
+      "label": "price",
+      "points": [
+        [
+          181.0,
+          261.25
+        ],
+        [
+          360.0,
+          283.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.honest.foundation.cms.presentation.view.CmsSlideView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          1.0,
+          310.75
+        ],
+        [
+          180.0,
+          489.75
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.honest.foundation.ui.CustomTextView",
+      "text": "UPF 50 Sun Hat",
+      "label": "text_view",
+      "points": [
+        [
+          1.0,
+          507.25
+        ],
+        [
+          180.0,
+          530.0
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.honest.foundation.ui.CustomTextView",
+      "text": "$11.95",
+      "label": "price",
+      "points": [
+        [
+          1.0,
+          530.0
+        ],
+        [
+          180.0,
+          552.0
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.honest.foundation.cms.presentation.view.CmsSlideView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          181.0,
+          310.75
+        ],
+        [
+          360.0,
+          489.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.honest.foundation.ui.CustomTextView",
+      "text": "Organic Cotton Bodysuit",
+      "label": "text_view",
+      "points": [
+        [
+          181.0,
+          507.25
+        ],
+        [
+          360.0,
+          549.0
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.honest.foundation.ui.CustomTextView",
+      "text": "$5.95",
+      "label": "price",
+      "points": [
+        [
+          181.0,
+          549.0
+        ],
+        [
+          360.0,
+          571.0
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "tab_bar",
+      "points": [
+        [
+          0.3333333333333357,
+          28.333333333333332
+        ],
+        [
+          359.0,
+          68.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          180.33333333333334,
+          307.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          181.66666666666666,
+          69.0
+        ],
+        [
+          359.0,
+          307.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          0.0,
+          310.0
+        ],
+        [
+          180.55555555555557,
+          595.1388888888889
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          181.66666666666666,
+          309.0
+        ],
+        [
+          359.0,
+          595.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "12509.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

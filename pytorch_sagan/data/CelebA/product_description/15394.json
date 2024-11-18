@@ -1,0 +1,653 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Pocket Auctions for eBay",
+      "label": "text_view",
+      "points": [
+        [
+          4.166666666666664,
+          21.5
+        ],
+        [
+          357.1666666666667,
+          41.75
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "HP Windows 10 Pro Desktop Computer Tower PC Core2Duo 4GB 1TB DVD WiFi  Key-Mice",
+      "label": "text_view",
+      "points": [
+        [
+          6.25,
+          49.25
+        ],
+        [
+          353.75,
+          84.75
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "WINDOWS 10 RECOVERY PARTITION INCLUDED!!",
+      "label": "text_view",
+      "points": [
+        [
+          2.75,
+          83.25
+        ],
+        [
+          357.25,
+          97.5
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          57.0,
+          113.0
+        ],
+        [
+          141.0,
+          197.0
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Touch to Zoom",
+      "label": "text_button",
+      "points": [
+        [
+          57.0,
+          197.0
+        ],
+        [
+          141.0,
+          208.25
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Price:",
+      "label": "text_view",
+      "points": [
+        [
+          152.5,
+          114.75
+        ],
+        [
+          202.5,
+          131.25
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "$ 174.00",
+      "label": "price",
+      "points": [
+        [
+          211.25,
+          113.5
+        ],
+        [
+          300.0,
+          132.5
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Shipping:",
+      "label": "text_view",
+      "points": [
+        [
+          152.5,
+          138.0
+        ],
+        [
+          202.5,
+          154.5
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Free",
+      "label": "text_view",
+      "points": [
+        [
+          211.25,
+          138.0
+        ],
+        [
+          300.0,
+          154.5
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Quantity:",
+      "label": "text_view",
+      "points": [
+        [
+          152.5,
+          160.0
+        ],
+        [
+          202.5,
+          176.5
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "2 left",
+      "label": "text_view",
+      "points": [
+        [
+          211.25,
+          160.0
+        ],
+        [
+          300.0,
+          176.5
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Ends in:",
+      "label": "text_view",
+      "points": [
+        [
+          152.5,
+          182.0
+        ],
+        [
+          202.5,
+          198.5
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "12d 6h 23m 48s",
+      "label": "text_view",
+      "points": [
+        [
+          211.25,
+          182.0
+        ],
+        [
+          300.0,
+          198.5
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "$ 174.00",
+      "label": "price",
+      "points": [
+        [
+          125.0,
+          231.0
+        ],
+        [
+          186.0,
+          248.75
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Buy it Now",
+      "label": "buy",
+      "points": [
+        [
+          197.5,
+          221.75
+        ],
+        [
+          287.25,
+          256.75
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Views:",
+      "label": "text_view",
+      "points": [
+        [
+          4.5,
+          271.25
+        ],
+        [
+          57.0,
+          285.5
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "338 hits",
+      "label": "text_view",
+      "points": [
+        [
+          63.25,
+          270.25
+        ],
+        [
+          107.25,
+          286.75
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Seller:",
+      "label": "text_view",
+      "points": [
+        [
+          4.5,
+          296.75
+        ],
+        [
+          57.0,
+          311.0
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "resaleelectronics",
+      "label": "text_view",
+      "points": [
+        [
+          63.25,
+          295.75
+        ],
+        [
+          156.75,
+          312.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "(466)",
+      "label": "rating_bar",
+      "points": [
+        [
+          161.25,
+          293.0
+        ],
+        [
+          208.5,
+          315.0
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "99.2%",
+      "label": "text_view",
+      "points": [
+        [
+          213.0,
+          296.75
+        ],
+        [
+          241.5,
+          311.0
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Location:",
+      "label": "text_view",
+      "points": [
+        [
+          4.5,
+          322.25
+        ],
+        [
+          57.0,
+          336.5
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "North Easton, Massachusetts",
+      "label": "text_view",
+      "points": [
+        [
+          63.25,
+          321.25
+        ],
+        [
+          224.25,
+          337.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Ships to:",
+      "label": "text_view",
+      "points": [
+        [
+          4.5,
+          345.0
+        ],
+        [
+          57.0,
+          359.25
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "US",
+      "label": "text_view",
+      "points": [
+        [
+          63.25,
+          344.0
+        ],
+        [
+          78.5,
+          360.5
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Pay by:",
+      "label": "text_view",
+      "points": [
+        [
+          4.5,
+          367.75
+        ],
+        [
+          57.0,
+          382.0
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "PayPal",
+      "label": "text_view",
+      "points": [
+        [
+          63.25,
+          366.75
+        ],
+        [
+          101.0,
+          383.25
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Item Description",
+      "label": "button",
+      "points": [
+        [
+          70.75,
+          396.75
+        ],
+        [
+          190.25,
+          431.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Watch Item",
+      "label": "wish_list",
+      "points": [
+        [
+          199.25,
+          396.75
+        ],
+        [
+          289.0,
+          431.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Seller's other items",
+      "label": "button",
+      "points": [
+        [
+          113.0,
+          438.0
+        ],
+        [
+          247.0,
+          473.0
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          64.33333333333333,
+          229.66666666666666
+        ],
+        [
+          121.66666666666666,
+          250.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "15394.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

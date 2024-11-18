@@ -1,0 +1,141 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.widget.ImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     49.0,
+     70.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatImageView",
+   "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+   "text": "",
+   "label": "menu_dots",
+   "points": [
+    [
+     325.0,
+     24.5
+    ],
+    [
+     360.0,
+     66.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.surveysampling.mobile.view.CustomTextView",
+   "text": "Register",
+   "label": "sign_up",
+   "points": [
+    [
+     17.5,
+     545.5
+    ],
+    [
+     342.5,
+     589.25
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.surveysampling.mobile.view.CustomTextView",
+   "text": "We make your opinion count by pairing you with surveys that improve the goods and services you already enjoy while paying you for yourcontributions!",
+   "label": "text_view",
+   "points": [
+    [
+     8.75,
+     486.5
+    ],
+    [
+     351.25,
+     528.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.surveysampling.mobile.view.CustomTextView",
+   "text": "Welcome to QuickThoughts!",
+   "label": "text_view",
+   "points": [
+    [
+     57.916666666666686,
+     448.0833333333333
+    ],
+    [
+     303.4166666666667,
+     470.3333333333333
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     8.75,
+     83.25
+    ],
+    [
+     351.25,
+     438.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "12139.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

@@ -1,0 +1,547 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          35.0,
+          64.75
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          158.0,
+          21.0
+        ],
+        [
+          201.75,
+          64.75
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          318.0,
+          21.0
+        ],
+        [
+          360.0,
+          64.75
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "San Diego Women's March T-Shirt",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          109.0
+        ],
+        [
+          342.5,
+          132.25
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "made by",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          139.25
+        ],
+        [
+          71.0,
+          161.25
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "SanDiego_WomensMarch",
+      "label": "text_button",
+      "points": [
+        [
+          74.5,
+          139.25
+        ],
+        [
+          235.0,
+          161.25
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.AbsSeekBar",
+      "class": "android.widget.RatingBar",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          17.5,
+          168.25
+        ],
+        [
+          93.75,
+          183.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "(1105)",
+      "label": "text_view",
+      "points": [
+        [
+          98.25,
+          168.25
+        ],
+        [
+          140.25,
+          190.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "$24.95",
+      "label": "price",
+      "points": [
+        [
+          293.0,
+          139.25
+        ],
+        [
+          342.5,
+          157.5
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "per shirt",
+      "label": "text_view",
+      "points": [
+        [
+          297.0,
+          157.5
+        ],
+        [
+          342.5,
+          171.75
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.zazzle.view.ZZButton",
+      "text": "Add to Cart",
+      "label": "cart_add",
+      "points": [
+        [
+          17.5,
+          203.5
+        ],
+        [
+          342.5,
+          245.5
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "1",
+      "label": "quantity_counter",
+      "points": [
+        [
+          187.33333333333334,
+          255.0
+        ],
+        [
+          340.0,
+          292.3333333333333
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "Qty",
+      "label": "text_view",
+      "points": [
+        [
+          148.75,
+          258.75
+        ],
+        [
+          167.25,
+          284.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "Adult L",
+      "label": "size_picker",
+      "points": [
+        [
+          192.0,
+          305.0
+        ],
+        [
+          340.6666666666667,
+          340.3333333333333
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "Size",
+      "label": "text_view",
+      "points": [
+        [
+          148.75,
+          307.25
+        ],
+        [
+          189.25,
+          332.75
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          6.25,
+          363.5
+        ],
+        [
+          353.75,
+          364.5
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.zazzle.view.ZZTextView",
+      "class": "com.zazzle.view.ZazziconTextView",
+      "text": "",
+      "label": "wish_list",
+      "points": [
+        [
+          50.25,
+          382.25
+        ],
+        [
+          69.5,
+          402.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "Collections",
+      "label": "text_view",
+      "points": [
+        [
+          26.0,
+          406.25
+        ],
+        [
+          94.0,
+          428.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.zazzle.view.ZZTextView",
+      "class": "com.zazzle.view.ZazziconTextView",
+      "text": "",
+      "label": "share_button",
+      "points": [
+        [
+          172.0,
+          382.25
+        ],
+        [
+          188.0,
+          402.75
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "Share",
+      "label": "text_view",
+      "points": [
+        [
+          162.25,
+          406.25
+        ],
+        [
+          197.5,
+          428.75
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.zazzle.view.ZZTextView",
+      "class": "com.zazzle.view.ZazziconTextView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          290.25,
+          382.25
+        ],
+        [
+          309.5,
+          402.75
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "Like",
+      "label": "text_view",
+      "points": [
+        [
+          287.75,
+          406.25
+        ],
+        [
+          312.25,
+          428.75
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          6.25,
+          451.0
+        ],
+        [
+          353.75,
+          452.0
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "Product Details",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          465.25
+        ],
+        [
+          157.75,
+          488.5
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "Style: Women's American Apparel Fine Jersey T-Shirt\nBack to basics never looked better. This best-selling women's tee by American Apparel is a versatile must-have for every lady's wardrobe. Wear it to work or play, or dress it up with a blazer or sweater and wear it out to dinner. Super soft and lightweight.\n\nSize & Fit\n\n Model is 57 and is wearing a small\n Slim fit\n Runs small; order 1-2 sizes larger for a looser fit\n\nFabric & Care\n\n 100% Fine Jersey cotton construction (Heather Grey contains 10% Polyester)\n Durable rib neckband\n Machine wash cold\n Made in the USA\n",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          488.5
+        ],
+        [
+          342.5,
+          577.75
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.zazzle.view.ZZTextView",
+      "text": "see more",
+      "label": "text_button",
+      "points": [
+        [
+          284.25,
+          582.25
+        ],
+        [
+          342.5,
+          598.0
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "36008.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

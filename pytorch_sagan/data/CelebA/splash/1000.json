@@ -1,0 +1,311 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     75.0,
+     38.5
+    ],
+    [
+     285.0,
+     73.5
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     17.5,
+     536.75
+    ],
+    [
+     98.25,
+     571.75
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Pay bills",
+   "label": "text_view",
+   "points": [
+    [
+     41.25,
+     567.0
+    ],
+    [
+     74.25,
+     580.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line_v",
+   "points": [
+    [
+     98.25,
+     542.0
+    ],
+    [
+     98.75,
+     575.25
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     98.75,
+     536.75
+    ],
+    [
+     179.5,
+     571.75
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Quick resend",
+   "label": "text_view",
+   "points": [
+    [
+     113.5,
+     567.0
+    ],
+    [
+     164.5,
+     580.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line_v",
+   "points": [
+    [
+     179.5,
+     542.0
+    ],
+    [
+     180.0,
+     575.25
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     180.0,
+     536.75
+    ],
+    [
+     261.0,
+     571.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "History",
+   "label": "text_view",
+   "points": [
+    [
+     206.5,
+     567.0
+    ],
+    [
+     234.5,
+     580.5
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line_v",
+   "points": [
+    [
+     261.0,
+     542.0
+    ],
+    [
+     261.5,
+     575.25
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     261.5,
+     536.75
+    ],
+    [
+     342.5,
+     571.75
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "More",
+   "label": "text_view",
+   "points": [
+    [
+     291.75,
+     567.0
+    ],
+    [
+     312.25,
+     580.5
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "label": "button",
+   "points": [
+    [
+     16.84210526315792,
+     421.05263157894734
+    ],
+    [
+     343.81578947368416,
+     461.1842105263158
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "log_in",
+   "points": [
+    [
+     17.5,
+     478.9473684210526
+    ],
+    [
+     343.1578947368421,
+     520.3947368421052
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "tab_bar",
+   "points": [
+    [
+     15.5263157894737,
+     535.5263157894736
+    ],
+    [
+     344.47368421052636,
+     582.8947368421052
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "1000.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

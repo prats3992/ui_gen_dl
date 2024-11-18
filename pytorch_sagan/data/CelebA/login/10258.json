@@ -1,0 +1,296 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "com.banking.tab.components.TextView",
+   "text": "Federally Insured by NCUA. Equal Housing Lender. ",
+   "label": "text_view",
+   "points": [
+    [
+     0.0,
+     530.25
+    ],
+    [
+     360.0,
+     563.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.banking.tab.components.TextView",
+   "text": "Sign up",
+   "label": "tab_bar_button",
+   "points": [
+    [
+     0.0,
+     563.0
+    ],
+    [
+     119.75,
+     598.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line_v",
+   "points": [
+    [
+     119.75,
+     563.0
+    ],
+    [
+     120.0,
+     598.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.banking.tab.components.TextView",
+   "text": "Locations",
+   "label": "tab_bar_button",
+   "points": [
+    [
+     120.0,
+     563.0
+    ],
+    [
+     239.75,
+     598.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line_v",
+   "points": [
+    [
+     239.75,
+     563.0
+    ],
+    [
+     240.0,
+     598.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.banking.tab.components.TextView",
+   "text": "More",
+   "label": "tab_bar_button",
+   "points": [
+    [
+     240.0,
+     563.0
+    ],
+    [
+     360.0,
+     598.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     360.0,
+     250.25
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     48.75,
+     274.75
+    ],
+    [
+     311.25,
+     318.5
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "com.banking.tab.components.MyEditText",
+   "class": "com.banking.components.EditTextMasking",
+   "text": "User ID",
+   "label": "username",
+   "points": [
+    [
+     59.25,
+     318.5
+    ],
+    [
+     300.75,
+     350.75
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.banking.tab.components.MyEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     59.25,
+     357.75
+    ],
+    [
+     300.75,
+     390.0
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.banking.tab.components.TextView",
+   "text": "Save User ID",
+   "label": "text_view",
+   "points": [
+    [
+     59.25,
+     401.0
+    ],
+    [
+     129.5,
+     417.5
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.CompoundButton",
+   "class": "com.banking.components.Switch",
+   "text": "",
+   "label": "toggle",
+   "points": [
+    [
+     204.75,
+     397.0
+    ],
+    [
+     300.75,
+     421.5
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.banking.components.IFSButton",
+   "text": "Log in",
+   "label": "log_in",
+   "points": [
+    [
+     59.25,
+     428.5
+    ],
+    [
+     300.75,
+     465.25
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "label": "tab_bar",
+   "points": [
+    [
+     0.0,
+     562.0
+    ],
+    [
+     359,
+     598
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "10258.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

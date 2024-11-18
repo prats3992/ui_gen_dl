@@ -1,0 +1,238 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.support.v7.widget.AppCompatImageView",
+   "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+   "text": "",
+   "label": "menu_dots",
+   "points": [
+    [
+     325.0,
+     24.5
+    ],
+    [
+     360.0,
+     66.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     87.75,
+     105.0
+    ],
+    [
+     272.0,
+     207.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.surveysampling.mobile.view.CustomTextView",
+   "text": "Make your opinionscount!",
+   "label": "text_view",
+   "points": [
+    [
+     122.75,
+     207.75
+    ],
+    [
+     237.0,
+     220.0
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     40.0,
+     291.0
+    ],
+    [
+     69.0,
+     320.0
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.surveysampling.mobile.view.CustomEditText",
+   "text": "Email address",
+   "label": "email",
+   "points": [
+    [
+     69.0,
+     291.0
+    ],
+    [
+     320.0,
+     327.5
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     40.0,
+     340.0
+    ],
+    [
+     69.0,
+     369.0
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.surveysampling.mobile.view.CustomEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     69.0,
+     336.25
+    ],
+    [
+     320.0,
+     372.75
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.surveysampling.mobile.view.CustomTextView",
+   "text": "Log in",
+   "label": "log_in",
+   "points": [
+    [
+     40.0,
+     455.25
+    ],
+    [
+     320.0,
+     499.0
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.surveysampling.mobile.view.CustomTextView",
+   "text": "Sign up",
+   "label": "tb_sign_up",
+   "points": [
+    [
+     40.0,
+     507.75
+    ],
+    [
+     179.0,
+     560.25
+    ]
+   ],
+   "group_id": 995,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.ViewGroup",
+   "class": "android.widget.LinearLayout",
+   "text": "",
+   "label": "separator_line_v",
+   "points": [
+    [
+     179.0,
+     507.75
+    ],
+    [
+     180.75,
+     560.25
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.surveysampling.mobile.view.CustomTextView",
+   "text": "Forgot password?",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     180.75,
+     507.75
+    ],
+    [
+     320.0,
+     560.25
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "12134.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

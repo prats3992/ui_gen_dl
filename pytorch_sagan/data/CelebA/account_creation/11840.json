@@ -1,0 +1,424 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     14.0,
+     97.25
+    ],
+    [
+     35.0,
+     148.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Gender",
+   "label": "text_view",
+   "points": [
+    [
+     42.0,
+     115.0
+    ],
+    [
+     87.0,
+     134.0
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.RadioButton",
+   "class": "com.hoott.android.ui.widget.RobotoRadioButton",
+   "text": "Male",
+   "label": "radio_button",
+   "points": [
+    [
+     135.75,
+     92.0
+    ],
+    [
+     208.75,
+     134.0
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.RadioButton",
+   "class": "com.hoott.android.ui.widget.RobotoRadioButton",
+   "text": "Female",
+   "label": "radio_button",
+   "points": [
+    [
+     208.75,
+     92.0
+    ],
+    [
+     297.25,
+     134.0
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     14.0,
+     162.25
+    ],
+    [
+     35.0,
+     204.25
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.hoott.android.ui.widget.RobotoTextView",
+   "text": "Date of birth",
+   "label": "date_picker",
+   "points": [
+    [
+     42.0,
+     162.25
+    ],
+    [
+     346.0,
+     209.25
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     14.0,
+     223.5
+    ],
+    [
+     35.0,
+     265.5
+    ]
+   ],
+   "group_id": 20,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.hoott.android.ui.widget.RobotoTextView",
+   "text": "Current location",
+   "label": "location",
+   "points": [
+    [
+     42.0,
+     223.5
+    ],
+    [
+     346.0,
+     270.5
+    ]
+   ],
+   "group_id": 19,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.hoott.android.ui.widget.RobotoTextView",
+   "text": "Please specify your location",
+   "label": "text_view",
+   "points": [
+    [
+     42.0,
+     270.5
+    ],
+    [
+     346.0,
+     284.75
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     14.0,
+     289.75
+    ],
+    [
+     35.0,
+     331.75
+    ]
+   ],
+   "group_id": 23,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.hoott.android.ui.widget.RobotoEditText",
+   "text": "Name",
+   "label": "name",
+   "points": [
+    [
+     42.0,
+     284.75
+    ],
+    [
+     346.0,
+     331.75
+    ]
+   ],
+   "group_id": 22,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     14.0,
+     351.0
+    ],
+    [
+     35.0,
+     393.0
+    ]
+   ],
+   "group_id": 26,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.hoott.android.ui.widget.RobotoEditText",
+   "text": "Email",
+   "label": "email",
+   "points": [
+    [
+     42.0,
+     346.0
+    ],
+    [
+     346.0,
+     393.0
+    ]
+   ],
+   "group_id": 25,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.hoott.android.ui.widget.RobotoButton",
+   "text": "Join Now",
+   "label": "sign_up",
+   "points": [
+    [
+     21.0,
+     414.25
+    ],
+    [
+     339.0,
+     456.25
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.hoott.android.ui.widget.RobotoTextView",
+   "text": "*By joining you accept our Terms & Conditions and Privacy Policy. Check the links for more details ",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     16.333333333333336,
+     557.0
+    ],
+    [
+     346.0,
+     591.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageButton",
+   "class": "android.support.v7.widget.AppCompatImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     49.0,
+     70.0
+    ]
+   ],
+   "group_id": 29,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Sign Up",
+   "label": "text_view",
+   "points": [
+    [
+     63.0,
+     33.75
+    ],
+    [
+     123.25,
+     57.0
+    ]
+   ],
+   "group_id": 29,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "android.support.v7.view.menu.ActionMenuItemView",
+   "text": "Sign In",
+   "label": "tb_log_in",
+   "points": [
+    [
+     314.5,
+     24.5
+    ],
+    [
+     360.0,
+     66.5
+    ]
+   ],
+   "group_id": 993,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     0.0,
+     70.0
+    ],
+    [
+     360.0,
+     71.0
+    ]
+   ],
+   "group_id": 28,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "label": "gender_picker",
+   "points": [
+    [
+     134.33333333333334,
+     89.0
+    ],
+    [
+     300.3333333333333,
+     135.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "11840.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

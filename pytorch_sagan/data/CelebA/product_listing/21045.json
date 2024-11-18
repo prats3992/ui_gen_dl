@@ -1,0 +1,733 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          49.0,
+          35.25
+        ],
+        [
+          136.5,
+          55.75
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "search_button",
+      "points": [
+        [
+          273.0,
+          35.0
+        ],
+        [
+          294.0,
+          56.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          303.0,
+          35.0
+        ],
+        [
+          324.0,
+          56.0
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatImageView",
+      "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+      "text": "",
+      "label": "menu_dots",
+      "points": [
+        [
+          328.5,
+          24.5
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Sarees",
+      "label": "button",
+      "points": [
+        [
+          36.666666666666664,
+          73.0
+        ],
+        [
+          94.66666666666667,
+          109.0
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Salwar Kameez",
+      "label": "button",
+      "points": [
+        [
+          108.66666666666667,
+          72.33333333333333
+        ],
+        [
+          213.33333333333334,
+          111.66666666666667
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Jewellery",
+      "label": "button",
+      "points": [
+        [
+          227.33333333333334,
+          72.33333333333333
+        ],
+        [
+          301.3333333333333,
+          110.33333333333333
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Lehengas",
+      "label": "button",
+      "points": [
+        [
+          316.0,
+          71.0
+        ],
+        [
+          359.0,
+          110.0
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Hot Deals (105 designs)",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          125.0
+        ],
+        [
+          360.0,
+          141.25
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.facebook.drawee.view.SimpleDraweeView",
+      "class": "com.mirraw.android.ui.widgets.WrapContentDraweeView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          14.0,
+          168.5
+        ],
+        [
+          173.0,
+          386.75
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Black embroidered georgette semi stitched salwar with dupatta",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          386.75
+        ],
+        [
+          173.0,
+          407.5
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.RatingBar",
+      "class": "android.support.v7.widget.AppCompatRatingBar",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          18.5,
+          412.0
+        ],
+        [
+          84.75,
+          425.25
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$ 51.73",
+      "label": "price",
+      "points": [
+        [
+          18.5,
+          429.75
+        ],
+        [
+          54.75,
+          444.75
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$ 57.5",
+      "label": "price_s",
+      "points": [
+        [
+          59.25,
+          429.75
+        ],
+        [
+          89.25,
+          444.75
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "10.0% Off",
+      "label": "discount",
+      "points": [
+        [
+          14.0,
+          444.75
+        ],
+        [
+          173.0,
+          462.5
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          149.5,
+          414.5
+        ],
+        [
+          170.5,
+          440.0
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "com.facebook.drawee.view.SimpleDraweeView",
+      "class": "com.mirraw.android.ui.widgets.WrapContentDraweeView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          187.0,
+          168.5
+        ],
+        [
+          346.0,
+          364.0
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Cream and Maroon embroidered netandvelvet saree with blouse",
+      "label": "text_view",
+      "points": [
+        [
+          187.0,
+          364.0
+        ],
+        [
+          346.0,
+          384.75
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.RatingBar",
+      "class": "android.support.v7.widget.AppCompatRatingBar",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          191.5,
+          389.25
+        ],
+        [
+          257.75,
+          402.5
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$ 89.97",
+      "label": "price",
+      "points": [
+        [
+          191.5,
+          407.0
+        ],
+        [
+          227.75,
+          422.0
+        ]
+      ],
+      "group_id": 42,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$ 199.93",
+      "label": "price_s",
+      "points": [
+        [
+          232.25,
+          407.0
+        ],
+        [
+          274.75,
+          422.0
+        ]
+      ],
+      "group_id": 42,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "55.0% Off",
+      "label": "discount",
+      "points": [
+        [
+          187.0,
+          422.0
+        ],
+        [
+          346.0,
+          439.75
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          191.5,
+          344.25
+        ],
+        [
+          258.5,
+          369.25
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          322.5,
+          391.75
+        ],
+        [
+          343.5,
+          417.25
+        ]
+      ],
+      "group_id": 40,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "com.facebook.drawee.view.SimpleDraweeView",
+      "class": "com.mirraw.android.ui.widgets.WrapContentDraweeView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          187.0,
+          453.75
+        ],
+        [
+          346.0,
+          553.6666666666666
+        ]
+      ],
+      "group_id": 45,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "com.facebook.drawee.view.SimpleDraweeView",
+      "class": "com.mirraw.android.ui.widgets.WrapContentDraweeView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          14.0,
+          476.5
+        ],
+        [
+          174.0,
+          554.3333333333334
+        ]
+      ],
+      "group_id": 49,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          60.0,
+          565.5
+        ],
+        [
+          81.0,
+          586.5
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Sort",
+      "label": "sort",
+      "points": [
+        [
+          60.0,
+          565.0
+        ],
+        [
+          120.0,
+          586.75
+        ]
+      ],
+      "group_id": 58,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          236.75,
+          565.5
+        ],
+        [
+          257.75,
+          586.5
+        ]
+      ],
+      "group_id": 60,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Filter",
+      "label": "filter_button",
+      "points": [
+        [
+          236.0,
+          564.3333333333334
+        ],
+        [
+          303.0,
+          586.75
+        ]
+      ],
+      "group_id": 60,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          179.5,
+          567.25
+        ],
+        [
+          180.5,
+          584.75
+        ]
+      ],
+      "group_id": 55,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "navigation_bar",
+      "points": [
+        [
+          1.333333333333334,
+          71.0
+        ],
+        [
+          359,
+          114
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          11.333333333333332,
+          167.0
+        ],
+        [
+          175.33333333333334,
+          465.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          184.0,
+          166.33333333333334
+        ],
+        [
+          348.6666666666667,
+          443.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          12.0,
+          474.3333333333333
+        ],
+        [
+          174.0,
+          555.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          184.66666666666666,
+          451.6666666666667
+        ],
+        [
+          346.6666666666667,
+          554.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "21045.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

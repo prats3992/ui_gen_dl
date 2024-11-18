@@ -1,0 +1,97 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.Button",
+   "class": "com.soundcloud.android.view.CustomFontButton",
+   "text": "Sign in with Google Plus",
+   "label": "google_button",
+   "points": [
+    [
+     70.5,
+     195.25
+    ],
+    [
+     289.25,
+     235.5
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "com.facebook.login.widget.LoginButton",
+   "class": "com.soundcloud.android.view.FacebookLoginButton",
+   "text": "Sign in with Facebook",
+   "label": "fb_button",
+   "points": [
+    [
+     73.25,
+     253.0
+    ],
+    [
+     286.75,
+     288.0
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.soundcloud.android.view.CustomFontButton",
+   "text": "Sign up with your email address",
+   "label": "email_button",
+   "points": [
+    [
+     70.0,
+     305.5
+    ],
+    [
+     289.75,
+     347.0
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.soundcloud.android.view.CustomFontTextView",
+   "text": "We may use your email for updates and tips on SoundClouds products and services. You can unsubscribe for free at any time in your notification preferences.",
+   "label": "text_view",
+   "points": [
+    [
+     17.5,
+     369.0
+    ],
+    [
+     342.5,
+     414.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "12709.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

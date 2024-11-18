@@ -1,0 +1,265 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     122.5,
+     43.75
+    ],
+    [
+     237.5,
+     88.0
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.ztrip.refresh.gui.FontedTextView",
+   "text": "Register an account",
+   "label": "text_view",
+   "points": [
+    [
+     116.0,
+     110.75
+    ],
+    [
+     252.75,
+     128.75
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     12.25,
+     110.75
+    ],
+    [
+     29.0,
+     134.5
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.ztrip.refresh.gui.FontedEditText",
+   "text": "EMAIL",
+   "label": "email",
+   "points": [
+    [
+     8.75,
+     152.0
+    ],
+    [
+     351.25,
+     194.0
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.ztrip.refresh.gui.FontedEditText",
+   "text": "PASSWORD (6 characters minimum)",
+   "label": "password",
+   "points": [
+    [
+     8.75,
+     202.75
+    ],
+    [
+     351.25,
+     244.75
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.ztrip.refresh.gui.FontedEditText",
+   "text": "FIRST NAME",
+   "label": "name",
+   "points": [
+    [
+     8.75,
+     253.5
+    ],
+    [
+     351.25,
+     295.5
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.ztrip.refresh.gui.FontedEditText",
+   "text": "LAST NAME",
+   "label": "last_name",
+   "points": [
+    [
+     8.75,
+     304.25
+    ],
+    [
+     351.25,
+     346.25
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.ztrip.refresh.gui.FontedTextView",
+   "text": "terms",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     13.25,
+     363.75
+    ],
+    [
+     48.5,
+     381.25
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.ztrip.refresh.gui.FontedTextView",
+   "text": "|",
+   "label": "text_view",
+   "points": [
+    [
+     52.0,
+     365.5
+    ],
+    [
+     54.75,
+     379.5
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.ztrip.refresh.gui.FontedTextView",
+   "text": "privacy",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     58.25,
+     363.75
+    ],
+    [
+     99.5,
+     381.25
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.ztrip.refresh.gui.FontedTextView",
+   "text": "Promotions via email",
+   "label": "text_view",
+   "points": [
+    [
+     215.5,
+     363.75
+    ],
+    [
+     328.25,
+     381.25
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.CompoundButton",
+   "class": "android.widget.CheckBox",
+   "text": "",
+   "label": "check_box",
+   "points": [
+    [
+     332.75,
+     365.5
+    ],
+    [
+     346.75,
+     379.5
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "15105.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

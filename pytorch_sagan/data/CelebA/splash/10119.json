@@ -1,0 +1,139 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": false,
+    "splash": true,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          359.0,
+          303.0
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          114.25,
+          253.25
+        ],
+        [
+          245.5,
+          293.0
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Sign up with Google",
+      "label": "google_button",
+      "points": [
+        [
+          14.0,
+          359.75
+        ],
+        [
+          346.0,
+          394.75
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Sign up with Facebook",
+      "label": "fb_button",
+      "points": [
+        [
+          14.0,
+          401.75
+        ],
+        [
+          346.0,
+          436.75
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Sign up with Email",
+      "label": "sign_up",
+      "points": [
+        [
+          14.0,
+          443.75
+        ],
+        [
+          346.0,
+          478.75
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.widget.Button",
+      "text": "Let me try first",
+      "label": "text_view",
+      "points": [
+        [
+          135.0,
+          554.25
+        ],
+        [
+          225.0,
+          589.25
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    }
+  ],
+  "imagePath": "10119.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

@@ -1,0 +1,139 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     75.0,
+     175.5
+    ],
+    [
+     285.0,
+     215.75
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.widget.AutoCompleteTextView",
+   "text": "Email",
+   "label": "email",
+   "points": [
+    [
+     75.0,
+     253.5
+    ],
+    [
+     276.25,
+     285.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.EditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     75.0,
+     290.25
+    ],
+    [
+     276.25,
+     321.75
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "Sign In",
+   "label": "log_in",
+   "points": [
+    [
+     75.0,
+     343.75
+    ],
+    [
+     276.25,
+     375.25
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "Need Help?",
+   "label": "text_view",
+   "points": [
+    [
+     98.25,
+     375.25
+    ],
+    [
+     174.25,
+     417.25
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "Create Account",
+   "label": "tb_sign_up",
+   "points": [
+    [
+     174.25,
+     375.25
+    ],
+    [
+     252.75,
+     417.25
+    ]
+   ],
+   "group_id": 995,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "14847.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

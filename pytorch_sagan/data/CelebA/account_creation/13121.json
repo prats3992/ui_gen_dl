@@ -1,0 +1,447 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          149.25,
+          455.0
+        ],
+        [
+          175.5,
+          456.75
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          184.25,
+          455.0
+        ],
+        [
+          210.5,
+          456.75
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.urbn.android.view.widget.SvgView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          49.0,
+          29.75
+        ],
+        [
+          49.5,
+          61.25
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.urbn.android.view.widget.TruncationTextView",
+      "class": "com.urbn.android.view.widget.FontTextView",
+      "text": "Create An Account",
+      "label": "text_view",
+      "points": [
+        [
+          49.0,
+          21.0
+        ],
+        [
+          193.5,
+          70.0
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.urbn.android.view.widget.SvgView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          311.0,
+          21.0
+        ],
+        [
+          360.0,
+          70.0
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "com.urbn.android.view.widget.TruncationTextView",
+      "class": "com.urbn.android.view.widget.FontTextView",
+      "text": "Account Information",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          360.0,
+          99.75
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "com.urbn.android.view.widget.FontEditTextView",
+      "text": "Email",
+      "label": "email",
+      "points": [
+        [
+          17.5,
+          117.25
+        ],
+        [
+          342.5,
+          149.25
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "com.urbn.android.view.widget.FontEditTextView",
+      "text": "Password",
+      "label": "password",
+      "points": [
+        [
+          17.5,
+          158.0
+        ],
+        [
+          342.5,
+          190.0
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.urbn.android.view.widget.TruncationTextView",
+      "class": "com.urbn.android.view.widget.FontTextView",
+      "text": "Show",
+      "label": "button",
+      "points": [
+        [
+          289.3333333333333,
+          165.08333333333334
+        ],
+        [
+          341.8333333333333,
+          181.58333333333334
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "com.urbn.android.view.widget.FontEditTextView",
+      "text": "Confirm",
+      "label": "password",
+      "points": [
+        [
+          17.5,
+          198.75
+        ],
+        [
+          342.5,
+          230.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "com.urbn.android.view.widget.TruncationTextView",
+      "class": "com.urbn.android.view.widget.FontTextView",
+      "text": "Show",
+      "label": "button",
+      "points": [
+        [
+          290.0,
+          206.5
+        ],
+        [
+          342.5,
+          223.0
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "com.urbn.android.view.widget.FontEditTextView",
+      "text": "Username",
+      "label": "username",
+      "points": [
+        [
+          17.5,
+          239.5
+        ],
+        [
+          342.5,
+          271.5
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.urbn.android.view.widget.TruncationTextView",
+      "class": "com.urbn.android.view.widget.FontTextView",
+      "text": "Gender",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          289.0
+        ],
+        [
+          360.0,
+          310.0
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatRadioButton",
+      "class": "com.urbn.android.view.widget.FontRadioButton",
+      "text": "Guy",
+      "label": "radio_button",
+      "points": [
+        [
+          17.5,
+          327.5
+        ],
+        [
+          98.75,
+          355.5
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatRadioButton",
+      "class": "com.urbn.android.view.widget.FontRadioButton",
+      "text": "Girl",
+      "label": "radio_button",
+      "points": [
+        [
+          98.75,
+          327.5
+        ],
+        [
+          180.0,
+          355.5
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatRadioButton",
+      "class": "com.urbn.android.view.widget.FontRadioButton",
+      "text": "I'd rather not say",
+      "label": "radio_button",
+      "points": [
+        [
+          180.0,
+          327.5
+        ],
+        [
+          342.5,
+          355.5
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.urbn.android.view.widget.TruncationTextView",
+      "class": "com.urbn.android.view.widget.FontTextView",
+      "text": "Sign up for Urban Outfitters emails",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          373.0
+        ],
+        [
+          360.0,
+          394.0
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.CheckBox",
+      "class": "com.urbn.android.view.widget.FontCheckBox",
+      "text": "Yes, sign me up!",
+      "label": "check_box",
+      "points": [
+        [
+          17.5,
+          411.5
+        ],
+        [
+          148.5,
+          439.5
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.urbn.android.view.widget.TruncationTextView",
+      "class": "com.urbn.android.view.widget.FontTextView",
+      "text": "By signing up for email, you agree to receive Urban Outfitters offers, promotions and other commercial messages. You may unsubscribe at any time.",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          457.0
+        ],
+        [
+          360.0,
+          505.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "gender_picker",
+      "points": [
+        [
+          8.333333333333332,
+          317.6666666666667
+        ],
+        [
+          350.3333333333333,
+          365.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "13121.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

@@ -1,0 +1,339 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "label": "image_button",
+      "points": [
+        [
+          7.0,
+          29.666666666666668
+        ],
+        [
+          63.66666666666667,
+          57.666666666666664
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "menu_dashs",
+      "points": [
+        [
+          309.0,
+          23.0
+        ],
+        [
+          347.6666666666667,
+          61.666666666666664
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          123.0,
+          29.0
+        ],
+        [
+          245.0,
+          53.666666666666664
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "icon_button",
+      "points": [
+        [
+          306.3333333333333,
+          145.66666666666666
+        ],
+        [
+          354.3333333333333,
+          196.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "icon_button",
+      "points": [
+        [
+          5.666666666666636,
+          145.66666666666666
+        ],
+        [
+          53.66666666666662,
+          196.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          1.666666666666666,
+          64.33333333333333
+        ],
+        [
+          359.0,
+          294.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          0.3333333333333339,
+          296.3333333333333
+        ],
+        [
+          359.0,
+          331.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          8.333333333333332,
+          343.6666666666667
+        ],
+        [
+          141.0,
+          357.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          7.0,
+          359.0
+        ],
+        [
+          93.66666666666667,
+          374.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "price",
+      "points": [
+        [
+          8.333333333333332,
+          375.6666666666667
+        ],
+        [
+          57.66666666666667,
+          389.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          5.666666666666668,
+          391.6666666666667
+        ],
+        [
+          85.66666666666667,
+          407.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "rating_bar",
+      "points": [
+        [
+          253.66666666666669,
+          338.3333333333333
+        ],
+        [
+          325.6666666666667,
+          394.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          1.0,
+          417.0
+        ],
+        [
+          179.66666666666666,
+          443.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          181.0,
+          417.0
+        ],
+        [
+          359.0,
+          443.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          0.3333333333333339,
+          443.6666666666667
+        ],
+        [
+          359.0,
+          469.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "share_button",
+      "points": [
+        [
+          0.3333333333333339,
+          469.0
+        ],
+        [
+          359.0,
+          494.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          15.666666666666668,
+          513.6666666666666
+        ],
+        [
+          76.33333333333333,
+          556.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          82.33333333333333,
+          525.0
+        ],
+        [
+          238.33333333333334,
+          542.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_button",
+      "points": [
+        [
+          83.66666666666667,
+          544.3333333333334
+        ],
+        [
+          319.0,
+          570.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "rate_it",
+      "points": [
+        [
+          81.66666666666667,
+          571.6666666666666
+        ],
+        [
+          184.33333333333334,
+          595.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "51284.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

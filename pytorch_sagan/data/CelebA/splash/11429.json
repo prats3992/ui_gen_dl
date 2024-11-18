@@ -1,0 +1,158 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "l.",
+   "class": "l.auY",
+   "text": "Swipe right to like\nand left to pass",
+   "label": "image_view",
+   "points": [
+    [
+     17.5,
+     38.5
+    ],
+    [
+     342.5,
+     87.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     45.0,
+     106.75
+    ],
+    [
+     315.0,
+     466.75
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     45.0,
+     106.75
+    ],
+    [
+     315.0,
+     466.75
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "v.VPagerCircleIndicator",
+   "text": "",
+   "label": "navigation_dots",
+   "points": [
+    [
+     165.5,
+     450.75
+    ],
+    [
+     194.5,
+     456.25
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "l.atK",
+   "class": "l.atG",
+   "text": "Start Tantan",
+   "label": "button",
+   "points": [
+    [
+     75.0,
+     472.0
+    ],
+    [
+     285.0,
+     514.0
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "l.",
+   "class": "l.auY",
+   "text": "Already have a Tantan account?",
+   "label": "text_view",
+   "points": [
+    [
+     106.0,
+     524.5
+    ],
+    [
+     253.75,
+     536.75
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "l.",
+   "class": "l.auY",
+   "text": "Sign in",
+   "label": "log_in",
+   "points": [
+    [
+     75.0,
+     540.25
+    ],
+    [
+     285.0,
+     582.25
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "11429.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

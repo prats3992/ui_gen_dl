@@ -1,0 +1,259 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     44.75,
+     74.5
+    ]
+   ],
+   "group_id": 4,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Get NAVER App and sign in faster",
+   "label": "text_view",
+   "points": [
+    [
+     53.5,
+     29.75
+    ],
+    [
+     237.75,
+     53.25
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Download App",
+   "label": "text_view",
+   "points": [
+    [
+     53.5,
+     53.25
+    ],
+    [
+     121.75,
+     71.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     332.0,
+     21.0
+    ],
+    [
+     360.0,
+     79.75
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "username",
+   "points": [
+    [
+     8.333333333333336,
+     205.66666666666666
+    ],
+    [
+     351.0,
+     242.33333333333334
+    ]
+   ],
+   "group_id": 991,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "password",
+   "points": [
+    [
+     8.333333333333336,
+     249.0
+    ],
+    [
+     352.3333333333333,
+     285.0
+    ]
+   ],
+   "group_id": 992,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "tb_log_in",
+   "points": [
+    [
+     8.333333333333336,
+     298.3333333333333
+    ],
+    [
+     351.6666666666667,
+     341.0
+    ]
+   ],
+   "group_id": 993,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     70.33333333333333,
+     359.0
+    ],
+    [
+     246.33333333333331,
+     374.3333333333333
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     251.66666666666669,
+     359.6666666666667
+    ],
+    [
+     293.6666666666667,
+     375.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     7.666666666666664,
+     167.0
+    ],
+    [
+     197.66666666666666,
+     185.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "image_view",
+   "points": [
+    [
+     114.33333333333334,
+     115.0
+    ],
+    [
+     243.66666666666669,
+     149.66666666666666
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "drop_down_list",
+   "points": [
+    [
+     279.6666666666667,
+     86.33333333333333
+    ],
+    [
+     352.3333333333333,
+     108.33333333333333
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     127.0,
+     575.0
+    ],
+    [
+     199.0,
+     590.3333333333334
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     207.0,
+     575.6666666666666
+    ],
+    [
+     233.0,
+     589.6666666666666
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "10466.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

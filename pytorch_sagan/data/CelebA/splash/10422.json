@@ -1,0 +1,215 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": false,
+    "splash": true,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          106.25,
+          458.0
+        ],
+        [
+          127.25,
+          479.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "org.zoostudio.fw.view.AutoResizeTextView",
+      "class": "org.zoostudio.fw.view.CustomFontTextView",
+      "text": "Login with Facebook",
+      "label": "text_view",
+      "points": [
+        [
+          141.25,
+          460.25
+        ],
+        [
+          253.5,
+          476.75
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          106.0,
+          507.0
+        ],
+        [
+          127.0,
+          528.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "org.zoostudio.fw.view.AutoResizeTextView",
+      "class": "org.zoostudio.fw.view.CustomFontTextView",
+      "text": "Connect with Google",
+      "label": "text_view",
+      "points": [
+        [
+          141.0,
+          509.25
+        ],
+        [
+          254.0,
+          525.75
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "org.zoostudio.fw.view.AutoResizeTextView",
+      "class": "org.zoostudio.fw.view.CustomFontTextView",
+      "text": "Register or Sign In by Email",
+      "label": "email_button",
+      "points": [
+        [
+          28.0,
+          549.0
+        ],
+        [
+          332.0,
+          584.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          22.0
+        ],
+        [
+          360.0,
+          437.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "org.zoostudio.fw.view.AutoResizeTextView",
+      "class": "org.zoostudio.fw.view.CustomFontTextView",
+      "text": "Plan wisely with budgets, cut back on extras and start saving for your dreams.",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          359.5
+        ],
+        [
+          339.0,
+          395.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "navigation_dots",
+      "points": [
+        [
+          127.5,
+          409.0
+        ],
+        [
+          232.33333333333331,
+          429.6666666666667
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "fb_button",
+      "points": [
+        [
+          27.0,
+          450.3333333333333
+        ],
+        [
+          333.0,
+          485.6666666666667
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "google_button",
+      "points": [
+        [
+          27.66666666666667,
+          499.6666666666667
+        ],
+        [
+          332.3333333333333,
+          535.6666666666666
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "10422.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

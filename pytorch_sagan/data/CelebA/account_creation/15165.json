@@ -1,0 +1,383 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "New User",
+   "label": "text_view",
+   "points": [
+    [
+     63.0,
+     33.75
+    ],
+    [
+     138.5,
+     57.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageButton",
+   "class": "android.support.v7.widget.AppCompatImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     49.0,
+     70.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "android.support.v7.view.menu.ActionMenuItemView",
+   "text": "Register",
+   "label": "text_view",
+   "points": [
+    [
+     282.75,
+     24.5
+    ],
+    [
+     360.0,
+     66.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "Name",
+   "label": "name",
+   "points": [
+    [
+     13.25,
+     87.75
+    ],
+    [
+     346.75,
+     118.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "I'm a",
+   "label": "text_view",
+   "points": [
+    [
+     13.25,
+     127.25
+    ],
+    [
+     87.75,
+     146.25
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.CheckBox",
+   "class": "android.support.v7.widget.AppCompatCheckBox",
+   "text": "Female",
+   "label": "check_box",
+   "points": [
+    [
+     87.75,
+     121.5
+    ],
+    [
+     217.25,
+     152.25
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.CheckBox",
+   "class": "android.support.v7.widget.AppCompatCheckBox",
+   "text": "Male",
+   "label": "check_box",
+   "points": [
+    [
+     217.25,
+     121.5
+    ],
+    [
+     346.75,
+     152.25
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     13.25,
+     161.0
+    ],
+    [
+     346.75,
+     162.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Avatar",
+   "label": "text_view",
+   "points": [
+    [
+     13.25,
+     188.0
+    ],
+    [
+     87.75,
+     205.75
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_button",
+   "points": [
+    [
+     87.75,
+     167.25
+    ],
+    [
+     147.25,
+     226.75
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     13.25,
+     233.75
+    ],
+    [
+     346.75,
+     234.75
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Birthday",
+   "label": "text_view",
+   "points": [
+    [
+     13.25,
+     248.0
+    ],
+    [
+     87.75,
+     265.75
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "You must be at least 18 years old",
+   "label": "text_view",
+   "points": [
+    [
+     87.75,
+     249.75
+    ],
+    [
+     346.75,
+     265.25
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     13.25,
+     279.0
+    ],
+    [
+     346.75,
+     280.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Register",
+   "label": "sign_up",
+   "points": [
+    [
+     13.25,
+     293.25
+    ],
+    [
+     346.75,
+     337.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "By register you accept our Privacy Policy & Terms Of Use",
+   "label": "tb_privacy_terms",
+   "points": [
+    [
+     48.5,
+     350.25
+    ],
+    [
+     311.25,
+     364.5
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "gender_picker",
+   "points": [
+    [
+     87.0,
+     119.66666666666667
+    ],
+    [
+     349.0,
+     154.33333333333334
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "date_picker",
+   "points": [
+    [
+     87.0,
+     249.0
+    ],
+    [
+     348.3333333333333,
+     267.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "15165.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

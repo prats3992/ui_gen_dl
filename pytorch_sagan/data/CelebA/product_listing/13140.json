@@ -1,0 +1,543 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_button",
+      "points": [
+        [
+          17.5,
+          17.5
+        ],
+        [
+          61.25,
+          61.25
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoThinTextView",
+      "text": "Tours",
+      "label": "text_view",
+      "points": [
+        [
+          78.75,
+          24.75
+        ],
+        [
+          133.25,
+          54.0
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "filter_button",
+      "points": [
+        [
+          298.75,
+          17.5
+        ],
+        [
+          342.5,
+          61.25
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "sort",
+      "points": [
+        [
+          246.25,
+          17.5
+        ],
+        [
+          290.0,
+          61.25
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoThinTextView",
+      "text": "103 Tours",
+      "label": "text_view",
+      "points": [
+        [
+          17.5,
+          78.75
+        ],
+        [
+          125.75,
+          100.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoThinTextView",
+      "text": "Tenerife, 15 May 2017",
+      "label": "text_view",
+      "points": [
+        [
+          125.75,
+          78.75
+        ],
+        [
+          342.5,
+          100.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.makeramen.roundedimageview.RoundedImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          17.5,
+          108.75
+        ],
+        [
+          342.3333333333333,
+          226.33333333333334
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "Loro Park Entrance with Transfer",
+      "label": "text_view",
+      "points": [
+        [
+          26.25,
+          228.0
+        ],
+        [
+          223.0,
+          268.0
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.AbsSeekBar",
+      "class": "android.widget.RatingBar",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          26.25,
+          268.0
+        ],
+        [
+          96.25,
+          282.0
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "0",
+      "label": "text_view",
+      "points": [
+        [
+          100.75,
+          268.0
+        ],
+        [
+          106.75,
+          282.25
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "Reviews",
+      "label": "text_view",
+      "points": [
+        [
+          111.25,
+          268.0
+        ],
+        [
+          150.25,
+          282.25
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "47,50",
+      "label": "price",
+      "points": [
+        [
+          223.0,
+          244.5
+        ],
+        [
+          333.5,
+          265.75
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "from",
+      "label": "text_view",
+      "points": [
+        [
+          223.0,
+          226.75
+        ],
+        [
+          333.5,
+          243.25
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          223.0,
+          267.25
+        ],
+        [
+          333.5,
+          283.75
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.makeramen.roundedimageview.RoundedImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          17.5,
+          301.0
+        ],
+        [
+          341.6666666666667,
+          419.6666666666667
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "Excursion El Puertito",
+      "label": "text_view",
+      "points": [
+        [
+          26.25,
+          429.75
+        ],
+        [
+          168.5,
+          451.0
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.AbsSeekBar",
+      "class": "android.widget.RatingBar",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          26.25,
+          451.0
+        ],
+        [
+          96.25,
+          465.0
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "0",
+      "label": "text_view",
+      "points": [
+        [
+          100.75,
+          451.0
+        ],
+        [
+          106.75,
+          465.25
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "Reviews",
+      "label": "text_view",
+      "points": [
+        [
+          111.25,
+          451.0
+        ],
+        [
+          150.25,
+          465.25
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "550,00",
+      "label": "price",
+      "points": [
+        [
+          223.0,
+          436.75
+        ],
+        [
+          333.5,
+          458.0
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "from",
+      "label": "text_view",
+      "points": [
+        [
+          223.0,
+          419.0
+        ],
+        [
+          333.5,
+          435.5
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.cobaltsign.readysetholiday.widgets.RobotoLightTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          223.0,
+          459.5
+        ],
+        [
+          333.5,
+          476.0
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.makeramen.roundedimageview.RoundedImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          17.5,
+          493.25
+        ],
+        [
+          342.5,
+          598.0
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          17.0,
+          107.66666666666667
+        ],
+        [
+          343.0,
+          284.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          17.666666666666668,
+          299.6666666666667
+        ],
+        [
+          343.0,
+          477.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "com.makeramen.roundedimageview.RoundedImageView",
+      "text": "",
+      "label": "card_partial",
+      "points": [
+        [
+          17.5,
+          493.91666666666663
+        ],
+        [
+          342.5,
+          598.6666666666666
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "13140.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

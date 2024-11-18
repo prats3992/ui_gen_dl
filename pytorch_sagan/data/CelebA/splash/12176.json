@@ -1,0 +1,139 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Mayo Clinic Daily.",
+   "label": "text_view",
+   "points": [
+    [
+     21.0,
+     433.0
+    ],
+    [
+     339.0,
+     458.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Get the health info you need, delivered everyday..",
+   "label": "text_view",
+   "points": [
+    [
+     10.5,
+     469.25
+    ],
+    [
+     349.5,
+     508.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "navigation_dots",
+   "points": [
+    [
+     159.0,
+     522.75
+    ],
+    [
+     201.3761467889908,
+     530.7339449541284
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign Up",
+   "label": "sign_up",
+   "points": [
+    [
+     10.5,
+     543.75
+    ],
+    [
+     174.75,
+     587.5
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign In",
+   "label": "log_in",
+   "points": [
+    [
+     180.0,
+     543.75
+    ],
+    [
+     344.25,
+     587.5
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     131.75,
+     61.25
+    ],
+    [
+     228.0,
+     165.5
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "12176.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

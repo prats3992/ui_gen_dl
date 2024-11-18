@@ -1,0 +1,284 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     118.75,
+     73.5
+    ],
+    [
+     241.25,
+     141.75
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Doorstep Delivery",
+   "label": "text_view",
+   "points": [
+    [
+     22.0,
+     152.25
+    ],
+    [
+     338.0,
+     171.25
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Get cashback and free shipping (terms apply)",
+   "label": "text_view",
+   "points": [
+    [
+     22.0,
+     175.75
+    ],
+    [
+     338.0,
+     190.0
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "navigation_dots",
+   "points": [
+    [
+     166.5,
+     200.75
+    ],
+    [
+     193.66666666666666,
+     207.66666666666666
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Login / Register",
+   "label": "text_view",
+   "points": [
+    [
+     14.0,
+     33.75
+    ],
+    [
+     138.75,
+     57.0
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "android.support.v7.view.menu.ActionMenuItemView",
+   "text": "Skip",
+   "label": "text_button",
+   "points": [
+    [
+     312.5,
+     24.5
+    ],
+    [
+     360.0,
+     66.5
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.quikr.ui.widget.EditTextBackEvent",
+   "text": "",
+   "label": "edit_text",
+   "points": [
+    [
+     14.0,
+     254.5
+    ],
+    [
+     346.0,
+     291.75
+    ]
+   ],
+   "group_id": 21,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Continue",
+   "label": "text_view",
+   "points": [
+    [
+     17.5,
+     300.5
+    ],
+    [
+     342.5,
+     346.0
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     0.0,
+     513.0
+    ],
+    [
+     141.75,
+     514.0
+    ]
+   ],
+   "group_id": 24,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "LOGIN USING",
+   "label": "text_view",
+   "points": [
+    [
+     148.0,
+     506.5
+    ],
+    [
+     211.75,
+     520.75
+    ]
+   ],
+   "group_id": 24,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     218.0,
+     513.0
+    ],
+    [
+     360.0,
+     514.0
+    ]
+   ],
+   "group_id": 24,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Facebook",
+   "label": "fb_button",
+   "points": [
+    [
+     17.5,
+     538.25
+    ],
+    [
+     169.5,
+     580.5
+    ]
+   ],
+   "group_id": 27,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.widget.Button",
+   "text": "Google",
+   "label": "google_button",
+   "points": [
+    [
+     190.5,
+     538.25
+    ],
+    [
+     342.5,
+     580.5
+    ]
+   ],
+   "group_id": 29,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "13568.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

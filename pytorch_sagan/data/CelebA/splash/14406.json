@@ -1,0 +1,97 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "com.predictspring.mobile.consumer.views.CrossfadingImagesView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     360.0,
+     462.25
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "SHOP NOW",
+   "label": "button",
+   "points": [
+    [
+     17.5,
+     493.0
+    ],
+    [
+     342.5,
+     528.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "SIGN IN",
+   "label": "log_in",
+   "points": [
+    [
+     17.5,
+     536.75
+    ],
+    [
+     175.5,
+     571.75
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "JOIN ELITE",
+   "label": "sign_up",
+   "points": [
+    [
+     184.25,
+     536.75
+    ],
+    [
+     342.5,
+     571.75
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "14406.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

@@ -1,0 +1,599 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.25,
+          70.0
+        ],
+        [
+          359.75,
+          144.5
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "com.lazada.customviews.CustomCirclePageIndicator",
+      "text": "",
+      "label": "navigation_dots",
+      "points": [
+        [
+          8.75,
+          170.5
+        ],
+        [
+          351.25,
+          177.75
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "share_button",
+      "points": [
+        [
+          291.75,
+          163.75
+        ],
+        [
+          312.75,
+          184.75
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          330.25,
+          163.75
+        ],
+        [
+          351.25,
+          184.75
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.lazada.customviews.FontTextView",
+      "text": "More products by Hang-Qiao",
+      "label": "button",
+      "points": [
+        [
+          0.0,
+          205.0
+        ],
+        [
+          360.0,
+          248.0
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.lazada.customviews.FontTextView",
+      "text": "Select size",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          272.5
+        ],
+        [
+          84.25,
+          290.25
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.lazada.customviews.FontTextView",
+      "text": "Size Chart",
+      "label": "text_button",
+      "points": [
+        [
+          246.5,
+          272.5
+        ],
+        [
+          308.25,
+          290.25
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          312.75,
+          276.0
+        ],
+        [
+          339.0,
+          286.5
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "6",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          307.75
+        ],
+        [
+          80.5,
+          346.25
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "6.5",
+      "label": "text_view",
+      "points": [
+        [
+          87.5,
+          307.75
+        ],
+        [
+          146.75,
+          346.25
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "7",
+      "label": "text_view",
+      "points": [
+        [
+          153.75,
+          307.75
+        ],
+        [
+          213.25,
+          346.25
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "7.5",
+      "label": "text_view",
+      "points": [
+        [
+          220.25,
+          307.75
+        ],
+        [
+          279.5,
+          346.25
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "8",
+      "label": "text_view",
+      "points": [
+        [
+          286.5,
+          307.75
+        ],
+        [
+          346.0,
+          346.25
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "8.5",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          353.25
+        ],
+        [
+          80.5,
+          391.75
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "9",
+      "label": "text_view",
+      "points": [
+        [
+          87.5,
+          353.25
+        ],
+        [
+          146.75,
+          391.75
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "9.5",
+      "label": "text_view",
+      "points": [
+        [
+          153.75,
+          353.25
+        ],
+        [
+          213.25,
+          391.75
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.lazada.customviews.FontTextView",
+      "text": "Delivery Options",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          433.75
+        ],
+        [
+          339.0,
+          451.5
+        ]
+      ],
+      "group_id": 41,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.lazada.customviews.IconifiedEditText",
+      "class": "com.lazada.customviews.ClearableEditText",
+      "text": "",
+      "label": "zip_code",
+      "points": [
+        [
+          21.0,
+          479.25
+        ],
+        [
+          246.25,
+          518.5
+        ]
+      ],
+      "group_id": 47,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatButton",
+      "class": "com.lazada.customviews.FontButton",
+      "text": "check",
+      "label": "available",
+      "points": [
+        [
+          251.5,
+          478.75
+        ],
+        [
+          339.0,
+          510.25
+        ]
+      ],
+      "group_id": 46,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          21.0,
+          537.75
+        ],
+        [
+          43.75,
+          554.25
+        ]
+      ],
+      "group_id": 50,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.lazada.customviews.FontTextView",
+      "text": "The item Ships From Overseas",
+      "label": "text_view",
+      "points": [
+        [
+          54.25,
+          541.25
+        ],
+        [
+          217.5,
+          554.25
+        ]
+      ],
+      "group_id": 50,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          228.0,
+          540.25
+        ],
+        [
+          245.5,
+          554.25
+        ]
+      ],
+      "group_id": 50,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatButton",
+      "class": "com.lazada.customviews.FontButton",
+      "text": "Buy Now",
+      "label": "buy",
+      "points": [
+        [
+          0.0,
+          554.25
+        ],
+        [
+          270.5,
+          598.0
+        ]
+      ],
+      "group_id": 81,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "cart_add",
+      "points": [
+        [
+          271.5,
+          554.25
+        ],
+        [
+          360.0,
+          598.0
+        ]
+      ],
+      "group_id": 81,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "search_button",
+      "points": [
+        [
+          237.5,
+          28.0
+        ],
+        [
+          272.5,
+          63.0
+        ]
+      ],
+      "group_id": 91,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          279.5,
+          28.0
+        ],
+        [
+          314.5,
+          63.0
+        ]
+      ],
+      "group_id": 92,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "menu_dots",
+      "points": [
+        [
+          321.5,
+          28.0
+        ],
+        [
+          356.5,
+          63.0
+        ]
+      ],
+      "group_id": 93,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 89,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "size_picker",
+      "points": [
+        [
+          0.0,
+          255.0
+        ],
+        [
+          359,
+          411
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "39411.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

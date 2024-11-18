@@ -1,0 +1,240 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": true,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     306.5,
+     21.0
+    ],
+    [
+     350.25,
+     64.75
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Create an Account!",
+   "label": "text_view",
+   "points": [
+    [
+     114.25,
+     95.5
+    ],
+    [
+     245.75,
+     130.5
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "60% OFF For New Members!",
+   "label": "image_view",
+   "points": [
+    [
+     36.0,
+     130.5
+    ],
+    [
+     324.0,
+     165.5
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "Email",
+   "label": "email",
+   "points": [
+    [
+     20.25,
+     179.5
+    ],
+    [
+     339.75,
+     214.75
+    ]
+   ],
+   "group_id": 3,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     20.25,
+     223.5
+    ],
+    [
+     339.75,
+     258.75
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageButton",
+   "class": "android.support.v7.widget.AppCompatImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     307.5,
+     228.0
+    ],
+    [
+     333.75,
+     254.25
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign Up",
+   "label": "sign_up",
+   "points": [
+    [
+     20.25,
+     272.0
+    ],
+    [
+     339.75,
+     314.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Or",
+   "label": "text_view",
+   "points": [
+    [
+     173.25,
+     347.0
+    ],
+    [
+     186.75,
+     364.75
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Join In With Facebook",
+   "label": "fb_button",
+   "points": [
+    [
+     20.25,
+     373.5
+    ],
+    [
+     339.75,
+     415.5
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Already have an account?",
+   "label": "tb_log_in",
+   "points": [
+    [
+     78.75,
+     428.75
+    ],
+    [
+     217.5,
+     453.25
+    ]
+   ],
+   "group_id": 993,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Login here",
+   "label": "tb_log_in",
+   "points": [
+    [
+     217.5,
+     428.75
+    ],
+    [
+     281.25,
+     453.25
+    ]
+   ],
+   "group_id": 993,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "15900.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

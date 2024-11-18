@@ -1,0 +1,751 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          99.0
+        ],
+        [
+          360.0,
+          103.5
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          4.5,
+          103.5
+        ],
+        [
+          177.75,
+          279.0
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Bow Belt Solid Color Mesh Tulle Pleated High Waist Women Maxi Skirt",
+      "label": "text_view",
+      "points": [
+        [
+          8.25,
+          283.5
+        ],
+        [
+          174.0,
+          312.5
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "US$20.99",
+      "label": "price",
+      "points": [
+        [
+          8.25,
+          317.0
+        ],
+        [
+          67.5,
+          332.5
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          154.0,
+          317.0
+        ],
+        [
+          169.75,
+          332.75
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          182.25,
+          103.5
+        ],
+        [
+          355.5,
+          337.5
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Retro Slim Red Plaid Pleated High Waist Women A Line Mini Skirt",
+      "label": "text_view",
+      "points": [
+        [
+          186.0,
+          342.0
+        ],
+        [
+          351.75,
+          371.0
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "US$10.39",
+      "label": "price",
+      "points": [
+        [
+          186.0,
+          375.5
+        ],
+        [
+          245.25,
+          391.0
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          331.75,
+          375.5
+        ],
+        [
+          347.5,
+          391.25
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "41%\noff",
+      "label": "text_view",
+      "points": [
+        [
+          151.5,
+          341.75
+        ],
+        [
+          177.75,
+          370.75
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          4.5,
+          341.75
+        ],
+        [
+          177.75,
+          575.75
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Vintage Women Stripe Printing Loose Harem Pants",
+      "label": "text_view",
+      "points": [
+        [
+          8.25,
+          580.25
+        ],
+        [
+          174.0,
+          598.0
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          182.25,
+          400.25
+        ],
+        [
+          355.5,
+          598.0
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          19.0,
+          561.25
+        ],
+        [
+          39.25,
+          581.5
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          49.25,
+          561.25
+        ],
+        [
+          50.25,
+          581.5
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          60.0,
+          561.25
+        ],
+        [
+          80.25,
+          581.5
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          90.25,
+          561.25
+        ],
+        [
+          91.25,
+          581.5
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          101.0,
+          561.25
+        ],
+        [
+          121.25,
+          581.5
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.6666666666666643,
+          30.83333333333333
+        ],
+        [
+          39.166666666666664,
+          51.83333333333333
+        ]
+      ],
+      "group_id": 204,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Bottoms",
+      "label": "text_view",
+      "points": [
+        [
+          150.0,
+          31.25
+        ],
+        [
+          210.0,
+          52.5
+        ]
+      ],
+      "group_id": 204,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          62.75
+        ],
+        [
+          360.0,
+          63.0
+        ]
+      ],
+      "group_id": 204,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Category",
+      "label": "filter_button",
+      "points": [
+        [
+          12.75,
+          65.0
+        ],
+        [
+          59.0,
+          95.75
+        ]
+      ],
+      "group_id": 206,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          72.0,
+          67.25
+        ],
+        [
+          72.25,
+          93.5
+        ]
+      ],
+      "group_id": 205,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Filter",
+      "label": "filter_button",
+      "points": [
+        [
+          92.75,
+          65.0
+        ],
+        [
+          123.5,
+          95.75
+        ]
+      ],
+      "group_id": 207,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          144.0,
+          67.25
+        ],
+        [
+          144.25,
+          93.5
+        ]
+      ],
+      "group_id": 205,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Most popular",
+      "label": "filter_button",
+      "points": [
+        [
+          148.5,
+          65.0
+        ],
+        [
+          211.5,
+          95.75
+        ]
+      ],
+      "group_id": 208,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          216.0,
+          67.25
+        ],
+        [
+          216.25,
+          93.5
+        ]
+      ],
+      "group_id": 205,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Direct",
+      "label": "filter_button",
+      "points": [
+        [
+          235.0,
+          65.0
+        ],
+        [
+          269.0,
+          95.75
+        ]
+      ],
+      "group_id": 209,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          288.0,
+          67.25
+        ],
+        [
+          288.25,
+          93.5
+        ]
+      ],
+      "group_id": 205,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Price",
+      "label": "filter_button",
+      "points": [
+        [
+          308.5,
+          65.0
+        ],
+        [
+          339.5,
+          95.75
+        ]
+      ],
+      "group_id": 210,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          98.0
+        ],
+        [
+          360.0,
+          98.25
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          333.5,
+          31.5
+        ],
+        [
+          355.5,
+          53.5
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          2.666666666666666,
+          102.33333333333333
+        ],
+        [
+          178.0,
+          337.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          181.33333333333334,
+          102.33333333333333
+        ],
+        [
+          355.3333333333333,
+          395.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          4.0,
+          340.3333333333333
+        ],
+        [
+          178.0,
+          597.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          182.0,
+          399.0
+        ],
+        [
+          356.6666666666667,
+          598.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "box_outline",
+      "points": [
+        [
+          4.0,
+          549.0
+        ],
+        [
+          135.33333333333334,
+          593.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "27275.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

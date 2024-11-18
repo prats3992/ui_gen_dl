@@ -1,0 +1,504 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          13.5,
+          29.75
+        ],
+        [
+          41.5,
+          57.75
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          13.5,
+          29.75
+        ],
+        [
+          41.5,
+          57.75
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.AutoCompleteTextView",
+      "class": "com.android.browser.UrlInputView",
+      "text": "Search or type URL",
+      "label": "text_view",
+      "points": [
+        [
+          46.75,
+          21.0
+        ],
+        [
+          268.0,
+          66.5
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          276.0,
+          21.0
+        ],
+        [
+          318.0,
+          66.5
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "menu_dots",
+      "points": [
+        [
+          318.0,
+          21.0
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "menu_dashs",
+      "points": [
+        [
+          0.3333333333333339,
+          67.66666666666667
+        ],
+        [
+          45.666666666666664,
+          104.33333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "search_button",
+      "points": [
+        [
+          318.3333333333333,
+          68.33333333333333
+        ],
+        [
+          359,
+          105
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          149.0,
+          68.33333333333333
+        ],
+        [
+          238.33333333333334,
+          102.33333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_button",
+      "points": [
+        [
+          12.333333333333332,
+          111.0
+        ],
+        [
+          139.0,
+          128.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          11.666666666666668,
+          153.66666666666666
+        ],
+        [
+          178.33333333333334,
+          198.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "price",
+      "points": [
+        [
+          214.33333333333334,
+          152.33333333333334
+        ],
+        [
+          282.3333333333333,
+          189.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wish_list",
+      "points": [
+        [
+          213.66666666666666,
+          211.0
+        ],
+        [
+          359,
+          246
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "rating_bar",
+      "points": [
+        [
+          10.333333333333332,
+          217.0
+        ],
+        [
+          79.0,
+          233.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_button",
+      "points": [
+        [
+          81.0,
+          217.0
+        ],
+        [
+          157.0,
+          233.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cart_add",
+      "points": [
+        [
+          11.666666666666668,
+          259.6666666666667
+        ],
+        [
+          347.6666666666667,
+          300.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "about",
+      "points": [
+        [
+          10.333333333333332,
+          324.3333333333333
+        ],
+        [
+          114.33333333333333,
+          339.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "icon_button",
+      "points": [
+        [
+          321.6666666666667,
+          315.6666666666667
+        ],
+        [
+          358.3333333333333,
+          347.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          9.666666666666668,
+          347.6666666666667
+        ],
+        [
+          67.0,
+          362.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          13.666666666666668,
+          369.0
+        ],
+        [
+          63.66666666666667,
+          383.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          11.666666666666668,
+          389.6666666666667
+        ],
+        [
+          71.66666666666667,
+          405.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          118.33333333333334,
+          346.3333333333333
+        ],
+        [
+          275.0,
+          363.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          118.33333333333334,
+          367.0
+        ],
+        [
+          273.0,
+          380.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          117.66666666666666,
+          389.0
+        ],
+        [
+          272.3333333333333,
+          403.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          12.333333333333332,
+          441.6666666666667
+        ],
+        [
+          151.66666666666666,
+          459.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          13.0,
+          464.3333333333333
+        ],
+        [
+          344.3333333333333,
+          512.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "box_outline",
+      "points": [
+        [
+          1.0,
+          313.0
+        ],
+        [
+          359.0,
+          419.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_button",
+      "points": [
+        [
+          11.666666666666668,
+          515.0
+        ],
+        [
+          91.0,
+          535.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_button",
+      "points": [
+        [
+          1.0,
+          429.6666666666667
+        ],
+        [
+          359,
+          548
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "drop_down_list",
+      "points": [
+        [
+          0.3333333333333339,
+          555.6666666666666
+        ],
+        [
+          359,
+          595
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "13144.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

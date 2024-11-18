@@ -1,0 +1,974 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "$30.00",
+      "label": "price",
+      "points": [
+        [
+          22.75,
+          145.25
+        ],
+        [
+          65.25,
+          164.25
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "$85.00",
+      "label": "price_s",
+      "points": [
+        [
+          22.75,
+          164.25
+        ],
+        [
+          55.5,
+          178.5
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          12.25,
+          182.0
+        ],
+        [
+          173.0,
+          182.5
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "",
+      "label": "msg_icon",
+      "points": [
+        [
+          42.0,
+          193.5
+        ],
+        [
+          62.25,
+          210.0
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          92.25,
+          182.5
+        ],
+        [
+          92.75,
+          215.75
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          122.25,
+          193.5
+        ],
+        [
+          143.25,
+          210.0
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "$2.50",
+      "label": "price",
+      "points": [
+        [
+          197.5,
+          145.25
+        ],
+        [
+          232.25,
+          164.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "$8.00",
+      "label": "price_s",
+      "points": [
+        [
+          197.5,
+          164.25
+        ],
+        [
+          224.25,
+          178.5
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          187.0,
+          182.0
+        ],
+        [
+          347.75,
+          182.5
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "",
+      "label": "msg_icon",
+      "points": [
+        [
+          216.75,
+          193.5
+        ],
+        [
+          237.0,
+          210.0
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          267.0,
+          182.5
+        ],
+        [
+          267.5,
+          215.75
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          297.0,
+          193.5
+        ],
+        [
+          318.0,
+          210.0
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          10.5,
+          227.25
+        ],
+        [
+          174.75,
+          457.0
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.views.common.VintedBadgeView",
+      "text": "75%\nOFF",
+      "label": "discount",
+      "points": [
+        [
+          15.75,
+          232.5
+        ],
+        [
+          71.75,
+          288.5
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "$5.00",
+      "label": "price",
+      "points": [
+        [
+          22.75,
+          464.0
+        ],
+        [
+          57.5,
+          483.0
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "$20.00",
+      "label": "price_s",
+      "points": [
+        [
+          22.75,
+          483.0
+        ],
+        [
+          55.5,
+          497.25
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          55.5,
+          483.0
+        ],
+        [
+          162.5,
+          497.25
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          12.25,
+          500.75
+        ],
+        [
+          173.0,
+          501.25
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "",
+      "label": "msg_icon",
+      "points": [
+        [
+          42.0,
+          512.25
+        ],
+        [
+          62.25,
+          528.75
+        ]
+      ],
+      "group_id": 32,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          92.25,
+          501.25
+        ],
+        [
+          92.75,
+          534.5
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "1",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          119.0,
+          512.25
+        ],
+        [
+          146.75,
+          528.75
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          185.25,
+          227.25
+        ],
+        [
+          349.5,
+          457.0
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "American Eagle Outfitters",
+      "label": "text_view",
+      "points": [
+        [
+          185.25,
+          430.0
+        ],
+        [
+          349.5,
+          457.0
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.views.common.VintedBadgeView",
+      "text": "71%\nOFF",
+      "label": "discount",
+      "points": [
+        [
+          190.5,
+          232.5
+        ],
+        [
+          246.5,
+          288.5
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "$10.00",
+      "label": "price",
+      "points": [
+        [
+          197.5,
+          464.0
+        ],
+        [
+          240.0,
+          483.0
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "$35.00",
+      "label": "price_s",
+      "points": [
+        [
+          197.5,
+          483.0
+        ],
+        [
+          230.25,
+          497.25
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "10 / M",
+      "label": "text_view",
+      "points": [
+        [
+          230.25,
+          483.0
+        ],
+        [
+          337.25,
+          497.25
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          187.0,
+          500.75
+        ],
+        [
+          347.75,
+          501.25
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "",
+      "label": "msg_icon",
+      "points": [
+        [
+          216.75,
+          512.25
+        ],
+        [
+          237.0,
+          528.75
+        ]
+      ],
+      "group_id": 39,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line_v",
+      "points": [
+        [
+          267.0,
+          501.25
+        ],
+        [
+          267.5,
+          534.5
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.view.SafeTextView",
+      "text": "",
+      "label": "heart_icon_button",
+      "points": [
+        [
+          297.0,
+          512.25
+        ],
+        [
+          318.0,
+          528.75
+        ]
+      ],
+      "group_id": 40,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          10.5,
+          546.0
+        ],
+        [
+          174.75,
+          598.0
+        ]
+      ],
+      "group_id": 42,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          185.25,
+          546.0
+        ],
+        [
+          349.5,
+          598.0
+        ]
+      ],
+      "group_id": 49,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "com.vinted.views.common.VintedBadgeView",
+      "text": "85%\nOFF",
+      "label": "discount",
+      "points": [
+        [
+          190.5,
+          551.25
+        ],
+        [
+          246.5,
+          598.0
+        ]
+      ],
+      "group_id": 49,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "top_bar",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          360.0,
+          70.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "com.vinted.view.SafeTextView",
+      "class": "com.vinted.view.PhraseTextView",
+      "text": "Create a bundle",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          82.0
+        ],
+        [
+          112.25,
+          101.0
+        ]
+      ],
+      "group_id": 57,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Up to 40% off 2 items or more",
+      "label": "text_view",
+      "points": [
+        [
+          14.0,
+          101.0
+        ],
+        [
+          176.5,
+          117.5
+        ]
+      ],
+      "group_id": 57,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.vinted.view.SafeTextView",
+      "class": "com.vinted.view.PhraseTextView",
+      "text": "Shop",
+      "label": "button",
+      "points": [
+        [
+          285.75,
+          82.25
+        ],
+        [
+          346.0,
+          117.25
+        ]
+      ],
+      "group_id": 56,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          33.75
+        ],
+        [
+          45.5,
+          57.0
+        ]
+      ],
+      "group_id": 59,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Black & Beige Lace Dress",
+      "label": "text_view",
+      "points": [
+        [
+          45.5,
+          33.75
+        ],
+        [
+          269.75,
+          57.0
+        ]
+      ],
+      "group_id": 60,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          318.0,
+          24.5
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 61,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          10.0,
+          129.66666666666666
+        ],
+        [
+          174.66666666666666,
+          139.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          185.33333333333334,
+          129.66666666666666
+        ],
+        [
+          349.3333333333333,
+          139.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          9.333333333333332,
+          128.33333333333334
+        ],
+        [
+          174.66666666666666,
+          217.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          184.66666666666666,
+          128.33333333333334
+        ],
+        [
+          348.6666666666667,
+          217.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          9.333333333333332,
+          225.66666666666666
+        ],
+        [
+          175.33333333333334,
+          535.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          184.66666666666666,
+          225.66666666666666
+        ],
+        [
+          349.3333333333333,
+          535.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          9.333333333333332,
+          545.0
+        ],
+        [
+          176.0,
+          599.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          184.66666666666666,
+          545.0
+        ],
+        [
+          350.6666666666667,
+          599.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "15881.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

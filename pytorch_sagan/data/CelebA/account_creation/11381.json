@@ -1,0 +1,299 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.TextView",
+      "class": "com.facebook.react.views.text.ReactTextView",
+      "text": "Sign Up",
+      "label": "text_view",
+      "points": [
+        [
+          153.5,
+          30.75
+        ],
+        [
+          206.75,
+          53.5
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.facebook.react.views.text.ReactTextView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          9.0,
+          29.75
+        ],
+        [
+          26.5,
+          51.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.facebook.react.views.text.ReactTextView",
+      "text": "Back",
+      "label": "text_view",
+      "points": [
+        [
+          26.25,
+          34.5
+        ],
+        [
+          59.5,
+          46.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.facebook.react.views.text.ReactTextView",
+      "text": "Create a MoneyLion Account",
+      "label": "text_view",
+      "points": [
+        [
+          26.75,
+          64.0
+        ],
+        [
+          333.25,
+          86.75
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.facebook.react.views.text.ReactTextView",
+      "text": "FIRST NAME",
+      "label": "text_view",
+      "points": [
+        [
+          26.083333333333314,
+          108.5
+        ],
+        [
+          183.83333333333331,
+          125.25
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "com.facebook.react.views.textinput.ReactEditText",
+      "text": " ",
+      "label": "name",
+      "points": [
+        [
+          26.75,
+          129.75
+        ],
+        [
+          184.5,
+          166.0
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.facebook.react.views.text.ReactTextView",
+      "text": "LAST NAME",
+      "label": "text_view",
+      "points": [
+        [
+          193.0,
+          108.5
+        ],
+        [
+          337.75,
+          125.25
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "com.facebook.react.views.textinput.ReactEditText",
+      "text": " ",
+      "label": "last_name",
+      "points": [
+        [
+          193.0,
+          129.75
+        ],
+        [
+          337.75,
+          166.0
+        ]
+      ],
+      "group_id": 35,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.facebook.react.views.text.ReactTextView",
+      "text": "EMAIL ADDRESS",
+      "label": "text_view",
+      "points": [
+        [
+          22.25,
+          210.5
+        ],
+        [
+          337.75,
+          227.25
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "com.facebook.react.views.textinput.ReactEditText",
+      "text": " ",
+      "label": "email",
+      "points": [
+        [
+          22.25,
+          231.75
+        ],
+        [
+          337.75,
+          268.0
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.facebook.react.views.text.ReactTextView",
+      "text": "CREATE A PASSWORD",
+      "label": "text_view",
+      "points": [
+        [
+          22.25,
+          312.5
+        ],
+        [
+          337.75,
+          329.25
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "com.facebook.react.views.textinput.ReactEditText",
+      "text": " ",
+      "label": "password",
+      "points": [
+        [
+          22.25,
+          333.75
+        ],
+        [
+          337.75,
+          370.0
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.facebook.react.views.text.ReactTextView",
+      "text": "SHOW",
+      "label": "text_button",
+      "points": [
+        [
+          296.5,
+          373.75
+        ],
+        [
+          337.75,
+          390.5
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.facebook.react.views.text.ReactTextView",
+      "text": "REGISTER",
+      "label": "sign_up",
+      "points": [
+        [
+          21.66666666666667,
+          407.0
+        ],
+        [
+          337.6666666666667,
+          441.6666666666667
+        ]
+      ],
+      "group_id": 40,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "11381.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

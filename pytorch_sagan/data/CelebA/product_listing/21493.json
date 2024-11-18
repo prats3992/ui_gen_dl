@@ -1,0 +1,454 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Latest listings",
+      "label": "text_view",
+      "points": [
+        [
+          52.5,
+          33.75
+        ],
+        [
+          162.75,
+          57.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "menu_dashs",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "label": "search_button",
+      "points": [
+        [
+          318.0,
+          24.5
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          7.0,
+          70.0
+        ],
+        [
+          353.0,
+          178.5
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Premium",
+      "label": "text_view",
+      "points": [
+        [
+          7.0,
+          146.25
+        ],
+        [
+          74.0,
+          165.25
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": " 390,000",
+      "label": "price",
+      "points": [
+        [
+          20.25,
+          188.75
+        ],
+        [
+          83.25,
+          207.75
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "  267 sqm  +5 room",
+      "label": "text_view",
+      "points": [
+        [
+          83.25,
+          188.75
+        ],
+        [
+          246.0,
+          207.75
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Casnate Con Bernate",
+      "label": "text_view",
+      "points": [
+        [
+          20.25,
+          207.75
+        ],
+        [
+          135.5,
+          224.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "NEW",
+      "label": "text_view",
+      "points": [
+        [
+          278.75,
+          70.0
+        ],
+        [
+          353.0,
+          87.0
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "cart_add",
+      "points": [
+        [
+          307.0,
+          170.25
+        ],
+        [
+          328.0,
+          191.25
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          7.0,
+          243.5
+        ],
+        [
+          353.0,
+          409.75
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Premium",
+      "label": "text_view",
+      "points": [
+        [
+          7.0,
+          377.5
+        ],
+        [
+          74.0,
+          396.5
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": " 145,000",
+      "label": "price",
+      "points": [
+        [
+          20.25,
+          420.0
+        ],
+        [
+          83.25,
+          439.0
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "  85 sqm  3 room",
+      "label": "text_view",
+      "points": [
+        [
+          83.25,
+          420.0
+        ],
+        [
+          230.25,
+          439.0
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Como  Sagnino  Via Ferabosco, 6",
+      "label": "text_view",
+      "points": [
+        [
+          20.25,
+          439.0
+        ],
+        [
+          206.25,
+          455.5
+        ]
+      ],
+      "group_id": 37,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "NEW",
+      "label": "text_view",
+      "points": [
+        [
+          278.75,
+          243.5
+        ],
+        [
+          353.0,
+          318.25
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "cart_add",
+      "points": [
+        [
+          307.0,
+          401.5
+        ],
+        [
+          328.0,
+          422.5
+        ]
+      ],
+      "group_id": 43,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          7.0,
+          474.75
+        ],
+        [
+          353.0,
+          598.0
+        ]
+      ],
+      "group_id": 50,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "NEW",
+      "label": "text_view",
+      "points": [
+        [
+          278.75,
+          474.75
+        ],
+        [
+          353.0,
+          549.5
+        ]
+      ],
+      "group_id": 47,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          6.666666666666668,
+          69.0
+        ],
+        [
+          353.3333333333333,
+          234.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          6.0,
+          243.0
+        ],
+        [
+          353.3333333333333,
+          467.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          6.0,
+          473.6666666666667
+        ],
+        [
+          353.3333333333333,
+          597.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "21493.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

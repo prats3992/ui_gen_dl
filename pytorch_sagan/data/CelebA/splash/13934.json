@@ -1,0 +1,185 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     360.0,
+     437.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     360.0,
+     437.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     360.0,
+     437.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Millions of people worldwide use our app everyday. Its so easy and entertaining.",
+   "label": "text_view",
+   "points": [
+    [
+     31.5,
+     404.75
+    ],
+    [
+     328.5,
+     475.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Youve chosen Hitwe and made it right.",
+   "label": "text_view",
+   "points": [
+    [
+     31.5,
+     314.5
+    ],
+    [
+     328.5,
+     380.25
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "com.viewpagerindicator.CirclePageIndicator",
+   "text": "",
+   "label": "navigation_dots",
+   "points": [
+    [
+     0.0,
+     575.25
+    ],
+    [
+     360.0,
+     580.5
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Skip",
+   "label": "button",
+   "points": [
+    [
+     283.0,
+     548.5
+    ],
+    [
+     360.0,
+     598.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Next",
+   "label": "button",
+   "points": [
+    [
+     111.0,
+     505.0
+    ],
+    [
+     248.33333333333331,
+     547.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "13934.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

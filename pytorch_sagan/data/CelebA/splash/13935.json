@@ -1,0 +1,131 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "label": "text_view",
+   "points": [
+    [
+     25.66666666666667,
+     386.3333333333333
+    ],
+    [
+     335.0,
+     403.6666666666667
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "navigation_dots",
+   "points": [
+    [
+     160.33333333333334,
+     409.6666666666667
+    ],
+    [
+     198.33333333333334,
+     423.6666666666667
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     49.66666666666667,
+     578.3333333333334
+    ],
+    [
+     311.0,
+     594.3333333333334
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "image_view",
+   "points": [
+    [
+     141.0,
+     78.33333333333333
+    ],
+    [
+     218.33333333333331,
+     111.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "image_view",
+   "points": [
+    [
+     50.33333333333333,
+     221.66666666666666
+    ],
+    [
+     310.3333333333333,
+     334.3333333333333
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "fb_button",
+   "points": [
+    [
+     50.33333333333333,
+     461.6666666666667
+    ],
+    [
+     309.0,
+     504.3333333333333
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "button",
+   "points": [
+    [
+     49.66666666666667,
+     513.0
+    ],
+    [
+     310.3333333333333,
+     557.6666666666666
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "13935.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

@@ -1,0 +1,300 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false,
+    "review": true
+  },
+  "shapes": [
+    {
+      "element": "android.widget.TextView",
+      "class": "com.honest.foundation.ui.CustomTextView",
+      "text": "$12.95",
+      "label": "price",
+      "points": [
+        [
+          3.5,
+          2.75
+        ],
+        [
+          356.5,
+          49.25
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          3.5,
+          49.25
+        ],
+        [
+          356.5,
+          50.25
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.honest.foundation.ui.CustomTextView",
+      "text": "Quantity",
+      "label": "text_view",
+      "points": [
+        [
+          3.5,
+          50.25
+        ],
+        [
+          184.75,
+          89.75
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.honest.foundation.ui.CustomButton",
+      "text": "-",
+      "label": "icon_button",
+      "points": [
+        [
+          184.75,
+          50.25
+        ],
+        [
+          261.75,
+          89.75
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "1",
+      "label": "text_view",
+      "points": [
+        [
+          266.25,
+          55.5
+        ],
+        [
+          275.0,
+          89.75
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.honest.foundation.ui.CustomButton",
+      "text": "+",
+      "label": "icon_button",
+      "points": [
+        [
+          279.5,
+          50.25
+        ],
+        [
+          356.5,
+          89.75
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          3.5,
+          89.75
+        ],
+        [
+          356.5,
+          90.75
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "org.sufficientlysecure.htmltextview.JellyBeanSpanFixTextView",
+      "class": "org.sufficientlysecure.htmltextview.HtmlTextView",
+      "text": "Our powerful and effective hypoallergenic laundry detergent naturally cleans stubborn stains and lifes unexpected messes without harsh chemicals or synthetic fragrances. Our laundry soap is perfect for babies and sensitive skin.\n\n",
+      "label": "text_view",
+      "points": [
+        [
+          16.75,
+          96.0
+        ],
+        [
+          343.25,
+          230.25
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "org.sufficientlysecure.htmltextview.JellyBeanSpanFixTextView",
+      "class": "org.sufficientlysecure.htmltextview.HtmlTextView",
+      "text": "2x Ultra Concentrated\n70 fl. oz.\n70 HE Loads\nFree and Clear (see Honestly Free Guarantee)\nSeptic tank and graywater safe\n\n",
+      "label": "text_view",
+      "points": [
+        [
+          16.75,
+          245.25
+        ],
+        [
+          343.25,
+          379.5
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "org.sufficientlysecure.htmltextview.JellyBeanSpanFixTextView",
+      "class": "org.sufficientlysecure.htmltextview.HtmlTextView",
+      "text": "ABOUT",
+      "label": "text_view",
+      "points": [
+        [
+          16.75,
+          394.5
+        ],
+        [
+          343.25,
+          420.75
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "org.sufficientlysecure.htmltextview.JellyBeanSpanFixTextView",
+      "class": "org.sufficientlysecure.htmltextview.HtmlTextView",
+      "text": "Cleans stubborn stains, dirt, food, and life's unexpected messes all with a neutral pH (non-irritating to skin and does not discolor clothing)\nExceptional stain removalwhile guarding colors\nRinses thoroughly,leaving textiles softer, brighter, and truly clean\nSuitable for ALL your family's laundry all natural and synthetic washables,including cloth diapers, hand-washing wools, silks, and other fine washables\nPerfect for babies and sensitive skin without chemicals residues left behind\nNon-toxicfor you and your family\nSafe Hypoallergenic Biodegradable pH Balanced\n",
+      "label": "text_view",
+      "points": [
+        [
+          16.75,
+          435.75
+        ],
+        [
+          342.3333333333333,
+          553.6666666666666
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.honest.foundation.ui.CustomButton",
+      "text": "Add to Cart",
+      "label": "cart_add",
+      "points": [
+        [
+          0.0,
+          556.0
+        ],
+        [
+          180.0,
+          598.0
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.honest.foundation.ui.CustomButton",
+      "text": "Bundle & Save",
+      "label": "wish_list",
+      "points": [
+        [
+          180.0,
+          556.0
+        ],
+        [
+          360.0,
+          598.0
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "quantity_counter",
+      "points": [
+        [
+          3.666666666666668,
+          49.666666666666664
+        ],
+        [
+          358.3333333333333,
+          89.66666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "12513.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

@@ -1,0 +1,332 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Log in to WNBA",
+   "label": "text_view",
+   "points": [
+    [
+     20.25,
+     90.25
+    ],
+    [
+     339.75,
+     111.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "Username",
+   "label": "username",
+   "points": [
+    [
+     15.75,
+     133.5
+    ],
+    [
+     344.25,
+     163.75
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "android.support.v7.widget.AppCompatEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     15.75,
+     181.25
+    ],
+    [
+     344.25,
+     211.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Log In",
+   "label": "log_in",
+   "points": [
+    [
+     15.75,
+     229.0
+    ],
+    [
+     344.25,
+     264.0
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Skip",
+   "label": "button",
+   "points": [
+    [
+     15.75,
+     281.5
+    ],
+    [
+     138.25,
+     316.5
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageButton",
+   "class": "android.support.v7.widget.AppCompatImageButton",
+   "text": "",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     243.5,
+     304.25
+    ],
+    [
+     344.25,
+     316.5
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Register for WNBA League Pass",
+   "label": "text_view",
+   "points": [
+    [
+     15.75,
+     351.5
+    ],
+    [
+     326.75,
+     372.75
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Personalize your experience and enable your settings across all platforms. Registration only takes a few seconds.",
+   "label": "text_view",
+   "points": [
+    [
+     20.25,
+     381.5
+    ],
+    [
+     326.75,
+     426.5
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     20.25,
+     439.75
+    ],
+    [
+     32.5,
+     449.75
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Surface the most popular content and view.",
+   "label": "text_view",
+   "points": [
+    [
+     37.0,
+     439.75
+    ],
+    [
+     326.75,
+     456.25
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     20.25,
+     469.5
+    ],
+    [
+     30.75,
+     481.0
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Access to all the digital products online and on mobile.",
+   "label": "text_view",
+   "points": [
+    [
+     35.25,
+     469.5
+    ],
+    [
+     326.75,
+     500.25
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Get Started",
+   "label": "button",
+   "points": [
+    [
+     15.75,
+     517.75
+    ],
+    [
+     344.25,
+     552.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.widget.ImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     49.0,
+     70.0
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "My Profile",
+   "label": "text_view",
+   "points": [
+    [
+     52.5,
+     34.75
+    ],
+    [
+     122.5,
+     56.0
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "14889.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

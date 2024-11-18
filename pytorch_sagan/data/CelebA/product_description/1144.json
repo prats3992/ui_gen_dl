@@ -1,0 +1,425 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "label": "search_button",
+      "points": [
+        [
+          311.0,
+          24.5
+        ],
+        [
+          360.0,
+          66.5
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Fleurette",
+      "label": "text_view",
+      "points": [
+        [
+          52.5,
+          33.75
+        ],
+        [
+          122.25,
+          57.0
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          4.5,
+          70.0
+        ],
+        [
+          355.5,
+          437.5
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "navigation_dots",
+      "points": [
+        [
+          149.75,
+          405.25
+        ],
+        [
+          211.66666666666666,
+          417.0
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "Loro Piana Wool Car Coat (Plus Size)",
+      "label": "text_view",
+      "points": [
+        [
+          4.5,
+          445.5
+        ],
+        [
+          355.5,
+          468.5
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "$499.97",
+      "label": "price",
+      "points": [
+        [
+          4.5,
+          475.5
+        ],
+        [
+          69.5,
+          497.0
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomButton",
+      "text": "Add To Cart",
+      "label": "cart_add",
+      "points": [
+        [
+          236.5,
+          475.5
+        ],
+        [
+          341.5,
+          517.5
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "$1,275.00",
+      "label": "price_s",
+      "points": [
+        [
+          4.5,
+          497.0
+        ],
+        [
+          50.25,
+          509.75
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "61% Off",
+      "label": "discount",
+      "points": [
+        [
+          53.75,
+          497.0
+        ],
+        [
+          92.75,
+          509.75
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.hautelook.mcom.ui.common.view.widget.HLCustomTextView",
+      "text": "Size:",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          509.0
+        ],
+        [
+          359.0,
+          547.0
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.RadioButton",
+      "class": "android.support.v7.widget.AppCompatRadioButton",
+      "text": "20W",
+      "label": "radio_button",
+      "points": [
+        [
+          9.0,
+          548.75
+        ],
+        [
+          56.25,
+          549.0
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          65.25,
+          548.75
+        ],
+        [
+          112.5,
+          549.0
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "navigation_bar",
+      "points": [
+        [
+          0.0,
+          549.0
+        ],
+        [
+          360.0,
+          598.0
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          49.5,
+          554.25
+        ],
+        [
+          70.5,
+          575.25
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Rack",
+      "label": "text_view",
+      "points": [
+        [
+          10.5,
+          575.25
+        ],
+        [
+          109.5,
+          591.75
+        ]
+      ],
+      "group_id": 29,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          169.5,
+          556.0
+        ],
+        [
+          190.5,
+          577.0
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "HauteLook",
+      "label": "text_view",
+      "points": [
+        [
+          130.5,
+          577.5
+        ],
+        [
+          229.5,
+          591.75
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          289.5,
+          556.0
+        ],
+        [
+          310.5,
+          577.0
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Cart",
+      "label": "text_view",
+      "points": [
+        [
+          250.5,
+          577.5
+        ],
+        [
+          349.5,
+          591.75
+        ]
+      ],
+      "group_id": 31,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    }
+  ],
+  "imagePath": "1144.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

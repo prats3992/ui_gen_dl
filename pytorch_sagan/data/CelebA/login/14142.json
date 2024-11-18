@@ -1,0 +1,305 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     127.5,
+     24.5
+    ],
+    [
+     232.5,
+     66.5
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.widget.ImageButton",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     0.0,
+     21.0
+    ],
+    [
+     49.0,
+     70.0
+    ]
+   ],
+   "group_id": 6,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.lynda.infra.widgets.StyledTextView",
+   "text": "Keep learning. Free 30-day trial.",
+   "label": "text_view",
+   "points": [
+    [
+     0.0,
+     70.0
+    ],
+    [
+     360.0,
+     123.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.lynda.infra.widgets.StyledTextView",
+   "text": "Use your LinkedIn account to create a Lynda.com account",
+   "label": "text_view",
+   "points": [
+    [
+     26.25,
+     139.25
+    ],
+    [
+     333.75,
+     178.75
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatEditText",
+   "class": "com.lynda.infra.widgets.StyledEditText",
+   "text": "",
+   "label": "email",
+   "points": [
+    [
+     26.25,
+     197.0
+    ],
+    [
+     333.75,
+     236.5
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatEditText",
+   "class": "com.lynda.infra.widgets.StyledEditText",
+   "text": "",
+   "label": "password",
+   "points": [
+    [
+     26.25,
+     246.0
+    ],
+    [
+     333.75,
+     285.5
+    ]
+   ],
+   "group_id": 13,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.lynda.infra.widgets.StyledTextView",
+   "text": "By clicking Sign in with LinkedIn, you will create a Lynda.com account and agree to Lynda.com's Terms of Service and Privacy Policy",
+   "label": "text_view",
+   "points": [
+    [
+     26.25,
+     294.25
+    ],
+    [
+     333.75,
+     339.25
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     76.5,
+     356.75
+    ],
+    [
+     113.25,
+     393.5
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line_v",
+   "points": [
+    [
+     120.25,
+     365.5
+    ],
+    [
+     121.25,
+     384.75
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.lynda.infra.widgets.StyledTextView",
+   "text": "Sign in with LinkedIn",
+   "label": "linkedin",
+   "points": [
+    [
+     27.0,
+     357.0
+    ],
+    [
+     333.6666666666667,
+     394.3333333333333
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.lynda.infra.widgets.StyledTextView",
+   "text": "Forgot Password?",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     52.5,
+     411.0
+    ],
+    [
+     307.5,
+     425.25
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "java.lang.Object",
+   "class": "android.view.View",
+   "text": "",
+   "label": "separator_line",
+   "points": [
+    [
+     0.0,
+     441.0
+    ],
+    [
+     360.0,
+     442.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.lynda.infra.widgets.StyledTextView",
+   "text": "Not a LinkedIn member?",
+   "label": "text_view",
+   "points": [
+    [
+     94.75,
+     457.75
+    ],
+    [
+     265.25,
+     479.0
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "com.lynda.infra.widgets.buttons.StyledButton",
+   "class": "com.lynda.infra.widgets.buttons.LinkedInBlueButton",
+   "text": "Join now",
+   "label": "sign_up",
+   "points": [
+    [
+     26.25,
+     496.5
+    ],
+    [
+     333.75,
+     533.25
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "14142.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

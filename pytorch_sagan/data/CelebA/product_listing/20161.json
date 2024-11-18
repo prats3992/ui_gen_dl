@@ -1,0 +1,456 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          42.0,
+          63.0
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "com.production.truspertips.widget.basic.BasicTextView",
+      "class": "com.production.truspertips.widget.basic.BasicAutoFitTextView",
+      "text": "Musely Sample Box",
+      "label": "text_view",
+      "points": [
+        [
+          92.75,
+          34.25
+        ],
+        [
+          271.25,
+          49.75
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.production.truspertips.widget.basic.BasicTextView",
+      "text": "ADD",
+      "label": "cart_add",
+      "points": [
+        [
+          37.333333333333336,
+          69.0
+        ],
+        [
+          142.0,
+          95.0
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.production.truspertips.widget.basic.BasicTextView",
+      "text": "ADD",
+      "label": "cart_add",
+      "points": [
+        [
+          218.0,
+          69.66666666666667
+        ],
+        [
+          322.6666666666667,
+          93.66666666666667
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          8.75,
+          113.0
+        ],
+        [
+          170.5,
+          244.25
+        ]
+      ],
+      "group_id": 18,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.production.truspertips.widget.basic.BasicTextView",
+      "text": "Aqual Reveal - Satin Bright Soft Water Peel for Face Sample 0.5 oz",
+      "label": "text_view",
+      "points": [
+        [
+          8.75,
+          244.25
+        ],
+        [
+          170.5,
+          297.5
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.production.truspertips.widget.basic.BasicTextView",
+      "text": "ADD",
+      "label": "cart_add",
+      "points": [
+        [
+          36.666666666666664,
+          299.6666666666667
+        ],
+        [
+          142.0,
+          322.3333333333333
+        ]
+      ],
+      "group_id": 19,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          188.75,
+          113.0
+        ],
+        [
+          351.25,
+          244.25
+        ]
+      ],
+      "group_id": 21,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.production.truspertips.widget.basic.BasicTextView",
+      "text": "Evelyn Iona - Natural & Organic Green Tea Primer Sample 3ml",
+      "label": "text_view",
+      "points": [
+        [
+          188.75,
+          244.25
+        ],
+        [
+          351.25,
+          297.5
+        ]
+      ],
+      "group_id": 20,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.production.truspertips.widget.basic.BasicTextView",
+      "text": "ADD",
+      "label": "cart_add",
+      "points": [
+        [
+          218.0,
+          298.3333333333333
+        ],
+        [
+          322.6666666666667,
+          324.3333333333333
+        ]
+      ],
+      "group_id": 22,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          8.75,
+          342.0
+        ],
+        [
+          170.5,
+          473.25
+        ]
+      ],
+      "group_id": 24,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.production.truspertips.widget.basic.BasicTextView",
+      "text": "Borbon - Revitalizing Facial Sample",
+      "label": "text_view",
+      "points": [
+        [
+          8.75,
+          473.25
+        ],
+        [
+          170.5,
+          526.5
+        ]
+      ],
+      "group_id": 23,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.production.truspertips.widget.basic.BasicTextView",
+      "text": "ADD",
+      "label": "cart_add",
+      "points": [
+        [
+          36.0,
+          526.3333333333334
+        ],
+        [
+          141.33333333333334,
+          553.6666666666666
+        ]
+      ],
+      "group_id": 25,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          188.75,
+          342.0
+        ],
+        [
+          351.25,
+          473.25
+        ]
+      ],
+      "group_id": 27,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.production.truspertips.widget.basic.BasicTextView",
+      "text": "Blue Beautifly Hydrating Cleanser Sample",
+      "label": "text_view",
+      "points": [
+        [
+          188.75,
+          473.25
+        ],
+        [
+          351.25,
+          526.5
+        ]
+      ],
+      "group_id": 26,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.production.truspertips.widget.basic.BasicTextView",
+      "text": "ADD",
+      "label": "cart_add",
+      "points": [
+        [
+          217.33333333333334,
+          526.3333333333334
+        ],
+        [
+          320.6666666666667,
+          553.0
+        ]
+      ],
+      "group_id": 28,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.production.truspertips.widget.basic.BasicTextView",
+      "text": "0 OF 5 SELECTED",
+      "label": "button",
+      "points": [
+        [
+          4.5,
+          554.25
+        ],
+        [
+          355.5,
+          598.0
+        ]
+      ],
+      "group_id": 34,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          2.0000000000000053,
+          105.0
+        ],
+        [
+          178.66666666666669,
+          332.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          180.66666666666666,
+          103.66666666666669
+        ],
+        [
+          357.33333333333326,
+          331.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          181.33333333333334,
+          331.6666666666667
+        ],
+        [
+          354.6666666666667,
+          553.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          2.0000000000000284,
+          333.6666666666667
+        ],
+        [
+          176.66666666666666,
+          553.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          1.333333333333334,
+          64.33333333333333
+        ],
+        [
+          178.0,
+          102.33333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card_partial",
+      "points": [
+        [
+          180.0,
+          63.66666666666666
+        ],
+        [
+          356.66666666666663,
+          101.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "20161.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

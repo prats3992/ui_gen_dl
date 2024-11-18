@@ -1,0 +1,330 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "The Web Developer Bootcamp",
+      "label": "text_view",
+      "points": [
+        [
+          63.0,
+          33.75
+        ],
+        [
+          299.75,
+          57.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          0.0,
+          70.0
+        ],
+        [
+          360.0,
+          248.5
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Colt Steele",
+      "label": "text_view",
+      "points": [
+        [
+          5.25,
+          248.5
+        ],
+        [
+          59.75,
+          272.75
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "The Web Developer Bootcamp",
+      "label": "text_view",
+      "points": [
+        [
+          5.25,
+          272.75
+        ],
+        [
+          282.0,
+          300.75
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.RatingBar",
+      "class": "android.support.v7.widget.AppCompatRatingBar",
+      "text": "",
+      "label": "rating_bar",
+      "points": [
+        [
+          5.25,
+          300.75
+        ],
+        [
+          75.25,
+          330.5
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "16257 Ratings",
+      "label": "text_view",
+      "points": [
+        [
+          75.25,
+          300.75
+        ],
+        [
+          157.75,
+          329.5
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Buy",
+      "label": "buy",
+      "points": [
+        [
+          180.5,
+          339.5
+        ],
+        [
+          355.5,
+          382.75
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$9.99",
+      "label": "price",
+      "points": [
+        [
+          5.25,
+          342.0
+        ],
+        [
+          176.0,
+          366.75
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "$199.00",
+      "label": "price_s",
+      "points": [
+        [
+          5.25,
+          366.75
+        ],
+        [
+          176.0,
+          382.0
+        ]
+      ],
+      "group_id": 15,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          391.75
+        ],
+        [
+          360.0,
+          392.75
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "java.lang.Object",
+      "class": "android.view.View",
+      "text": "",
+      "label": "separator_line",
+      "points": [
+        [
+          0.0,
+          398.25
+        ],
+        [
+          360.0,
+          399.25
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Course Description",
+      "label": "text_view",
+      "points": [
+        [
+          119.75,
+          399.25
+        ],
+        [
+          240.0,
+          435.75
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          435.75
+        ],
+        [
+          360.0,
+          485.25
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Hi! Welcome to the Web Developer Bootcamp, the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market. Here's why:\n\nThis is the only online course taught by a professional bootcamp instructor.94% of my bootcamp students go on to get full-time developer jobs. Most of them are complete beginners when I start working with them.The previous 2 bootcamp programs that I taught cost $14,000 and $21,000. This course is just as comprehensive but with brand new content for a fraction of the price.Everything I cover is up-to-date and relevant to today's developer industry. No PHP or other dated technologies. This course does not cut any corners.This is the only complete beginner full-stack developer course that covers NodeJS.We build 13+ projects, including a gigantic production application called YelpCamp. No other course walks you through the creation of such a substantial application.The course is constantly updated with new content, projects, and modules. Think of it as a subscription to a never-ending supply of developer training.You get to meet my dog Rusty!\n\nWhen you're learning to program you often have to sacrifice learning the exciting and current technologies in favor of the \"beginner friendly\" classes. With this course, you get the best of both worlds. This is a course designed for the complete beginner, yet it covers some of the most exciting and relevant topics in the industry.\n\nThroughout the course we cover tons of tools and technologies including:\n\nHTML5CSS3JavaScriptBootstrapSemanticUIDOM ManipulationjQueryUnix(Command Line) CommandsNodeJSNPMExpressJSRESTMongoDBDatabase AssociationsAuthenticationPassportJSAuthorization\n\nThis course is also unique in the way that it is structured and presented. Many online courses are just a long series of \"watch as I code\" videos. This course is different. I've incorporated everything I learned in my years of teaching to make this course not only more effective but more engaging. The course includes:\n\nLecturesCode-AlongsProjectsExercisesResearch AssignmentsSlidesDownloadsReadingsToo many pictures of my dog Rusty\n\nIf you have any questions, please don't hesitate to contact me. I got into this industry because I love working with people and helping students learn. Sign up today and see how fun, exciting, and rewarding web development can be!\n\n",
+      "label": "text_view",
+      "points": [
+        [
+          0.0,
+          485.25
+        ],
+        [
+          360.0,
+          598.0
+        ]
+      ],
+      "group_id": 17,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    }
+  ],
+  "imagePath": "51720.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

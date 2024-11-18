@@ -1,0 +1,598 @@
+{
+  "version": "4.5.6",
+  "flags": {
+    "done": true,
+    "review": false,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": true,
+    "product_description": false,
+    "splash": false
+  },
+  "shapes": [
+    {
+      "element": "android.support.v7.widget.AppCompatTextView",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "label": "search_button",
+      "points": [
+        [
+          281.25,
+          24.5
+        ],
+        [
+          323.25,
+          66.5
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "cart_icon_button",
+      "points": [
+        [
+          327.5,
+          31.5
+        ],
+        [
+          355.5,
+          59.5
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "label": "menu_dashs",
+      "points": [
+        [
+          -0.6666666666666643,
+          21.0
+        ],
+        [
+          48.333333333333336,
+          70.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Products",
+      "label": "text_view",
+      "points": [
+        [
+          63.0,
+          33.75
+        ],
+        [
+          134.0,
+          57.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          13.25,
+          175.75
+        ],
+        [
+          100.5,
+          263.25
+        ]
+      ],
+      "group_id": 39,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "Youth Black Atlanta Falcons Helix Bonded Full-Zip Fleece Jacket",
+      "label": "text_view",
+      "points": [
+        [
+          113.75,
+          178.0
+        ],
+        [
+          351.25,
+          216.0
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "$54.99",
+      "label": "price",
+      "points": [
+        [
+          113.75,
+          224.75
+        ],
+        [
+          160.5,
+          245.0
+        ]
+      ],
+      "group_id": 38,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          13.25,
+          277.5
+        ],
+        [
+          100.5,
+          365.0
+        ]
+      ],
+      "group_id": 44,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "Few Left!",
+      "label": "text_view",
+      "points": [
+        [
+          4.5,
+          335.75
+        ],
+        [
+          74.75,
+          365.0
+        ]
+      ],
+      "group_id": 45,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "Youth Black/Red/Gray Atlanta Falcons 3-Pack T-Shirt Set",
+      "label": "text_view",
+      "points": [
+        [
+          113.75,
+          279.75
+        ],
+        [
+          351.25,
+          317.75
+        ]
+      ],
+      "group_id": 43,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "$49.99",
+      "label": "price",
+      "points": [
+        [
+          113.75,
+          326.5
+        ],
+        [
+          160.5,
+          346.75
+        ]
+      ],
+      "group_id": 43,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          13.25,
+          379.25
+        ],
+        [
+          100.5,
+          466.75
+        ]
+      ],
+      "group_id": 49,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "Few Left!",
+      "label": "text_view",
+      "points": [
+        [
+          4.5,
+          437.5
+        ],
+        [
+          74.75,
+          466.75
+        ]
+      ],
+      "group_id": 50,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "Julio Jones Atlanta Falcons Nike Youth Limited Jersey - Red",
+      "label": "text_view",
+      "points": [
+        [
+          113.75,
+          381.5
+        ],
+        [
+          351.25,
+          419.5
+        ]
+      ],
+      "group_id": 48,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "$99.99",
+      "label": "price",
+      "points": [
+        [
+          113.75,
+          428.25
+        ],
+        [
+          160.5,
+          448.5
+        ]
+      ],
+      "group_id": 48,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          13.25,
+          484.0
+        ],
+        [
+          100.5,
+          571.5
+        ]
+      ],
+      "group_id": 54,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "Few Left!",
+      "label": "text_view",
+      "points": [
+        [
+          4.5,
+          542.25
+        ],
+        [
+          74.75,
+          571.5
+        ]
+      ],
+      "group_id": 55,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "Youth Julio Jones Red Atlanta Falcons Sinuous Logo Name & Number Dri-TEK T-Shirt",
+      "label": "text_view",
+      "points": [
+        [
+          113.75,
+          483.25
+        ],
+        [
+          351.25,
+          539.0
+        ]
+      ],
+      "group_id": 53,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "$29.99",
+      "label": "price",
+      "points": [
+        [
+          113.75,
+          547.75
+        ],
+        [
+          160.5,
+          568.0
+        ]
+      ],
+      "group_id": 53,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "179\nitems",
+      "label": "text_view",
+      "points": [
+        [
+          8.75,
+          84.25
+        ],
+        [
+          74.5,
+          117.5
+        ]
+      ],
+      "group_id": 62,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.AppCompatTextView",
+      "text": "Top Sellers",
+      "label": "drop_down_list",
+      "points": [
+        [
+          82.66666666666667,
+          80.33333333333333
+        ],
+        [
+          247.33333333333331,
+          121.66666666666667
+        ]
+      ],
+      "group_id": 65,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          274.25,
+          92.0
+        ],
+        [
+          291.75,
+          109.5
+        ]
+      ],
+      "group_id": 68,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "Filters",
+      "label": "filter_button",
+      "points": [
+        [
+          252.66666666666669,
+          79.0
+        ],
+        [
+          352.0,
+          123.0
+        ]
+      ],
+      "group_id": 68,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "com.fanatics.fanatics_android_sdk.ui.views.FanaticsTextView",
+      "text": "Kids",
+      "label": "text_view",
+      "points": [
+        [
+          13.25,
+          136.25
+        ],
+        [
+          39.0,
+          154.0
+        ]
+      ],
+      "group_id": 71,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          48.0,
+          137.25
+        ],
+        [
+          63.75,
+          153.0
+        ]
+      ],
+      "group_id": 71,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          2.0,
+          169.66666666666666
+        ],
+        [
+          358.0,
+          268.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          2.0,
+          271.6666666666667
+        ],
+        [
+          357.9999999999999,
+          370.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          2.6666666666666714,
+          373.6666666666667
+        ],
+        [
+          358.6666666666668,
+          472.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "card",
+      "points": [
+        [
+          1.3333333333333286,
+          475.66666666666663
+        ],
+        [
+          357.3333333333333,
+          577.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "23362.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

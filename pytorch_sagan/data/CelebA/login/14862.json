@@ -1,0 +1,185 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "icon_button",
+   "points": [
+    [
+     14.0,
+     21.0
+    ],
+    [
+     42.0,
+     45.5
+    ]
+   ],
+   "group_id": 7,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.dylvian.mango.activities.widgets.FontedTextView",
+   "text": "LOGIN",
+   "label": "text_view",
+   "points": [
+    [
+     17.5,
+     63.0
+    ],
+    [
+     61.25,
+     79.25
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.dylvian.mango.activities.widgets.FontedEditText",
+   "text": "E-mail",
+   "label": "email",
+   "points": [
+    [
+     17.5,
+     96.75
+    ],
+    [
+     342.5,
+     131.25
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.EditText",
+   "class": "com.dylvian.mango.activities.widgets.FontedEditText",
+   "text": "Password",
+   "label": "password",
+   "points": [
+    [
+     17.5,
+     140.0
+    ],
+    [
+     342.5,
+     174.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.dylvian.mango.activities.widgets.FontedTextView",
+   "text": "Remind me",
+   "label": "text_view",
+   "points": [
+    [
+     17.5,
+     190.5
+    ],
+    [
+     91.25,
+     206.75
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.CheckBox",
+   "class": "android.support.v7.widget.AppCompatCheckBox",
+   "text": "",
+   "label": "check_box",
+   "points": [
+    [
+     311.75,
+     183.25
+    ],
+    [
+     342.5,
+     214.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "com.dylvian.mango.activities.widgets.FontedButton",
+   "text": "LOGIN",
+   "label": "log_in",
+   "points": [
+    [
+     17.5,
+     231.5
+    ],
+    [
+     342.5,
+     260.5
+    ]
+   ],
+   "group_id": 8,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "com.dylvian.mango.activities.widgets.FontedTextView",
+   "text": "Ive forgotten my password",
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     17.5,
+     278.0
+    ],
+    [
+     342.5,
+     291.0
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "14862.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

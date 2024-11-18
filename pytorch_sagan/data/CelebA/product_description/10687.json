@@ -1,0 +1,427 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": true,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "com.trulia.android.ui.PillTagView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          21.0,
+          60.0
+        ],
+        [
+          93.66666666666666,
+          77.0
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "$1,060,000+",
+      "label": "price",
+      "points": [
+        [
+          21.0,
+          81.75
+        ],
+        [
+          195.75,
+          117.0
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "1-3 Beds, 1-3 Baths, 876-2,692 sqft",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          120.5
+        ],
+        [
+          216.25,
+          135.25
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "1 Quick Move-in Home, 8 Ready to Build Homes",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          138.75
+        ],
+        [
+          277.5,
+          153.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "Get Pre-Qualified",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          157.0
+        ],
+        [
+          113.5,
+          171.75
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "DIRECTIONS",
+      "label": "text_button",
+      "points": [
+        [
+          21.0,
+          185.75
+        ],
+        [
+          100.25,
+          227.75
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "MAP",
+      "label": "text_button",
+      "points": [
+        [
+          123.0,
+          185.75
+        ],
+        [
+          163.25,
+          227.75
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "Community Details",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          248.75
+        ],
+        [
+          154.5,
+          268.0
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "com.trulia.android.ui.DetailExpandableTextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          282.0
+        ],
+        [
+          339.0,
+          354.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "READ MORE",
+      "label": "text_button",
+      "points": [
+        [
+          129.25,
+          368.5
+        ],
+        [
+          230.75,
+          403.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "New Homes in LUMINA (9 available)",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          452.5
+        ],
+        [
+          273.25,
+          471.75
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "Types",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          492.75
+        ],
+        [
+          215.0,
+          507.5
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "Pricing",
+      "label": "text_view",
+      "points": [
+        [
+          215.0,
+          492.75
+        ],
+        [
+          312.0,
+          507.5
+        ]
+      ],
+      "group_id": 14,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "Quick Move-in Homes (1)",
+      "label": "text_view",
+      "points": [
+        [
+          21.0,
+          531.5
+        ],
+        [
+          215.0,
+          546.25
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.TextView",
+      "class": "android.support.v7.widget.bs",
+      "text": "$1,395,000+",
+      "label": "price",
+      "points": [
+        [
+          215.0,
+          531.5
+        ],
+        [
+          312.0,
+          546.25
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "com.trulia.android.ui.ExpandIndicatorView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          312.0,
+          532.0
+        ],
+        [
+          336.25,
+          546.0
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "com.trulia.android.ui.RequestInfoButton",
+      "text": "   REQUEST INFO",
+      "label": "button",
+      "points": [
+        [
+          0.0,
+          556.0
+        ],
+        [
+          360.0,
+          598.0
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          0.0,
+          21.0
+        ],
+        [
+          49.0,
+          70.0
+        ]
+      ],
+      "group_id": 52,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "LUMINA by LUMINA",
+      "label": "text_view",
+      "points": [
+        [
+          52.5,
+          28.75
+        ],
+        [
+          207.5,
+          49.5
+        ]
+      ],
+      "group_id": 52,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "San Francisco, CA 94105",
+      "label": "text_view",
+      "points": [
+        [
+          52.5,
+          49.5
+        ],
+        [
+          168.5,
+          62.0
+        ]
+      ],
+      "group_id": 52,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    }
+  ],
+  "imagePath": "10687.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

@@ -1,0 +1,137 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "label": "name",
+      "points": [
+        [
+          60.0,
+          225.75
+        ],
+        [
+          300.0,
+          256.5
+        ]
+      ],
+      "group_id": 10,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "label": "email",
+      "points": [
+        [
+          60.0,
+          265.5
+        ],
+        [
+          300.0,
+          296.25
+        ]
+      ],
+      "group_id": 11,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "label": "password",
+      "points": [
+        [
+          60.0,
+          305.25
+        ],
+        [
+          300.0,
+          336.0
+        ]
+      ],
+      "group_id": 12,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.EditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "label": "password",
+      "points": [
+        [
+          60.0,
+          345.0
+        ],
+        [
+          300.0,
+          375.75
+        ]
+      ],
+      "group_id": 13,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.widget.Button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign up",
+      "label": "sign_up",
+      "points": [
+        [
+          60.0,
+          386.25
+        ],
+        [
+          148.75,
+          419.5
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.widget.ImageView",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          14.0,
+          29.75
+        ],
+        [
+          91.25,
+          54.25
+        ]
+      ],
+      "group_id": 16,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    }
+  ],
+  "imagePath": "15287.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

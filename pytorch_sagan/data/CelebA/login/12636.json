@@ -1,0 +1,163 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": true,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": false,
+  "review": false
+ },
+ "shapes": [
+  {
+   "label": "text_view",
+   "points": [
+    [
+     149.66666666666666,
+     29.666666666666668
+    ],
+    [
+     210.33333333333334,
+     51.666666666666664
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "log_in",
+   "points": [
+    [
+     299.0,
+     25.666666666666668
+    ],
+    [
+     356.3333333333333,
+     53.666666666666664
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "fb_button",
+   "points": [
+    [
+     74.33333333333333,
+     103.66666666666667
+    ],
+    [
+     283.6666666666667,
+     139.66666666666666
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     156.33333333333334,
+     161.0
+    ],
+    [
+     201.66666666666666,
+     177.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "tb_forgot_password",
+   "points": [
+    [
+     130.33333333333334,
+     274.3333333333333
+    ],
+    [
+     229.0,
+     289.0
+    ]
+   ],
+   "group_id": 994,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "image_view",
+   "points": [
+    [
+     26.33333333333333,
+     201.0
+    ],
+    [
+     55.66666666666667,
+     223.66666666666666
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "image_view",
+   "points": [
+    [
+     27.0,
+     235.0
+    ],
+    [
+     57.66666666666667,
+     257.6666666666667
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "password",
+   "points": [
+    [
+     17.0,
+     229.66666666666666
+    ],
+    [
+     342.3333333333333,
+     265.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "username",
+   "points": [
+    [
+     15.666666666666664,
+     195.66666666666666
+    ],
+    [
+     343.0,
+     230.33333333333334
+    ]
+   ],
+   "group_id": 991,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "12636.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

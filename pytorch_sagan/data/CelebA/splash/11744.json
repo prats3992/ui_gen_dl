@@ -1,0 +1,101 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "The language learning community",
+   "label": "text_view",
+   "points": [
+    [
+     48.0,
+     198.0
+    ],
+    [
+     311.75,
+     273.75
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.AppCompatImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     304.0,
+     21.0
+    ],
+    [
+     360.0,
+     77.0
+    ]
+   ],
+   "group_id": 10,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatButton",
+   "class": "com.busuu.android.uikit.view.FixButton",
+   "text": "Start Learning",
+   "label": "button",
+   "points": [
+    [
+     43.5,
+     482.5
+    ],
+    [
+     316.5,
+     524.5
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.support.v7.widget.AppCompatTextView",
+   "class": "com.busuu.android.uikit.view.FixTextView",
+   "text": "LOG IN",
+   "label": "text_view",
+   "points": [
+    [
+     43.5,
+     535.0
+    ],
+    [
+     316.5,
+     577.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "11744.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

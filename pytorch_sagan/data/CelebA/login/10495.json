@@ -1,0 +1,212 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": true,
+    "account_creation": false,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "We list over 4,820,064 properties and growing",
+      "label": "edit_text",
+      "points": [
+        [
+          62.33333333333333,
+          306.3333333333333
+        ],
+        [
+          303.0,
+          337.6666666666667
+        ]
+      ],
+      "group_id": 30,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "",
+      "label": "log_in",
+      "points": [
+        [
+          61.66666666666667,
+          349.0
+        ],
+        [
+          296.3333333333333,
+          392.3333333333333
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "",
+      "label": "text_view",
+      "points": [
+        [
+          69.66666666666667,
+          456.3333333333333
+        ],
+        [
+          291.6666666666667,
+          478.3333333333333
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "ADD PROPERTY",
+      "label": "sign_up",
+      "points": [
+        [
+          63.66666666666667,
+          483.6666666666667
+        ],
+        [
+          296.3333333333333,
+          513.6666666666666
+        ]
+      ],
+      "group_id": 36,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "label": "image_view",
+      "points": [
+        [
+          152.33333333333334,
+          219.0
+        ],
+        [
+          210.5,
+          248.75
+        ]
+      ],
+      "group_id": 46,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Select Language",
+      "label": "edit_text",
+      "points": [
+        [
+          61.66666666666667,
+          262.3333333333333
+        ],
+        [
+          301.6666666666667,
+          295.6666666666667
+        ]
+      ],
+      "group_id": 45,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "SELECT",
+      "label": "text_view",
+      "points": [
+        [
+          134.75,
+          358.25
+        ],
+        [
+          224.75,
+          385.0
+        ]
+      ],
+      "group_id": 33,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "SKIP",
+      "label": "text_view",
+      "points": [
+        [
+          112.33333333333334,
+          399.6666666666667
+        ],
+        [
+          248.33333333333331,
+          418.3333333333333
+        ]
+      ],
+      "group_id": 44,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "",
+      "label": "icon_button",
+      "points": [
+        [
+          306.3333333333333,
+          21.666666666666668
+        ],
+        [
+          360.0,
+          74.75
+        ]
+      ],
+      "group_id": 56,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "fb_button",
+      "points": [
+        [
+          62.33333333333333,
+          179.0
+        ],
+        [
+          297.0,
+          211.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "10495.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

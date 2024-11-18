@@ -1,0 +1,264 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Select your topics",
+   "label": "text_view",
+   "points": [
+    [
+     0.0,
+     31.5
+    ],
+    [
+     314.3333333333333,
+     60.333333333333336
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "label": "settings_icon",
+   "points": [
+    [
+     321.0,
+     31.666666666666664
+    ],
+    [
+     355.0,
+     61.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     117.0,
+     175.66666666666666
+    ],
+    [
+     243.66666666666669,
+     201.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "text_view",
+   "points": [
+    [
+     51.0,
+     199.0
+    ],
+    [
+     310.3333333333333,
+     218.33333333333334
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "fb_button",
+   "points": [
+    [
+     57.0,
+     352.3333333333333
+    ],
+    [
+     301.6666666666667,
+     385.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "twitter_button",
+   "points": [
+    [
+     57.0,
+     390.3333333333333
+    ],
+    [
+     302.3333333333333,
+     423.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "google_button",
+   "points": [
+    [
+     56.33333333333333,
+     430.3333333333333
+    ],
+    [
+     301.6666666666667,
+     460.3333333333333
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "sign_up",
+   "points": [
+    [
+     57.0,
+     469.0
+    ],
+    [
+     302.3333333333333,
+     500.3333333333333
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "email_button",
+   "points": [
+    [
+     57.66666666666667,
+     507.6666666666667
+    ],
+    [
+     302.3333333333333,
+     539.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "tab_bar_button",
+   "points": [
+    [
+     269.6666666666667,
+     552.3333333333331
+    ],
+    [
+     341.6666666666667,
+     595.6666666666666
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "tab_bar_button",
+   "points": [
+    [
+     184.33333333333331,
+     551.6666666666664
+    ],
+    [
+     256.3333333333333,
+     594.9999999999999
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "tab_bar_button",
+   "points": [
+    [
+     99.66666666666663,
+     551.6666666666664
+    ],
+    [
+     171.66666666666663,
+     594.9999999999999
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "tab_bar_button",
+   "points": [
+    [
+     14.999999999999972,
+     550.333333333333
+    ],
+    [
+     86.99999999999997,
+     593.6666666666665
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "tab_bar",
+   "points": [
+    [
+     0.0,
+     549.0
+    ],
+    [
+     359.0,
+     601.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "navigation_dots",
+   "points": [
+    [
+     157.66666666666666,
+     329.6666666666667
+    ],
+    [
+     201.66666666666666,
+     341.6666666666667
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ],
+ "imagePath": "13308.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

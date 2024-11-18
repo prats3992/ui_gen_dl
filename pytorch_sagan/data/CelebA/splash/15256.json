@@ -1,0 +1,158 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.ImageView",
+   "class": "android.support.v7.widget.o",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     101.25,
+     63.0
+    ],
+    [
+     258.75,
+     106.0
+    ]
+   ],
+   "group_id": 5,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.y",
+   "text": "Sign in with Google",
+   "label": "google_button",
+   "points": [
+    [
+     23.66666666666667,
+     329.6666666666667
+    ],
+    [
+     335.6666666666667,
+     375.6666666666667
+    ]
+   ],
+   "group_id": 12,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     33.75,
+     403.75
+    ],
+    [
+     49.5,
+     419.5
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.TextView",
+   "text": "Sign in with Facebook",
+   "label": "fb_button",
+   "points": [
+    [
+     23.25,
+     389.0
+    ],
+    [
+     336.75,
+     434.5
+    ]
+   ],
+   "group_id": 14,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.y",
+   "text": "Join via email",
+   "label": "email_button",
+   "points": [
+    [
+     23.25,
+     445.0
+    ],
+    [
+     336.75,
+     490.5
+    ]
+   ],
+   "group_id": 16,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.y",
+   "text": "Sign in",
+   "label": "log_in",
+   "points": [
+    [
+     23.25,
+     501.0
+    ],
+    [
+     336.75,
+     546.5
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.y",
+   "text": "Continue as guest",
+   "label": "text_view",
+   "points": [
+    [
+     127.5,
+     560.5
+    ],
+    [
+     232.5,
+     584.0
+    ]
+   ],
+   "group_id": 9,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "15256.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}

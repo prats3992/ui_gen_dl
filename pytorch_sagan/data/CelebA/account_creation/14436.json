@@ -1,0 +1,296 @@
+{
+  "version": "4.2.10",
+  "flags": {
+    "done": true,
+    "others": false,
+    "login": false,
+    "account_creation": true,
+    "product_listing": false,
+    "product_description": false,
+    "splash": false,
+    "review": false
+  },
+  "shapes": [
+    {
+      "element": "android.view.View",
+      "class": "android.widget.TextView",
+      "text": "Create a new account",
+      "label": "text_view",
+      "points": [
+        [
+          4.5,
+          30.25
+        ],
+        [
+          123.0,
+          46.75
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "rectangle",
+      "flags": {
+        "use_class": true
+      }
+    },
+    {
+      "label": "image_view",
+      "points": [
+        [
+          8.333333333333332,
+          64.33333333333333
+        ],
+        [
+          255.0,
+          119.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          7.0,
+          127.0
+        ],
+        [
+          91.0,
+          144.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          9.0,
+          191.0
+        ],
+        [
+          89.0,
+          208.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          9.0,
+          255.0
+        ],
+        [
+          154.33333333333334,
+          271.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          9.666666666666668,
+          319.0
+        ],
+        [
+          53.66666666666667,
+          335.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          9.666666666666668,
+          382.3333333333333
+        ],
+        [
+          80.33333333333333,
+          399.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          9.666666666666668,
+          445.6666666666667
+        ],
+        [
+          69.0,
+          461.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_view",
+      "points": [
+        [
+          8.333333333333332,
+          507.6666666666667
+        ],
+        [
+          73.66666666666667,
+          527.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "username",
+      "points": [
+        [
+          9.0,
+          146.33333333333334
+        ],
+        [
+          221.66666666666666,
+          173.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "password",
+      "points": [
+        [
+          9.666666666666657,
+          209.0
+        ],
+        [
+          222.33333333333326,
+          235.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "password",
+      "points": [
+        [
+          9.666666666666657,
+          273.66666666666663
+        ],
+        [
+          222.33333333333326,
+          300.33333333333326
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "email",
+      "points": [
+        [
+          9.0,
+          338.3333333333333
+        ],
+        [
+          221.66666666666663,
+          364.99999999999994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "date_picker",
+      "points": [
+        [
+          8.333333333333329,
+          399.66666666666663
+        ],
+        [
+          220.99999999999997,
+          426.33333333333326
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "drop_down_list",
+      "points": [
+        [
+          7.666666666666657,
+          462.99999999999994
+        ],
+        [
+          220.33333333333331,
+          489.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "location",
+      "points": [
+        [
+          7.666666666666657,
+          525.6666666666666
+        ],
+        [
+          267.6666666666667,
+          550.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text_button",
+      "points": [
+        [
+          7.0,
+          566.3333333333334
+        ],
+        [
+          341.0,
+          598.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "14436.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 360
+}

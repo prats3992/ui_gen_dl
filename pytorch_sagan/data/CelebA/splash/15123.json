@@ -1,0 +1,141 @@
+{
+ "version": "4.2.10",
+ "flags": {
+  "done": true,
+  "others": false,
+  "login": false,
+  "account_creation": false,
+  "product_listing": false,
+  "product_description": false,
+  "splash": true,
+  "review": false
+ },
+ "shapes": [
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "GET APP EXCLUSIVES",
+   "label": "text_view",
+   "points": [
+    [
+     28.0,
+     384.5
+    ],
+    [
+     332.0,
+     409.0
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.widget.TextView",
+   "class": "android.support.v7.widget.AppCompatTextView",
+   "text": "Enable Push Notifications in the Inbox for the lowdown on awesome sales and perks!",
+   "label": "text_view",
+   "points": [
+    [
+     28.0,
+     423.0
+    ],
+    [
+     332.0,
+     461.5
+    ]
+   ],
+   "group_id": 11,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "image_view",
+   "points": [
+    [
+     99.25,
+     96.25
+    ],
+    [
+     260.75,
+     296.75
+    ]
+   ],
+   "group_id": 15,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  },
+  {
+   "element": "android.view.View",
+   "class": "android.widget.ImageView",
+   "text": "",
+   "label": "navigation_dots",
+   "points": [
+    [
+     162.5,
+     468.5
+    ],
+    [
+     199.66666666666666,
+     477.0
+    ]
+   ],
+   "group_id": 18,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Sign In Forever 21 Account",
+   "label": "log_in",
+   "points": [
+    [
+     14.0,
+     510.5
+    ],
+    [
+     346.0,
+     549.0
+    ]
+   ],
+   "group_id": 17,
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "element": "android.widget.Button",
+   "class": "android.support.v7.widget.AppCompatButton",
+   "text": "Skip",
+   "label": "button",
+   "points": [
+    [
+     14.0,
+     563.0
+    ],
+    [
+     346.0,
+     584.0
+    ]
+   ],
+   "group_id": 20,
+   "shape_type": "rectangle",
+   "flags": {
+    "use_class": true
+   }
+  }
+ ],
+ "imagePath": "15123.jpg",
+ "imageData": null,
+ "imageHeight": 640,
+ "imageWidth": 360
+}
