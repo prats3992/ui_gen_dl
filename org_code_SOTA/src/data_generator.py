@@ -50,7 +50,7 @@ class DataGenerator():
 
     def get_semantic_images_for_gan_train(self, batch_size, cache=None):
         dataset_len = len(self.image_paths)
-
+        print("dataset_len", dataset_len)
         list_ds = tf.data.Dataset.from_tensor_slices((self.image_paths, self.labels))
 
         train_dataset = list_ds.map(self.process_path_for_gan, num_parallel_calls=AUTOTUNE)
@@ -80,7 +80,8 @@ class DataGenerator():
 
     def process_path_for_gan(self, image_path, label):
         # load the raw data from the file as a string
-        img = tf.io.read_file(image_path)
+        print("image_path", image_path)
+        img = tf.io.read_file(str(image_path))
         img = self.decode_img(img, self.image_size, self.image_size, convert_to_bgr=False)
 
         return img, [label - 1]

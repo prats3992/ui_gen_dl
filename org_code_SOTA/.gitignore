@@ -136,4 +136,5 @@ results/
 checkpoints/
 notebook/
 docker-compose.yml
-
+bazel*
+tensorflow*
