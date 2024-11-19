@@ -4,6 +4,7 @@ import torch.nn.functional as F
 from torch.nn.functional import unfold, fold
 
 
+
 class LocalAttention(nn.Module):
     def __init__(self, input_dims, window_size=5, data_format='channels_last'):
         """
