@@ -1,0 +1,243 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     7,
+     550
+    ],
+    [
+     354,
+     576
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     0,
+     513
+    ],
+    [
+     353,
+     537
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     9,
+     477
+    ],
+    [
+     355,
+     501
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     8,
+     441
+    ],
+    [
+     355,
+     465
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     131,
+     409
+    ],
+    [
+     179,
+     418
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     51,
+     409
+    ],
+    [
+     110,
+     417
+    ]
+   ],
+   "label": "icon"
+  },
+  {
+   "points": [
+    [
+     16,
+     409
+    ],
+    [
+     29,
+     416
+    ]
+   ],
+   "label": "icon"
+  },
+  {
+   "points": [
+    [
+     218,
+     408
+    ],
+    [
+     260,
+     418
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     16,
+     252
+    ],
+    [
+     348,
+     289
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     17,
+     166
+    ],
+    [
+     348,
+     204
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     16,
+     111
+    ],
+    [
+     150,
+     116
+    ]
+   ],
+   "label": "number"
+  },
+  {
+   "points": [
+    [
+     14,
+     85
+    ],
+    [
+     133,
+     90
+    ]
+   ],
+   "label": "number"
+  },
+  {
+   "points": [
+    [
+     14,
+     56
+    ],
+    [
+     128,
+     64
+    ]
+   ],
+   "label": "number"
+  },
+  {
+   "points": [
+    [
+     322,
+     6
+    ],
+    [
+     355,
+     40
+    ]
+   ],
+   "label": "icon"
+  },
+  {
+   "points": [
+    [
+     221,
+     5
+    ],
+    [
+     310,
+     39
+    ]
+   ],
+   "label": "search"
+  },
+  {
+   "points": [
+    [
+     156,
+     5
+    ],
+    [
+     209,
+     41
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     54,
+     5
+    ],
+    [
+     144,
+     39
+    ]
+   ],
+   "label": "icon"
+  },
+  {
+   "points": [
+    [
+     8,
+     5
+    ],
+    [
+     42,
+     39
+    ]
+   ],
+   "label": "icon"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "product_description": true
+ }
+}

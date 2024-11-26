@@ -1,0 +1,113 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     8,
+     533
+    ],
+    [
+     355,
+     576
+    ]
+   ],
+   "label": "top_bar"
+  },
+  {
+   "points": [
+    [
+     65,
+     491
+    ],
+    [
+     298,
+     514
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     65,
+     453
+    ],
+    [
+     298,
+     475
+    ]
+   ],
+   "label": "sign_up"
+  },
+  {
+   "points": [
+    [
+     64,
+     414
+    ],
+    [
+     297,
+     435
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     65,
+     374
+    ],
+    [
+     298,
+     398
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     65,
+     336
+    ],
+    [
+     297,
+     360
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     165,
+     313
+    ],
+    [
+     197,
+     316
+    ]
+   ],
+   "label": "navigation_dots"
+  },
+  {
+   "points": [
+    [
+     329,
+     15
+    ],
+    [
+     351,
+     36
+    ]
+   ],
+   "label": "icon"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

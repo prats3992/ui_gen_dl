@@ -1,0 +1,48 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     8,
+     541
+    ],
+    [
+     355,
+     576
+    ]
+   ],
+   "label": "navigation_dots"
+  },
+  {
+   "points": [
+    [
+     121,
+     363
+    ],
+    [
+     242,
+     407
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     130,
+     145
+    ],
+    [
+     235,
+     252
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

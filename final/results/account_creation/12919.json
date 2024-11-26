@@ -1,0 +1,152 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     16,
+     561
+    ],
+    [
+     347,
+     576
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     16,
+     507
+    ],
+    [
+     347,
+     547
+    ]
+   ],
+   "label": "password"
+  },
+  {
+   "points": [
+    [
+     17,
+     454
+    ],
+    [
+     347,
+     494
+    ]
+   ],
+   "label": "password"
+  },
+  {
+   "points": [
+    [
+     15,
+     401
+    ],
+    [
+     347,
+     441
+    ]
+   ],
+   "label": "username"
+  },
+  {
+   "points": [
+    [
+     17,
+     295
+    ],
+    [
+     347,
+     334
+    ]
+   ],
+   "label": "username"
+  },
+  {
+   "points": [
+    [
+     15,
+     240
+    ],
+    [
+     348,
+     281
+    ]
+   ],
+   "label": "username"
+  },
+  {
+   "points": [
+    [
+     17,
+     188
+    ],
+    [
+     346,
+     226
+    ]
+   ],
+   "label": "name"
+  },
+  {
+   "points": [
+    [
+     17,
+     133
+    ],
+    [
+     347,
+     174
+    ]
+   ],
+   "label": "name"
+  },
+  {
+   "points": [
+    [
+     11,
+     11
+    ],
+    [
+     91,
+     43
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     270,
+     10
+    ],
+    [
+     310,
+     34
+    ]
+   ],
+   "label": "sign_up"
+  },
+  {
+   "points": [
+    [
+     327,
+     9
+    ],
+    [
+     354,
+     35
+    ]
+   ],
+   "label": "log_in"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "account_creation": true
+ }
+}

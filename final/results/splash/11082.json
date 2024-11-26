@@ -1,0 +1,61 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     188,
+     538
+    ],
+    [
+     356,
+     576
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     8,
+     538
+    ],
+    [
+     175,
+     576
+    ]
+   ],
+   "label": "log_in"
+  },
+  {
+   "points": [
+    [
+     25,
+     437
+    ],
+    [
+     337,
+     471
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     27,
+     389
+    ],
+    [
+     339,
+     422
+    ]
+   ],
+   "label": "sm_button"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     135,
+     213
+    ],
+    [
+     228,
+     238
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     155,
+     145
+    ],
+    [
+     338,
+     178
+    ]
+   ],
+   "label": "username"
+  },
+  {
+   "points": [
+    [
+     155,
+     103
+    ],
+    [
+     338,
+     136
+    ]
+   ],
+   "label": "edit_string"
+  },
+  {
+   "points": [
+    [
+     8,
+     14
+    ],
+    [
+     66,
+     25
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "login": true
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     16,
+     277
+    ],
+    [
+     348,
+     306
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     17,
+     216
+    ],
+    [
+     347,
+     244
+    ]
+   ],
+   "label": "password"
+  },
+  {
+   "points": [
+    [
+     16,
+     156
+    ],
+    [
+     347,
+     185
+    ]
+   ],
+   "label": "edit_number"
+  },
+  {
+   "points": [
+    [
+     8,
+     5
+    ],
+    [
+     45,
+     45
+    ]
+   ],
+   "label": "icon"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "account_creation": true
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     21,
+     297
+    ],
+    [
+     343,
+     328
+    ]
+   ],
+   "label": "log_in"
+  },
+  {
+   "points": [
+    [
+     8,
+     243
+    ],
+    [
+     355,
+     269
+    ]
+   ],
+   "label": "password"
+  },
+  {
+   "points": [
+    [
+     8,
+     205
+    ],
+    [
+     355,
+     233
+    ]
+   ],
+   "label": "username"
+  },
+  {
+   "points": [
+    [
+     156,
+     116
+    ],
+    [
+     207,
+     172
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "login": true
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     8,
+     540
+    ],
+    [
+     356,
+     576
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     189,
+     498
+    ],
+    [
+     355,
+     531
+    ]
+   ],
+   "label": "sign_up"
+  },
+  {
+   "points": [
+    [
+     8,
+     498
+    ],
+    [
+     176,
+     531
+    ]
+   ],
+   "label": "log_in"
+  },
+  {
+   "points": [
+    [
+     8,
+     475
+    ],
+    [
+     355,
+     489
+    ]
+   ],
+   "label": "navigation_dots"
+  },
+  {
+   "points": [
+    [
+     167,
+     136
+    ],
+    [
+     197,
+     168
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

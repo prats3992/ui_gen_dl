@@ -1,0 +1,48 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     22,
+     547
+    ],
+    [
+     342,
+     559
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     22,
+     494
+    ],
+    [
+     342,
+     524
+    ]
+   ],
+   "label": "log_in"
+  },
+  {
+   "points": [
+    [
+     107,
+     80
+    ],
+    [
+     256,
+     271
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

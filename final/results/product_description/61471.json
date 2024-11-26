@@ -1,0 +1,126 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     86,
+     548
+    ],
+    [
+     123,
+     561
+    ]
+   ],
+   "label": "number"
+  },
+  {
+   "points": [
+    [
+     18,
+     545
+    ],
+    [
+     67,
+     561
+    ]
+   ],
+   "label": "number"
+  },
+  {
+   "points": [
+    [
+     305,
+     519
+    ],
+    [
+     342,
+     559
+    ]
+   ],
+   "label": "card_add"
+  },
+  {
+   "points": [
+    [
+     18,
+     493
+    ],
+    [
+     67,
+     496
+    ]
+   ],
+   "label": "rating"
+  },
+  {
+   "points": [
+    [
+     115,
+     444
+    ],
+    [
+     138,
+     462
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     8,
+     417
+    ],
+    [
+     356,
+     429
+    ]
+   ],
+   "label": "navigation_dots"
+  },
+  {
+   "points": [
+    [
+     319,
+     10
+    ],
+    [
+     349,
+     39
+    ]
+   ],
+   "label": "icon"
+  },
+  {
+   "points": [
+    [
+     277,
+     10
+    ],
+    [
+     307,
+     39
+    ]
+   ],
+   "label": "heart_icon"
+  },
+  {
+   "points": [
+    [
+     8,
+     5
+    ],
+    [
+     45,
+     45
+    ]
+   ],
+   "label": "icon"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "product_description": true
+ }
+}

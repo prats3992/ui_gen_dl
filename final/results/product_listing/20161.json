@@ -1,0 +1,87 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     12,
+     538
+    ],
+    [
+     351,
+     576
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     196,
+     326
+    ],
+    [
+     347,
+     448
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     16,
+     326
+    ],
+    [
+     166,
+     448
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     196,
+     97
+    ],
+    [
+     347,
+     219
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     16,
+     97
+    ],
+    [
+     166,
+     219
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     8,
+     5
+    ],
+    [
+     38,
+     38
+    ]
+   ],
+   "label": "icon"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "product_listing": true
+ }
+}

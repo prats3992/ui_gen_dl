@@ -1,0 +1,139 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     19,
+     572
+    ],
+    [
+     344,
+     576
+    ]
+   ],
+   "label": "number"
+  },
+  {
+   "points": [
+    [
+     8,
+     461
+    ],
+    [
+     356,
+     576
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     171,
+     294
+    ],
+    [
+     356,
+     448
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     8,
+     294
+    ],
+    [
+     156,
+     448
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     207,
+     128
+    ],
+    [
+     356,
+     282
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     8,
+     128
+    ],
+    [
+     192,
+     282
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     160,
+     50
+    ],
+    [
+     221,
+     51
+    ]
+   ],
+   "label": "top_bar"
+  },
+  {
+   "points": [
+    [
+     158,
+     5
+    ],
+    [
+     224,
+     45
+    ]
+   ],
+   "label": "heart_icon"
+  },
+  {
+   "points": [
+    [
+     231,
+     0
+    ],
+    [
+     360,
+     51
+    ]
+   ],
+   "label": "icon"
+  },
+  {
+   "points": [
+    [
+     0,
+     0
+    ],
+    [
+     75,
+     51
+    ]
+   ],
+   "label": "icon"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "product_listing": true
+ }
+}

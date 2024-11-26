@@ -1,0 +1,61 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     43,
+     435
+    ],
+    [
+     321,
+     459
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     43,
+     381
+    ],
+    [
+     321,
+     404
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     100,
+     237
+    ],
+    [
+     263,
+     241
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     100,
+     149
+    ],
+    [
+     263,
+     156
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

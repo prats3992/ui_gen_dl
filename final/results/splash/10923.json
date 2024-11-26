@@ -1,0 +1,61 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     53,
+     492
+    ],
+    [
+     310,
+     525
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     97,
+     309
+    ],
+    [
+     266,
+     317
+    ]
+   ],
+   "label": "text"
+  },
+  {
+   "points": [
+    [
+     80,
+     260
+    ],
+    [
+     284,
+     293
+    ]
+   ],
+   "label": "text"
+  },
+  {
+   "points": [
+    [
+     8,
+     5
+    ],
+    [
+     356,
+     19
+    ]
+   ],
+   "label": "navigation_dots"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

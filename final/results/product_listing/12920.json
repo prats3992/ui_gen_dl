@@ -1,0 +1,61 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     8,
+     532
+    ],
+    [
+     355,
+     576
+    ]
+   ],
+   "label": "bottom_bar"
+  },
+  {
+   "points": [
+    [
+     193,
+     164
+    ],
+    [
+     335,
+     388
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     29,
+     164
+    ],
+    [
+     170,
+     388
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     8,
+     63
+    ],
+    [
+     355,
+     98
+    ]
+   ],
+   "label": "top_bar"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "product_listing": true
+ }
+}

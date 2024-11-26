@@ -1,0 +1,74 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     8,
+     540
+    ],
+    [
+     356,
+     576
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     25,
+     225
+    ],
+    [
+     338,
+     250
+    ]
+   ],
+   "label": "password"
+  },
+  {
+   "points": [
+    [
+     25,
+     182
+    ],
+    [
+     338,
+     207
+    ]
+   ],
+   "label": "edit_number"
+  },
+  {
+   "points": [
+    [
+     190,
+     139
+    ],
+    [
+     338,
+     164
+    ]
+   ],
+   "label": "name"
+  },
+  {
+   "points": [
+    [
+     25,
+     139
+    ],
+    [
+     173,
+     164
+    ]
+   ],
+   "label": "name"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "account_creation": true
+ }
+}

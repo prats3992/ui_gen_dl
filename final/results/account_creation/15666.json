@@ -1,0 +1,152 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     38,
+     497
+    ],
+    [
+     325,
+     502
+    ]
+   ],
+   "label": "log_in"
+  },
+  {
+   "points": [
+    [
+     135,
+     435
+    ],
+    [
+     228,
+     470
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     34,
+     370
+    ],
+    [
+     329,
+     403
+    ]
+   ],
+   "label": "sign_up"
+  },
+  {
+   "points": [
+    [
+     34,
+     339
+    ],
+    [
+     181,
+     348
+    ]
+   ],
+   "label": "privacy"
+  },
+  {
+   "points": [
+    [
+     36,
+     294
+    ],
+    [
+     328,
+     315
+    ]
+   ],
+   "label": "username"
+  },
+  {
+   "points": [
+    [
+     38,
+     250
+    ],
+    [
+     333,
+     267
+    ]
+   ],
+   "label": "edit_string"
+  },
+  {
+   "points": [
+    [
+     36,
+     208
+    ],
+    [
+     328,
+     228
+    ]
+   ],
+   "label": "name"
+  },
+  {
+   "points": [
+    [
+     36,
+     160
+    ],
+    [
+     328,
+     181
+    ]
+   ],
+   "label": "name"
+  },
+  {
+   "points": [
+    [
+     33,
+     116
+    ],
+    [
+     112,
+     138
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     36,
+     81
+    ],
+    [
+     328,
+     101
+    ]
+   ],
+   "label": "password"
+  },
+  {
+   "points": [
+    [
+     36,
+     33
+    ],
+    [
+     328,
+     54
+    ]
+   ],
+   "label": "username"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "account_creation": true
+ }
+}

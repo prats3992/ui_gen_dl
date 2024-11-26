@@ -1,0 +1,22 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     160,
+     149
+    ],
+    [
+     204,
+     196
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

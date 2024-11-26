@@ -1,0 +1,100 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     52,
+     381
+    ],
+    [
+     313,
+     414
+    ]
+   ],
+   "label": "sign_up"
+  },
+  {
+   "points": [
+    [
+     51,
+     319
+    ],
+    [
+     312,
+     352
+    ]
+   ],
+   "label": "password"
+  },
+  {
+   "points": [
+    [
+     51,
+     277
+    ],
+    [
+     312,
+     310
+    ]
+   ],
+   "label": "username"
+  },
+  {
+   "points": [
+    [
+     51,
+     235
+    ],
+    [
+     312,
+     268
+    ]
+   ],
+   "label": "username"
+  },
+  {
+   "points": [
+    [
+     51,
+     127
+    ],
+    [
+     312,
+     160
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     51,
+     74
+    ],
+    [
+     313,
+     108
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     8,
+     5
+    ],
+    [
+     45,
+     45
+    ]
+   ],
+   "label": "icon"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "account_creation": true
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     8,
+     520
+    ],
+    [
+     355,
+     576
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     36,
+     216
+    ],
+    [
+     328,
+     240
+    ]
+   ],
+   "label": "edit_number"
+  },
+  {
+   "points": [
+    [
+     36,
+     167
+    ],
+    [
+     328,
+     192
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     175,
+     89
+    ],
+    [
+     188,
+     130
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "account_creation": true
+ }
+}

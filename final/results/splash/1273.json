@@ -1,0 +1,74 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     29,
+     518
+    ],
+    [
+     335,
+     555
+    ]
+   ],
+   "label": "text"
+  },
+  {
+   "points": [
+    [
+     76,
+     266
+    ],
+    [
+     288,
+     299
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     76,
+     166
+    ],
+    [
+     288,
+     199
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     76,
+     96
+    ],
+    [
+     288,
+     129
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     135,
+     18
+    ],
+    [
+     229,
+     31
+    ]
+   ],
+   "label": "text"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

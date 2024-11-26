@@ -1,0 +1,61 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     108,
+     451
+    ],
+    [
+     255,
+     487
+    ]
+   ],
+   "label": "sign_up"
+  },
+  {
+   "points": [
+    [
+     36,
+     264
+    ],
+    [
+     328,
+     288
+    ]
+   ],
+   "label": "password"
+  },
+  {
+   "points": [
+    [
+     36,
+     221
+    ],
+    [
+     327,
+     245
+    ]
+   ],
+   "label": "username"
+  },
+  {
+   "points": [
+    [
+     8,
+     5
+    ],
+    [
+     356,
+     74
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "account_creation": true
+ }
+}

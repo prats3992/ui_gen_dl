@@ -1,0 +1,61 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     281,
+     337
+    ],
+    [
+     325,
+     355
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     143,
+     288
+    ],
+    [
+     324,
+     308
+    ]
+   ],
+   "label": "edit_string"
+  },
+  {
+   "points": [
+    [
+     141,
+     244
+    ],
+    [
+     323,
+     264
+    ]
+   ],
+   "label": "edit_string"
+  },
+  {
+   "points": [
+    [
+     138,
+     116
+    ],
+    [
+     229,
+     137
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "login": true
+ }
+}

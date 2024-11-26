@@ -1,0 +1,152 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     198,
+     569
+    ],
+    [
+     329,
+     576
+    ]
+   ],
+   "label": "edit_string"
+  },
+  {
+   "points": [
+    [
+     22,
+     561
+    ],
+    [
+     169,
+     576
+    ]
+   ],
+   "label": "edit_number"
+  },
+  {
+   "points": [
+    [
+     22,
+     488
+    ],
+    [
+     341,
+     519
+    ]
+   ],
+   "label": "edit_string"
+  },
+  {
+   "points": [
+    [
+     332,
+     451
+    ],
+    [
+     341,
+     463
+    ]
+   ],
+   "label": "icon"
+  },
+  {
+   "points": [
+    [
+     25,
+     371
+    ],
+    [
+     337,
+     390
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     195,
+     284
+    ],
+    [
+     341,
+     314
+    ]
+   ],
+   "label": "edit_number"
+  },
+  {
+   "points": [
+    [
+     21,
+     284
+    ],
+    [
+     168,
+     314
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     22,
+     211
+    ],
+    [
+     341,
+     242
+    ]
+   ],
+   "label": "name"
+  },
+  {
+   "points": [
+    [
+     22,
+     138
+    ],
+    [
+     341,
+     169
+    ]
+   ],
+   "label": "name"
+  },
+  {
+   "points": [
+    [
+     22,
+     66
+    ],
+    [
+     341,
+     96
+    ]
+   ],
+   "label": "password"
+  },
+  {
+   "points": [
+    [
+     8,
+     5
+    ],
+    [
+     45,
+     45
+    ]
+   ],
+   "label": "icon"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "account_creation": true
+ }
+}

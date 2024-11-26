@@ -1,0 +1,152 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     22,
+     459
+    ],
+    [
+     342,
+     494
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     22,
+     381
+    ],
+    [
+     342,
+     416
+    ]
+   ],
+   "label": "sign_up"
+  },
+  {
+   "points": [
+    [
+     22,
+     336
+    ],
+    [
+     30,
+     347
+    ]
+   ],
+   "label": "check"
+  },
+  {
+   "points": [
+    [
+     22,
+     290
+    ],
+    [
+     30,
+     301
+    ]
+   ],
+   "label": "check"
+  },
+  {
+   "points": [
+    [
+     188,
+     231
+    ],
+    [
+     341,
+     262
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     23,
+     231
+    ],
+    [
+     175,
+     262
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     22,
+     176
+    ],
+    [
+     343,
+     212
+    ]
+   ],
+   "label": "password"
+  },
+  {
+   "points": [
+    [
+     22,
+     133
+    ],
+    [
+     342,
+     167
+    ]
+   ],
+   "label": "username"
+  },
+  {
+   "points": [
+    [
+     8,
+     53
+    ],
+    [
+     355,
+     92
+    ]
+   ],
+   "label": "top_bar"
+  },
+  {
+   "points": [
+    [
+     57,
+     15
+    ],
+    [
+     73,
+     34
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     8,
+     5
+    ],
+    [
+     45,
+     45
+    ]
+   ],
+   "label": "icon"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "account_creation": true
+ }
+}

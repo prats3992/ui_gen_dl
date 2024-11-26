@@ -1,0 +1,48 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     188,
+     540
+    ],
+    [
+     356,
+     576
+    ]
+   ],
+   "label": "icon"
+  },
+  {
+   "points": [
+    [
+     11,
+     33
+    ],
+    [
+     354,
+     64
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     11,
+     0
+    ],
+    [
+     352,
+     24
+    ]
+   ],
+   "label": "number"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "product_description": true
+ }
+}

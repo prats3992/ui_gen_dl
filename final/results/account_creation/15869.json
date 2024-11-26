@@ -1,0 +1,74 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     223,
+     288
+    ],
+    [
+     251,
+     296
+    ]
+   ],
+   "label": "log_in"
+  },
+  {
+   "points": [
+    [
+     22,
+     225
+    ],
+    [
+     342,
+     258
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     22,
+     154
+    ],
+    [
+     342,
+     184
+    ]
+   ],
+   "label": "privacy"
+  },
+  {
+   "points": [
+    [
+     22,
+     93
+    ],
+    [
+     31,
+     105
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     64,
+     89
+    ],
+    [
+     342,
+     110
+    ]
+   ],
+   "label": "username"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "account_creation": true
+ }
+}

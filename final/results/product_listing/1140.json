@@ -1,0 +1,165 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     8,
+     533
+    ],
+    [
+     356,
+     576
+    ]
+   ],
+   "label": "bottom_bar"
+  },
+  {
+   "points": [
+    [
+     189,
+     448
+    ],
+    [
+     352,
+     524
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     11,
+     448
+    ],
+    [
+     174,
+     524
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     233,
+     417
+    ],
+    [
+     255,
+     422
+    ]
+   ],
+   "label": "number"
+  },
+  {
+   "points": [
+    [
+     55,
+     417
+    ],
+    [
+     77,
+     422
+    ]
+   ],
+   "label": "number"
+  },
+  {
+   "points": [
+    [
+     194,
+     415
+    ],
+    [
+     216,
+     423
+    ]
+   ],
+   "label": "number"
+  },
+  {
+   "points": [
+    [
+     16,
+     415
+    ],
+    [
+     38,
+     423
+    ]
+   ],
+   "label": "number"
+  },
+  {
+   "points": [
+    [
+     189,
+     121
+    ],
+    [
+     352,
+     374
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     11,
+     121
+    ],
+    [
+     174,
+     374
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     222,
+     63
+    ],
+    [
+     343,
+     70
+    ]
+   ],
+   "label": "selector"
+  },
+  {
+   "points": [
+    [
+     12,
+     54
+    ],
+    [
+     77,
+     75
+    ]
+   ],
+   "label": "filter"
+  },
+  {
+   "points": [
+    [
+     8,
+     5
+    ],
+    [
+     45,
+     45
+    ]
+   ],
+   "label": "icon"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "product_listing": true
+ }
+}

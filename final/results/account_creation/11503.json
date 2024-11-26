@@ -1,0 +1,48 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     16,
+     415
+    ],
+    [
+     347,
+     450
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     8,
+     358
+    ],
+    [
+     356,
+     397
+    ]
+   ],
+   "label": "name"
+  },
+  {
+   "points": [
+    [
+     122,
+     218
+    ],
+    [
+     241,
+     340
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "account_creation": true
+ }
+}

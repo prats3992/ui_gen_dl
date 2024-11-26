@@ -1,0 +1,48 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     190,
+     402
+    ],
+    [
+     325,
+     529
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     39,
+     401
+    ],
+    [
+     174,
+     529
+    ]
+   ],
+   "label": "image"
+  },
+  {
+   "points": [
+    [
+     81,
+     17
+    ],
+    [
+     282,
+     43
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

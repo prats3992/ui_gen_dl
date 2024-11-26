@@ -1,0 +1,61 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     8,
+     535
+    ],
+    [
+     41,
+     570
+    ]
+   ],
+   "label": "heart_icon"
+  },
+  {
+   "points": [
+    [
+     62,
+     533
+    ],
+    [
+     356,
+     576
+    ]
+   ],
+   "label": "buy"
+  },
+  {
+   "points": [
+    [
+     25,
+     492
+    ],
+    [
+     77,
+     511
+    ]
+   ],
+   "label": "number"
+  },
+  {
+   "points": [
+    [
+     8,
+     5
+    ],
+    [
+     45,
+     45
+    ]
+   ],
+   "label": "icon"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "product_description": true
+ }
+}

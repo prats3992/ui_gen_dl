@@ -1,0 +1,74 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     291,
+     561
+    ],
+    [
+     356,
+     576
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     291,
+     532
+    ],
+    [
+     356,
+     553
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     119,
+     489
+    ],
+    [
+     244,
+     522
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     39,
+     388
+    ],
+    [
+     324,
+     450
+    ]
+   ],
+   "label": "text"
+  },
+  {
+   "points": [
+    [
+     39,
+     298
+    ],
+    [
+     324,
+     355
+    ]
+   ],
+   "label": "text"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

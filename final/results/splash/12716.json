@@ -1,0 +1,48 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     8,
+     532
+    ],
+    [
+     355,
+     576
+    ]
+   ],
+   "label": "bottom_bar"
+  },
+  {
+   "points": [
+    [
+     82,
+     337
+    ],
+    [
+     281,
+     373
+    ]
+   ],
+   "label": "button"
+  },
+  {
+   "points": [
+    [
+     34,
+     134
+    ],
+    [
+     329,
+     293
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}

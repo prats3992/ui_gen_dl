@@ -1,0 +1,74 @@
+{
+ "shapes": [
+  {
+   "points": [
+    [
+     34,
+     397
+    ],
+    [
+     329,
+     427
+    ]
+   ],
+   "label": "username"
+  },
+  {
+   "points": [
+    [
+     248,
+     309
+    ],
+    [
+     338,
+     337
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     136,
+     309
+    ],
+    [
+     227,
+     337
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     25,
+     305
+    ],
+    [
+     116,
+     338
+    ]
+   ],
+   "label": "sm_button"
+  },
+  {
+   "points": [
+    [
+     116,
+     92
+    ],
+    [
+     247,
+     185
+    ]
+   ],
+   "label": "image"
+  }
+ ],
+ "imageHeight": 567,
+ "imageWidth": 360,
+ "flags": {
+  "splash": true
+ }
+}
