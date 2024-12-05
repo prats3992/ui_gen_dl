@@ -1,8 +1,8 @@
 import numpy as np
 import tensorflow as tf
 
-from attention import SelfAttnModel
-from spectral import SpectralConv2D, SpectralConv2DTranspose
+from .attention import SelfAttnModel
+from .spectral import SpectralConv2D, SpectralConv2DTranspose
 
 
 class SelfAttnWrapper(tf.keras.layers.Layer):

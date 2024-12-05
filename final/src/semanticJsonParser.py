@@ -6,8 +6,8 @@ import sys
 import cv2
 import numpy as np
 
-from colorMapper import ColorMapper
-from uiLabelFileManager import UILabelFileManager
+from .colorMapper import ColorMapper
+from .uiLabelFileManager import UILabelFileManager
 
 foo_dir = os.path.dirname(os.path.join(os.getcwd(), __file__))
 sys.path.append(os.path.normpath(os.path.join(foo_dir, "..", "..")))

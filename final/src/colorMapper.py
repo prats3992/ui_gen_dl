@@ -6,7 +6,7 @@ import cv2
 import os
 import sys
 
-from uiLabelFileManager import UILabelFileManager
+from .uiLabelFileManager import UILabelFileManager
 
 foo_dir = os.path.dirname(os.path.join(os.getcwd(), __file__))
 sys.path.append(os.path.normpath(os.path.join(foo_dir, "..", "..")))

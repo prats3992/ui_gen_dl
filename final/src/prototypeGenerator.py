@@ -6,8 +6,8 @@ import cv2
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
-from semanticJsonParser import SemanticJsonParser
-from uiLabelFileManager import UILabelFileManager
+from .semanticJsonParser import SemanticJsonParser
+from .uiLabelFileManager import UILabelFileManager
 
 
 def load_all_ui_images():

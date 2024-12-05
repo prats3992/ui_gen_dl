@@ -10,7 +10,7 @@ import numpy as np
 from scipy import spatial
 from scipy import stats
 
-from colorMapper import ColorMapper
+from .colorMapper import ColorMapper
 
 
 def sub_threshold(img, st, erode_flag=False, unsharp_flag=False):
